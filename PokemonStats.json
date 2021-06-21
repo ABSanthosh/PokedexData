@@ -1,0 +1,7186 @@
+{
+    "0001": {
+        "HP": 45,
+        "Attack": 49,
+        "Defense": 49,
+        "Sp. Attack": 65,
+        "Sp. Defense": 65,
+        "Speed": 45
+    },
+    "0002": {
+        "HP": 60,
+        "Attack": 62,
+        "Defense": 63,
+        "Sp. Attack": 80,
+        "Sp. Defense": 80,
+        "Speed": 60
+    },
+    "0003": {
+        "HP": 80,
+        "Attack": 82,
+        "Defense": 83,
+        "Sp. Attack": 100,
+        "Sp. Defense": 100,
+        "Speed": 80
+    },
+    "0004": {
+        "HP": 39,
+        "Attack": 52,
+        "Defense": 43,
+        "Sp. Attack": 60,
+        "Sp. Defense": 50,
+        "Speed": 65
+    },
+    "0005": {
+        "HP": 58,
+        "Attack": 64,
+        "Defense": 58,
+        "Sp. Attack": 80,
+        "Sp. Defense": 65,
+        "Speed": 80
+    },
+    "0006": {
+        "HP": 78,
+        "Attack": 84,
+        "Defense": 78,
+        "Sp. Attack": 109,
+        "Sp. Defense": 85,
+        "Speed": 100
+    },
+    "0007": {
+        "HP": 44,
+        "Attack": 48,
+        "Defense": 65,
+        "Sp. Attack": 50,
+        "Sp. Defense": 64,
+        "Speed": 43
+    },
+    "0008": {
+        "HP": 59,
+        "Attack": 63,
+        "Defense": 80,
+        "Sp. Attack": 65,
+        "Sp. Defense": 80,
+        "Speed": 58
+    },
+    "0009": {
+        "HP": 79,
+        "Attack": 83,
+        "Defense": 100,
+        "Sp. Attack": 85,
+        "Sp. Defense": 105,
+        "Speed": 78
+    },
+    "0010": {
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 35,
+        "Sp. Attack": 20,
+        "Sp. Defense": 20,
+        "Speed": 45
+    },
+    "0011": {
+        "HP": 50,
+        "Attack": 20,
+        "Defense": 55,
+        "Sp. Attack": 25,
+        "Sp. Defense": 25,
+        "Speed": 30
+    },
+    "0012": {
+        "HP": 60,
+        "Attack": 45,
+        "Defense": 50,
+        "Sp. Attack": 90,
+        "Sp. Defense": 80,
+        "Speed": 70
+    },
+    "0013": {
+        "HP": 40,
+        "Attack": 35,
+        "Defense": 30,
+        "Sp. Attack": 20,
+        "Sp. Defense": 20,
+        "Speed": 50
+    },
+    "0014": {
+        "HP": 45,
+        "Attack": 25,
+        "Defense": 50,
+        "Sp. Attack": 25,
+        "Sp. Defense": 25,
+        "Speed": 35
+    },
+    "0015": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 40,
+        "Sp. Attack": 45,
+        "Sp. Defense": 80,
+        "Speed": 75
+    },
+    "0016": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 40,
+        "Sp. Attack": 35,
+        "Sp. Defense": 35,
+        "Speed": 56
+    },
+    "0017": {
+        "HP": 63,
+        "Attack": 60,
+        "Defense": 55,
+        "Sp. Attack": 50,
+        "Sp. Defense": 50,
+        "Speed": 71
+    },
+    "0018": {
+        "HP": 83,
+        "Attack": 80,
+        "Defense": 75,
+        "Sp. Attack": 70,
+        "Sp. Defense": 70,
+        "Speed": 101
+    },
+    "0019": {
+        "HP": 30,
+        "Attack": 56,
+        "Defense": 35,
+        "Sp. Attack": 25,
+        "Sp. Defense": 35,
+        "Speed": 72
+    },
+    "0020": {
+        "HP": 55,
+        "Attack": 81,
+        "Defense": 60,
+        "Sp. Attack": 50,
+        "Sp. Defense": 70,
+        "Speed": 97
+    },
+    "0021": {
+        "HP": 40,
+        "Attack": 60,
+        "Defense": 30,
+        "Sp. Attack": 31,
+        "Sp. Defense": 31,
+        "Speed": 70
+    },
+    "0022": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 65,
+        "Sp. Attack": 61,
+        "Sp. Defense": 61,
+        "Speed": 100
+    },
+    "0023": {
+        "HP": 35,
+        "Attack": 60,
+        "Defense": 44,
+        "Sp. Attack": 40,
+        "Sp. Defense": 54,
+        "Speed": 55
+    },
+    "0024": {
+        "HP": 60,
+        "Attack": 95,
+        "Defense": 69,
+        "Sp. Attack": 65,
+        "Sp. Defense": 79,
+        "Speed": 80
+    },
+    "0025": {
+        "HP": 35,
+        "Attack": 55,
+        "Defense": 40,
+        "Sp. Attack": 50,
+        "Sp. Defense": 50,
+        "Speed": 90
+    },
+    "0026": {
+        "HP": 60,
+        "Attack": 90,
+        "Defense": 55,
+        "Sp. Attack": 90,
+        "Sp. Defense": 80,
+        "Speed": 110
+    },
+    "0027": {
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 85,
+        "Sp. Attack": 20,
+        "Sp. Defense": 30,
+        "Speed": 40
+    },
+    "0028": {
+        "HP": 75,
+        "Attack": 100,
+        "Defense": 110,
+        "Sp. Attack": 45,
+        "Sp. Defense": 55,
+        "Speed": 65
+    },
+    "0029": {
+        "HP": 55,
+        "Attack": 47,
+        "Defense": 52,
+        "Sp. Attack": 40,
+        "Sp. Defense": 40,
+        "Speed": 41
+    },
+    "0030": {
+        "HP": 70,
+        "Attack": 62,
+        "Defense": 67,
+        "Sp. Attack": 55,
+        "Sp. Defense": 55,
+        "Speed": 56
+    },
+    "0031": {
+        "HP": 90,
+        "Attack": 92,
+        "Defense": 87,
+        "Sp. Attack": 75,
+        "Sp. Defense": 85,
+        "Speed": 76
+    },
+    "0032": {
+        "HP": 46,
+        "Attack": 57,
+        "Defense": 40,
+        "Sp. Attack": 40,
+        "Sp. Defense": 40,
+        "Speed": 50
+    },
+    "0033": {
+        "HP": 61,
+        "Attack": 72,
+        "Defense": 57,
+        "Sp. Attack": 55,
+        "Sp. Defense": 55,
+        "Speed": 65
+    },
+    "0034": {
+        "HP": 81,
+        "Attack": 102,
+        "Defense": 77,
+        "Sp. Attack": 85,
+        "Sp. Defense": 75,
+        "Speed": 85
+    },
+    "0035": {
+        "HP": 70,
+        "Attack": 45,
+        "Defense": 48,
+        "Sp. Attack": 60,
+        "Sp. Defense": 65,
+        "Speed": 35
+    },
+    "0036": {
+        "HP": 95,
+        "Attack": 70,
+        "Defense": 73,
+        "Sp. Attack": 95,
+        "Sp. Defense": 90,
+        "Speed": 60
+    },
+    "0037": {
+        "HP": 38,
+        "Attack": 41,
+        "Defense": 40,
+        "Sp. Attack": 50,
+        "Sp. Defense": 65,
+        "Speed": 65
+    },
+    "0038": {
+        "HP": 73,
+        "Attack": 76,
+        "Defense": 75,
+        "Sp. Attack": 81,
+        "Sp. Defense": 100,
+        "Speed": 100
+    },
+    "0039": {
+        "HP": 115,
+        "Attack": 45,
+        "Defense": 20,
+        "Sp. Attack": 45,
+        "Sp. Defense": 25,
+        "Speed": 20
+    },
+    "0040": {
+        "HP": 140,
+        "Attack": 70,
+        "Defense": 45,
+        "Sp. Attack": 85,
+        "Sp. Defense": 50,
+        "Speed": 45
+    },
+    "0041": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 35,
+        "Sp. Attack": 30,
+        "Sp. Defense": 40,
+        "Speed": 55
+    },
+    "0042": {
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 70,
+        "Sp. Attack": 65,
+        "Sp. Defense": 75,
+        "Speed": 90
+    },
+    "0043": {
+        "HP": 45,
+        "Attack": 50,
+        "Defense": 55,
+        "Sp. Attack": 75,
+        "Sp. Defense": 65,
+        "Speed": 30
+    },
+    "0044": {
+        "HP": 60,
+        "Attack": 65,
+        "Defense": 70,
+        "Sp. Attack": 85,
+        "Sp. Defense": 75,
+        "Speed": 40
+    },
+    "0045": {
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 85,
+        "Sp. Attack": 110,
+        "Sp. Defense": 90,
+        "Speed": 50
+    },
+    "0046": {
+        "HP": 35,
+        "Attack": 70,
+        "Defense": 55,
+        "Sp. Attack": 45,
+        "Sp. Defense": 55,
+        "Speed": 25
+    },
+    "0047": {
+        "HP": 60,
+        "Attack": 95,
+        "Defense": 80,
+        "Sp. Attack": 60,
+        "Sp. Defense": 80,
+        "Speed": 30
+    },
+    "0048": {
+        "HP": 60,
+        "Attack": 55,
+        "Defense": 50,
+        "Sp. Attack": 40,
+        "Sp. Defense": 55,
+        "Speed": 45
+    },
+    "0049": {
+        "HP": 70,
+        "Attack": 65,
+        "Defense": 60,
+        "Sp. Attack": 90,
+        "Sp. Defense": 75,
+        "Speed": 90
+    },
+    "0050": {
+        "HP": 10,
+        "Attack": 55,
+        "Defense": 25,
+        "Sp. Attack": 35,
+        "Sp. Defense": 45,
+        "Speed": 95
+    },
+    "0051": {
+        "HP": 35,
+        "Attack": 100,
+        "Defense": 50,
+        "Sp. Attack": 50,
+        "Sp. Defense": 70,
+        "Speed": 120
+    },
+    "0052": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 35,
+        "Sp. Attack": 40,
+        "Sp. Defense": 40,
+        "Speed": 90
+    },
+    "0053": {
+        "HP": 65,
+        "Attack": 70,
+        "Defense": 60,
+        "Sp. Attack": 65,
+        "Sp. Defense": 65,
+        "Speed": 115
+    },
+    "0054": {
+        "HP": 50,
+        "Attack": 52,
+        "Defense": 48,
+        "Sp. Attack": 65,
+        "Sp. Defense": 50,
+        "Speed": 55
+    },
+    "0055": {
+        "HP": 80,
+        "Attack": 82,
+        "Defense": 78,
+        "Sp. Attack": 95,
+        "Sp. Defense": 80,
+        "Speed": 85
+    },
+    "0056": {
+        "HP": 40,
+        "Attack": 80,
+        "Defense": 35,
+        "Sp. Attack": 35,
+        "Sp. Defense": 45,
+        "Speed": 70
+    },
+    "0057": {
+        "HP": 65,
+        "Attack": 105,
+        "Defense": 60,
+        "Sp. Attack": 60,
+        "Sp. Defense": 70,
+        "Speed": 95
+    },
+    "0058": {
+        "HP": 55,
+        "Attack": 70,
+        "Defense": 45,
+        "Sp. Attack": 70,
+        "Sp. Defense": 50,
+        "Speed": 60
+    },
+    "0059": {
+        "HP": 90,
+        "Attack": 110,
+        "Defense": 80,
+        "Sp. Attack": 100,
+        "Sp. Defense": 80,
+        "Speed": 95
+    },
+    "0060": {
+        "HP": 40,
+        "Attack": 50,
+        "Defense": 40,
+        "Sp. Attack": 40,
+        "Sp. Defense": 40,
+        "Speed": 90
+    },
+    "0061": {
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 65,
+        "Sp. Attack": 50,
+        "Sp. Defense": 50,
+        "Speed": 90
+    },
+    "0062": {
+        "HP": 90,
+        "Attack": 95,
+        "Defense": 95,
+        "Sp. Attack": 70,
+        "Sp. Defense": 90,
+        "Speed": 70
+    },
+    "0063": {
+        "HP": 25,
+        "Attack": 20,
+        "Defense": 15,
+        "Sp. Attack": 105,
+        "Sp. Defense": 55,
+        "Speed": 90
+    },
+    "0064": {
+        "HP": 40,
+        "Attack": 35,
+        "Defense": 30,
+        "Sp. Attack": 120,
+        "Sp. Defense": 70,
+        "Speed": 105
+    },
+    "0065": {
+        "HP": 55,
+        "Attack": 50,
+        "Defense": 45,
+        "Sp. Attack": 135,
+        "Sp. Defense": 95,
+        "Speed": 120
+    },
+    "0066": {
+        "HP": 70,
+        "Attack": 80,
+        "Defense": 50,
+        "Sp. Attack": 35,
+        "Sp. Defense": 35,
+        "Speed": 35
+    },
+    "0067": {
+        "HP": 80,
+        "Attack": 100,
+        "Defense": 70,
+        "Sp. Attack": 50,
+        "Sp. Defense": 60,
+        "Speed": 45
+    },
+    "0068": {
+        "HP": 90,
+        "Attack": 130,
+        "Defense": 80,
+        "Sp. Attack": 65,
+        "Sp. Defense": 85,
+        "Speed": 55
+    },
+    "0069": {
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 35,
+        "Sp. Attack": 70,
+        "Sp. Defense": 30,
+        "Speed": 40
+    },
+    "0070": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 50,
+        "Sp. Attack": 85,
+        "Sp. Defense": 45,
+        "Speed": 55
+    },
+    "0071": {
+        "HP": 80,
+        "Attack": 105,
+        "Defense": 65,
+        "Sp. Attack": 100,
+        "Sp. Defense": 70,
+        "Speed": 70
+    },
+    "0072": {
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 35,
+        "Sp. Attack": 50,
+        "Sp. Defense": 100,
+        "Speed": 70
+    },
+    "0073": {
+        "HP": 80,
+        "Attack": 70,
+        "Defense": 65,
+        "Sp. Attack": 80,
+        "Sp. Defense": 120,
+        "Speed": 100
+    },
+    "0074": {
+        "HP": 40,
+        "Attack": 80,
+        "Defense": 100,
+        "Sp. Attack": 30,
+        "Sp. Defense": 30,
+        "Speed": 20
+    },
+    "0075": {
+        "HP": 55,
+        "Attack": 95,
+        "Defense": 115,
+        "Sp. Attack": 45,
+        "Sp. Defense": 45,
+        "Speed": 35
+    },
+    "0076": {
+        "HP": 80,
+        "Attack": 120,
+        "Defense": 130,
+        "Sp. Attack": 55,
+        "Sp. Defense": 65,
+        "Speed": 45
+    },
+    "0077": {
+        "HP": 50,
+        "Attack": 85,
+        "Defense": 55,
+        "Sp. Attack": 65,
+        "Sp. Defense": 65,
+        "Speed": 90
+    },
+    "0078": {
+        "HP": 65,
+        "Attack": 100,
+        "Defense": 70,
+        "Sp. Attack": 80,
+        "Sp. Defense": 80,
+        "Speed": 105
+    },
+    "0079": {
+        "HP": 90,
+        "Attack": 65,
+        "Defense": 65,
+        "Sp. Attack": 40,
+        "Sp. Defense": 40,
+        "Speed": 15
+    },
+    "0080": {
+        "HP": 95,
+        "Attack": 75,
+        "Defense": 110,
+        "Sp. Attack": 100,
+        "Sp. Defense": 80,
+        "Speed": 30
+    },
+    "0081": {
+        "HP": 25,
+        "Attack": 35,
+        "Defense": 70,
+        "Sp. Attack": 95,
+        "Sp. Defense": 55,
+        "Speed": 45
+    },
+    "0082": {
+        "HP": 50,
+        "Attack": 60,
+        "Defense": 95,
+        "Sp. Attack": 120,
+        "Sp. Defense": 70,
+        "Speed": 70
+    },
+    "0083": {
+        "HP": 52,
+        "Attack": 90,
+        "Defense": 55,
+        "Sp. Attack": 58,
+        "Sp. Defense": 62,
+        "Speed": 60
+    },
+    "0084": {
+        "HP": 35,
+        "Attack": 85,
+        "Defense": 45,
+        "Sp. Attack": 35,
+        "Sp. Defense": 35,
+        "Speed": 75
+    },
+    "0085": {
+        "HP": 60,
+        "Attack": 110,
+        "Defense": 70,
+        "Sp. Attack": 60,
+        "Sp. Defense": 60,
+        "Speed": 110
+    },
+    "0086": {
+        "HP": 65,
+        "Attack": 45,
+        "Defense": 55,
+        "Sp. Attack": 45,
+        "Sp. Defense": 70,
+        "Speed": 45
+    },
+    "0087": {
+        "HP": 90,
+        "Attack": 70,
+        "Defense": 80,
+        "Sp. Attack": 70,
+        "Sp. Defense": 95,
+        "Speed": 70
+    },
+    "0088": {
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 50,
+        "Sp. Attack": 40,
+        "Sp. Defense": 50,
+        "Speed": 25
+    },
+    "0089": {
+        "HP": 105,
+        "Attack": 105,
+        "Defense": 75,
+        "Sp. Attack": 65,
+        "Sp. Defense": 100,
+        "Speed": 50
+    },
+    "0090": {
+        "HP": 30,
+        "Attack": 65,
+        "Defense": 100,
+        "Sp. Attack": 45,
+        "Sp. Defense": 25,
+        "Speed": 40
+    },
+    "0091": {
+        "HP": 50,
+        "Attack": 95,
+        "Defense": 180,
+        "Sp. Attack": 85,
+        "Sp. Defense": 45,
+        "Speed": 70
+    },
+    "0092": {
+        "HP": 30,
+        "Attack": 35,
+        "Defense": 30,
+        "Sp. Attack": 100,
+        "Sp. Defense": 35,
+        "Speed": 80
+    },
+    "0093": {
+        "HP": 45,
+        "Attack": 50,
+        "Defense": 45,
+        "Sp. Attack": 115,
+        "Sp. Defense": 55,
+        "Speed": 95
+    },
+    "0094": {
+        "HP": 60,
+        "Attack": 65,
+        "Defense": 60,
+        "Sp. Attack": 130,
+        "Sp. Defense": 75,
+        "Speed": 110
+    },
+    "0095": {
+        "HP": 35,
+        "Attack": 45,
+        "Defense": 160,
+        "Sp. Attack": 30,
+        "Sp. Defense": 45,
+        "Speed": 70
+    },
+    "0096": {
+        "HP": 60,
+        "Attack": 48,
+        "Defense": 45,
+        "Sp. Attack": 43,
+        "Sp. Defense": 90,
+        "Speed": 42
+    },
+    "0097": {
+        "HP": 85,
+        "Attack": 73,
+        "Defense": 70,
+        "Sp. Attack": 73,
+        "Sp. Defense": 115,
+        "Speed": 67
+    },
+    "0098": {
+        "HP": 30,
+        "Attack": 105,
+        "Defense": 90,
+        "Sp. Attack": 25,
+        "Sp. Defense": 25,
+        "Speed": 50
+    },
+    "0099": {
+        "HP": 55,
+        "Attack": 130,
+        "Defense": 115,
+        "Sp. Attack": 50,
+        "Sp. Defense": 50,
+        "Speed": 75
+    },
+    "0100": {
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 50,
+        "Sp. Attack": 55,
+        "Sp. Defense": 55,
+        "Speed": 100
+    },
+    "0101": {
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 70,
+        "Sp. Attack": 80,
+        "Sp. Defense": 80,
+        "Speed": 150
+    },
+    "0102": {
+        "HP": 60,
+        "Attack": 40,
+        "Defense": 80,
+        "Sp. Attack": 60,
+        "Sp. Defense": 45,
+        "Speed": 40
+    },
+    "0103": {
+        "HP": 95,
+        "Attack": 95,
+        "Defense": 85,
+        "Sp. Attack": 125,
+        "Sp. Defense": 75,
+        "Speed": 55
+    },
+    "0104": {
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 95,
+        "Sp. Attack": 40,
+        "Sp. Defense": 50,
+        "Speed": 35
+    },
+    "0105": {
+        "HP": 60,
+        "Attack": 80,
+        "Defense": 110,
+        "Sp. Attack": 50,
+        "Sp. Defense": 80,
+        "Speed": 45
+    },
+    "0106": {
+        "HP": 50,
+        "Attack": 120,
+        "Defense": 53,
+        "Sp. Attack": 35,
+        "Sp. Defense": 110,
+        "Speed": 87
+    },
+    "0107": {
+        "HP": 50,
+        "Attack": 105,
+        "Defense": 79,
+        "Sp. Attack": 35,
+        "Sp. Defense": 110,
+        "Speed": 76
+    },
+    "0108": {
+        "HP": 90,
+        "Attack": 55,
+        "Defense": 75,
+        "Sp. Attack": 60,
+        "Sp. Defense": 75,
+        "Speed": 30
+    },
+    "0109": {
+        "HP": 40,
+        "Attack": 65,
+        "Defense": 95,
+        "Sp. Attack": 60,
+        "Sp. Defense": 45,
+        "Speed": 35
+    },
+    "0110": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 120,
+        "Sp. Attack": 85,
+        "Sp. Defense": 70,
+        "Speed": 60
+    },
+    "0111": {
+        "HP": 80,
+        "Attack": 85,
+        "Defense": 95,
+        "Sp. Attack": 30,
+        "Sp. Defense": 30,
+        "Speed": 25
+    },
+    "0112": {
+        "HP": 105,
+        "Attack": 130,
+        "Defense": 120,
+        "Sp. Attack": 45,
+        "Sp. Defense": 45,
+        "Speed": 40
+    },
+    "0113": {
+        "HP": 250,
+        "Attack": 5,
+        "Defense": 5,
+        "Sp. Attack": 35,
+        "Sp. Defense": 105,
+        "Speed": 50
+    },
+    "0114": {
+        "HP": 65,
+        "Attack": 55,
+        "Defense": 115,
+        "Sp. Attack": 100,
+        "Sp. Defense": 40,
+        "Speed": 60
+    },
+    "0115": {
+        "HP": 105,
+        "Attack": 95,
+        "Defense": 80,
+        "Sp. Attack": 40,
+        "Sp. Defense": 80,
+        "Speed": 90
+    },
+    "0116": {
+        "HP": 30,
+        "Attack": 40,
+        "Defense": 70,
+        "Sp. Attack": 70,
+        "Sp. Defense": 25,
+        "Speed": 60
+    },
+    "0117": {
+        "HP": 55,
+        "Attack": 65,
+        "Defense": 95,
+        "Sp. Attack": 95,
+        "Sp. Defense": 45,
+        "Speed": 85
+    },
+    "0118": {
+        "HP": 45,
+        "Attack": 67,
+        "Defense": 60,
+        "Sp. Attack": 35,
+        "Sp. Defense": 50,
+        "Speed": 63
+    },
+    "0119": {
+        "HP": 80,
+        "Attack": 92,
+        "Defense": 65,
+        "Sp. Attack": 65,
+        "Sp. Defense": 80,
+        "Speed": 68
+    },
+    "0120": {
+        "HP": 30,
+        "Attack": 45,
+        "Defense": 55,
+        "Sp. Attack": 70,
+        "Sp. Defense": 55,
+        "Speed": 85
+    },
+    "0121": {
+        "HP": 60,
+        "Attack": 75,
+        "Defense": 85,
+        "Sp. Attack": 100,
+        "Sp. Defense": 85,
+        "Speed": 115
+    },
+    "0122": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 65,
+        "Sp. Attack": 100,
+        "Sp. Defense": 120,
+        "Speed": 90
+    },
+    "0123": {
+        "HP": 70,
+        "Attack": 110,
+        "Defense": 80,
+        "Sp. Attack": 55,
+        "Sp. Defense": 80,
+        "Speed": 105
+    },
+    "0124": {
+        "HP": 65,
+        "Attack": 50,
+        "Defense": 35,
+        "Sp. Attack": 115,
+        "Sp. Defense": 95,
+        "Speed": 95
+    },
+    "0125": {
+        "HP": 65,
+        "Attack": 83,
+        "Defense": 57,
+        "Sp. Attack": 95,
+        "Sp. Defense": 85,
+        "Speed": 105
+    },
+    "0126": {
+        "HP": 65,
+        "Attack": 95,
+        "Defense": 57,
+        "Sp. Attack": 100,
+        "Sp. Defense": 85,
+        "Speed": 93
+    },
+    "0127": {
+        "HP": 65,
+        "Attack": 125,
+        "Defense": 100,
+        "Sp. Attack": 55,
+        "Sp. Defense": 70,
+        "Speed": 85
+    },
+    "0128": {
+        "HP": 75,
+        "Attack": 100,
+        "Defense": 95,
+        "Sp. Attack": 40,
+        "Sp. Defense": 70,
+        "Speed": 110
+    },
+    "0129": {
+        "HP": 20,
+        "Attack": 10,
+        "Defense": 55,
+        "Sp. Attack": 15,
+        "Sp. Defense": 20,
+        "Speed": 80
+    },
+    "0130": {
+        "HP": 95,
+        "Attack": 125,
+        "Defense": 79,
+        "Sp. Attack": 60,
+        "Sp. Defense": 100,
+        "Speed": 81
+    },
+    "0131": {
+        "HP": 130,
+        "Attack": 85,
+        "Defense": 80,
+        "Sp. Attack": 85,
+        "Sp. Defense": 95,
+        "Speed": 60
+    },
+    "0132": {
+        "HP": 48,
+        "Attack": 48,
+        "Defense": 48,
+        "Sp. Attack": 48,
+        "Sp. Defense": 48,
+        "Speed": 48
+    },
+    "0133": {
+        "HP": 55,
+        "Attack": 55,
+        "Defense": 50,
+        "Sp. Attack": 45,
+        "Sp. Defense": 65,
+        "Speed": 55
+    },
+    "0134": {
+        "HP": 130,
+        "Attack": 65,
+        "Defense": 60,
+        "Sp. Attack": 110,
+        "Sp. Defense": 95,
+        "Speed": 65
+    },
+    "0135": {
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 60,
+        "Sp. Attack": 110,
+        "Sp. Defense": 95,
+        "Speed": 130
+    },
+    "0136": {
+        "HP": 65,
+        "Attack": 130,
+        "Defense": 60,
+        "Sp. Attack": 95,
+        "Sp. Defense": 110,
+        "Speed": 65
+    },
+    "0137": {
+        "HP": 65,
+        "Attack": 60,
+        "Defense": 70,
+        "Sp. Attack": 85,
+        "Sp. Defense": 75,
+        "Speed": 40
+    },
+    "0138": {
+        "HP": 35,
+        "Attack": 40,
+        "Defense": 100,
+        "Sp. Attack": 90,
+        "Sp. Defense": 55,
+        "Speed": 35
+    },
+    "0139": {
+        "HP": 70,
+        "Attack": 60,
+        "Defense": 125,
+        "Sp. Attack": 115,
+        "Sp. Defense": 70,
+        "Speed": 55
+    },
+    "0140": {
+        "HP": 30,
+        "Attack": 80,
+        "Defense": 90,
+        "Sp. Attack": 55,
+        "Sp. Defense": 45,
+        "Speed": 55
+    },
+    "0141": {
+        "HP": 60,
+        "Attack": 115,
+        "Defense": 105,
+        "Sp. Attack": 65,
+        "Sp. Defense": 70,
+        "Speed": 80
+    },
+    "0142": {
+        "HP": 80,
+        "Attack": 105,
+        "Defense": 65,
+        "Sp. Attack": 60,
+        "Sp. Defense": 75,
+        "Speed": 130
+    },
+    "0143": {
+        "HP": 160,
+        "Attack": 110,
+        "Defense": 65,
+        "Sp. Attack": 65,
+        "Sp. Defense": 110,
+        "Speed": 30
+    },
+    "0144": {
+        "HP": 90,
+        "Attack": 85,
+        "Defense": 100,
+        "Sp. Attack": 95,
+        "Sp. Defense": 125,
+        "Speed": 85
+    },
+    "0145": {
+        "HP": 90,
+        "Attack": 90,
+        "Defense": 85,
+        "Sp. Attack": 125,
+        "Sp. Defense": 90,
+        "Speed": 100
+    },
+    "0146": {
+        "HP": 90,
+        "Attack": 100,
+        "Defense": 90,
+        "Sp. Attack": 125,
+        "Sp. Defense": 85,
+        "Speed": 90
+    },
+    "0147": {
+        "HP": 41,
+        "Attack": 64,
+        "Defense": 45,
+        "Sp. Attack": 50,
+        "Sp. Defense": 50,
+        "Speed": 50
+    },
+    "0148": {
+        "HP": 61,
+        "Attack": 84,
+        "Defense": 65,
+        "Sp. Attack": 70,
+        "Sp. Defense": 70,
+        "Speed": 70
+    },
+    "0149": {
+        "HP": 91,
+        "Attack": 134,
+        "Defense": 95,
+        "Sp. Attack": 100,
+        "Sp. Defense": 100,
+        "Speed": 80
+    },
+    "0150": {
+        "HP": 106,
+        "Attack": 110,
+        "Defense": 90,
+        "Sp. Attack": 154,
+        "Sp. Defense": 90,
+        "Speed": 130
+    },
+    "0151": {
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 100,
+        "Sp. Attack": 100,
+        "Sp. Defense": 100,
+        "Speed": 100
+    },
+    "0152": {
+        "HP": 45,
+        "Attack": 49,
+        "Defense": 65,
+        "Sp. Attack": 49,
+        "Sp. Defense": 65,
+        "Speed": 45
+    },
+    "0153": {
+        "HP": 60,
+        "Attack": 62,
+        "Defense": 80,
+        "Sp. Attack": 63,
+        "Sp. Defense": 80,
+        "Speed": 60
+    },
+    "0154": {
+        "HP": 80,
+        "Attack": 82,
+        "Defense": 100,
+        "Sp. Attack": 83,
+        "Sp. Defense": 100,
+        "Speed": 80
+    },
+    "0155": {
+        "HP": 39,
+        "Attack": 52,
+        "Defense": 43,
+        "Sp. Attack": 60,
+        "Sp. Defense": 50,
+        "Speed": 65
+    },
+    "0156": {
+        "HP": 58,
+        "Attack": 64,
+        "Defense": 58,
+        "Sp. Attack": 80,
+        "Sp. Defense": 65,
+        "Speed": 80
+    },
+    "0157": {
+        "HP": 78,
+        "Attack": 84,
+        "Defense": 78,
+        "Sp. Attack": 109,
+        "Sp. Defense": 85,
+        "Speed": 100
+    },
+    "0158": {
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 64,
+        "Sp. Attack": 44,
+        "Sp. Defense": 48,
+        "Speed": 43
+    },
+    "0159": {
+        "HP": 65,
+        "Attack": 80,
+        "Defense": 80,
+        "Sp. Attack": 59,
+        "Sp. Defense": 63,
+        "Speed": 58
+    },
+    "0160": {
+        "HP": 85,
+        "Attack": 105,
+        "Defense": 100,
+        "Sp. Attack": 79,
+        "Sp. Defense": 83,
+        "Speed": 78
+    },
+    "0161": {
+        "HP": 35,
+        "Attack": 46,
+        "Defense": 34,
+        "Sp. Attack": 35,
+        "Sp. Defense": 45,
+        "Speed": 20
+    },
+    "0162": {
+        "HP": 85,
+        "Attack": 76,
+        "Defense": 64,
+        "Sp. Attack": 45,
+        "Sp. Defense": 55,
+        "Speed": 90
+    },
+    "0163": {
+        "HP": 60,
+        "Attack": 30,
+        "Defense": 30,
+        "Sp. Attack": 36,
+        "Sp. Defense": 56,
+        "Speed": 50
+    },
+    "0164": {
+        "HP": 100,
+        "Attack": 50,
+        "Defense": 50,
+        "Sp. Attack": 86,
+        "Sp. Defense": 96,
+        "Speed": 70
+    },
+    "0165": {
+        "HP": 40,
+        "Attack": 20,
+        "Defense": 30,
+        "Sp. Attack": 40,
+        "Sp. Defense": 80,
+        "Speed": 55
+    },
+    "0166": {
+        "HP": 55,
+        "Attack": 35,
+        "Defense": 50,
+        "Sp. Attack": 55,
+        "Sp. Defense": 110,
+        "Speed": 85
+    },
+    "0167": {
+        "HP": 40,
+        "Attack": 60,
+        "Defense": 40,
+        "Sp. Attack": 40,
+        "Sp. Defense": 40,
+        "Speed": 30
+    },
+    "0168": {
+        "HP": 70,
+        "Attack": 90,
+        "Defense": 70,
+        "Sp. Attack": 60,
+        "Sp. Defense": 70,
+        "Speed": 40
+    },
+    "0169": {
+        "HP": 85,
+        "Attack": 90,
+        "Defense": 80,
+        "Sp. Attack": 70,
+        "Sp. Defense": 80,
+        "Speed": 130
+    },
+    "0170": {
+        "HP": 75,
+        "Attack": 38,
+        "Defense": 38,
+        "Sp. Attack": 56,
+        "Sp. Defense": 56,
+        "Speed": 67
+    },
+    "0171": {
+        "HP": 125,
+        "Attack": 58,
+        "Defense": 58,
+        "Sp. Attack": 76,
+        "Sp. Defense": 76,
+        "Speed": 67
+    },
+    "0172": {
+        "HP": 20,
+        "Attack": 40,
+        "Defense": 15,
+        "Sp. Attack": 35,
+        "Sp. Defense": 35,
+        "Speed": 60
+    },
+    "0173": {
+        "HP": 50,
+        "Attack": 25,
+        "Defense": 28,
+        "Sp. Attack": 45,
+        "Sp. Defense": 55,
+        "Speed": 15
+    },
+    "0174": {
+        "HP": 90,
+        "Attack": 30,
+        "Defense": 15,
+        "Sp. Attack": 40,
+        "Sp. Defense": 20,
+        "Speed": 15
+    },
+    "0175": {
+        "HP": 35,
+        "Attack": 20,
+        "Defense": 65,
+        "Sp. Attack": 40,
+        "Sp. Defense": 65,
+        "Speed": 20
+    },
+    "0176": {
+        "HP": 55,
+        "Attack": 40,
+        "Defense": 85,
+        "Sp. Attack": 80,
+        "Sp. Defense": 105,
+        "Speed": 40
+    },
+    "0177": {
+        "HP": 40,
+        "Attack": 50,
+        "Defense": 45,
+        "Sp. Attack": 70,
+        "Sp. Defense": 45,
+        "Speed": 70
+    },
+    "0178": {
+        "HP": 65,
+        "Attack": 75,
+        "Defense": 70,
+        "Sp. Attack": 95,
+        "Sp. Defense": 70,
+        "Speed": 95
+    },
+    "0179": {
+        "HP": 55,
+        "Attack": 40,
+        "Defense": 40,
+        "Sp. Attack": 65,
+        "Sp. Defense": 45,
+        "Speed": 35
+    },
+    "0180": {
+        "HP": 70,
+        "Attack": 55,
+        "Defense": 55,
+        "Sp. Attack": 80,
+        "Sp. Defense": 60,
+        "Speed": 45
+    },
+    "0181": {
+        "HP": 90,
+        "Attack": 75,
+        "Defense": 85,
+        "Sp. Attack": 115,
+        "Sp. Defense": 90,
+        "Speed": 55
+    },
+    "0182": {
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 95,
+        "Sp. Attack": 90,
+        "Sp. Defense": 100,
+        "Speed": 50
+    },
+    "0183": {
+        "HP": 70,
+        "Attack": 20,
+        "Defense": 50,
+        "Sp. Attack": 20,
+        "Sp. Defense": 50,
+        "Speed": 40
+    },
+    "0184": {
+        "HP": 100,
+        "Attack": 50,
+        "Defense": 80,
+        "Sp. Attack": 60,
+        "Sp. Defense": 80,
+        "Speed": 50
+    },
+    "0185": {
+        "HP": 70,
+        "Attack": 100,
+        "Defense": 115,
+        "Sp. Attack": 30,
+        "Sp. Defense": 65,
+        "Speed": 30
+    },
+    "0186": {
+        "HP": 90,
+        "Attack": 75,
+        "Defense": 75,
+        "Sp. Attack": 90,
+        "Sp. Defense": 100,
+        "Speed": 70
+    },
+    "0187": {
+        "HP": 35,
+        "Attack": 35,
+        "Defense": 40,
+        "Sp. Attack": 35,
+        "Sp. Defense": 55,
+        "Speed": 50
+    },
+    "0188": {
+        "HP": 55,
+        "Attack": 45,
+        "Defense": 50,
+        "Sp. Attack": 45,
+        "Sp. Defense": 65,
+        "Speed": 80
+    },
+    "0189": {
+        "HP": 75,
+        "Attack": 55,
+        "Defense": 70,
+        "Sp. Attack": 55,
+        "Sp. Defense": 95,
+        "Speed": 110
+    },
+    "0190": {
+        "HP": 55,
+        "Attack": 70,
+        "Defense": 55,
+        "Sp. Attack": 40,
+        "Sp. Defense": 55,
+        "Speed": 85
+    },
+    "0191": {
+        "HP": 30,
+        "Attack": 30,
+        "Defense": 30,
+        "Sp. Attack": 30,
+        "Sp. Defense": 30,
+        "Speed": 30
+    },
+    "0192": {
+        "HP": 75,
+        "Attack": 75,
+        "Defense": 55,
+        "Sp. Attack": 105,
+        "Sp. Defense": 85,
+        "Speed": 30
+    },
+    "0193": {
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 45,
+        "Sp. Attack": 75,
+        "Sp. Defense": 45,
+        "Speed": 95
+    },
+    "0194": {
+        "HP": 55,
+        "Attack": 45,
+        "Defense": 45,
+        "Sp. Attack": 25,
+        "Sp. Defense": 25,
+        "Speed": 15
+    },
+    "0195": {
+        "HP": 95,
+        "Attack": 85,
+        "Defense": 85,
+        "Sp. Attack": 65,
+        "Sp. Defense": 65,
+        "Speed": 35
+    },
+    "0196": {
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 60,
+        "Sp. Attack": 130,
+        "Sp. Defense": 95,
+        "Speed": 110
+    },
+    "0197": {
+        "HP": 95,
+        "Attack": 65,
+        "Defense": 110,
+        "Sp. Attack": 60,
+        "Sp. Defense": 130,
+        "Speed": 65
+    },
+    "0198": {
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 42,
+        "Sp. Attack": 85,
+        "Sp. Defense": 42,
+        "Speed": 91
+    },
+    "0199": {
+        "HP": 95,
+        "Attack": 75,
+        "Defense": 80,
+        "Sp. Attack": 100,
+        "Sp. Defense": 110,
+        "Speed": 30
+    },
+    "0200": {
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 60,
+        "Sp. Attack": 85,
+        "Sp. Defense": 85,
+        "Speed": 85
+    },
+    "0201": {
+        "HP": 48,
+        "Attack": 72,
+        "Defense": 48,
+        "Sp. Attack": 72,
+        "Sp. Defense": 48,
+        "Speed": 48
+    },
+    "0202": {
+        "HP": 190,
+        "Attack": 33,
+        "Defense": 58,
+        "Sp. Attack": 33,
+        "Sp. Defense": 58,
+        "Speed": 33
+    },
+    "0203": {
+        "HP": 70,
+        "Attack": 80,
+        "Defense": 65,
+        "Sp. Attack": 90,
+        "Sp. Defense": 65,
+        "Speed": 85
+    },
+    "0204": {
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 90,
+        "Sp. Attack": 35,
+        "Sp. Defense": 35,
+        "Speed": 15
+    },
+    "0205": {
+        "HP": 75,
+        "Attack": 90,
+        "Defense": 140,
+        "Sp. Attack": 60,
+        "Sp. Defense": 60,
+        "Speed": 40
+    },
+    "0206": {
+        "HP": 100,
+        "Attack": 70,
+        "Defense": 70,
+        "Sp. Attack": 65,
+        "Sp. Defense": 65,
+        "Speed": 45
+    },
+    "0207": {
+        "HP": 65,
+        "Attack": 75,
+        "Defense": 105,
+        "Sp. Attack": 35,
+        "Sp. Defense": 65,
+        "Speed": 85
+    },
+    "0208": {
+        "HP": 75,
+        "Attack": 85,
+        "Defense": 200,
+        "Sp. Attack": 55,
+        "Sp. Defense": 65,
+        "Speed": 30
+    },
+    "0209": {
+        "HP": 60,
+        "Attack": 80,
+        "Defense": 50,
+        "Sp. Attack": 40,
+        "Sp. Defense": 40,
+        "Speed": 30
+    },
+    "0210": {
+        "HP": 90,
+        "Attack": 120,
+        "Defense": 75,
+        "Sp. Attack": 60,
+        "Sp. Defense": 60,
+        "Speed": 45
+    },
+    "0211": {
+        "HP": 65,
+        "Attack": 95,
+        "Defense": 85,
+        "Sp. Attack": 55,
+        "Sp. Defense": 55,
+        "Speed": 85
+    },
+    "0212": {
+        "HP": 70,
+        "Attack": 130,
+        "Defense": 100,
+        "Sp. Attack": 55,
+        "Sp. Defense": 80,
+        "Speed": 65
+    },
+    "0213": {
+        "HP": 20,
+        "Attack": 10,
+        "Defense": 230,
+        "Sp. Attack": 10,
+        "Sp. Defense": 230,
+        "Speed": 5
+    },
+    "0214": {
+        "HP": 80,
+        "Attack": 125,
+        "Defense": 75,
+        "Sp. Attack": 40,
+        "Sp. Defense": 95,
+        "Speed": 85
+    },
+    "0215": {
+        "HP": 55,
+        "Attack": 95,
+        "Defense": 55,
+        "Sp. Attack": 35,
+        "Sp. Defense": 75,
+        "Speed": 115
+    },
+    "0216": {
+        "HP": 60,
+        "Attack": 80,
+        "Defense": 50,
+        "Sp. Attack": 50,
+        "Sp. Defense": 50,
+        "Speed": 40
+    },
+    "0217": {
+        "HP": 90,
+        "Attack": 130,
+        "Defense": 75,
+        "Sp. Attack": 75,
+        "Sp. Defense": 75,
+        "Speed": 55
+    },
+    "0218": {
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 40,
+        "Sp. Attack": 70,
+        "Sp. Defense": 40,
+        "Speed": 20
+    },
+    "0219": {
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 120,
+        "Sp. Attack": 90,
+        "Sp. Defense": 80,
+        "Speed": 30
+    },
+    "0220": {
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 40,
+        "Sp. Attack": 30,
+        "Sp. Defense": 30,
+        "Speed": 50
+    },
+    "0221": {
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 80,
+        "Sp. Attack": 60,
+        "Sp. Defense": 60,
+        "Speed": 50
+    },
+    "0222": {
+        "HP": 65,
+        "Attack": 55,
+        "Defense": 95,
+        "Sp. Attack": 65,
+        "Sp. Defense": 95,
+        "Speed": 35
+    },
+    "0223": {
+        "HP": 35,
+        "Attack": 65,
+        "Defense": 35,
+        "Sp. Attack": 65,
+        "Sp. Defense": 35,
+        "Speed": 65
+    },
+    "0224": {
+        "HP": 75,
+        "Attack": 105,
+        "Defense": 75,
+        "Sp. Attack": 105,
+        "Sp. Defense": 75,
+        "Speed": 45
+    },
+    "0225": {
+        "HP": 45,
+        "Attack": 55,
+        "Defense": 45,
+        "Sp. Attack": 65,
+        "Sp. Defense": 45,
+        "Speed": 75
+    },
+    "0226": {
+        "HP": 85,
+        "Attack": 40,
+        "Defense": 70,
+        "Sp. Attack": 80,
+        "Sp. Defense": 140,
+        "Speed": 70
+    },
+    "0227": {
+        "HP": 65,
+        "Attack": 80,
+        "Defense": 140,
+        "Sp. Attack": 40,
+        "Sp. Defense": 70,
+        "Speed": 70
+    },
+    "0228": {
+        "HP": 45,
+        "Attack": 60,
+        "Defense": 30,
+        "Sp. Attack": 80,
+        "Sp. Defense": 50,
+        "Speed": 65
+    },
+    "0229": {
+        "HP": 75,
+        "Attack": 90,
+        "Defense": 50,
+        "Sp. Attack": 110,
+        "Sp. Defense": 80,
+        "Speed": 95
+    },
+    "0230": {
+        "HP": 75,
+        "Attack": 95,
+        "Defense": 95,
+        "Sp. Attack": 95,
+        "Sp. Defense": 95,
+        "Speed": 85
+    },
+    "0231": {
+        "HP": 90,
+        "Attack": 60,
+        "Defense": 60,
+        "Sp. Attack": 40,
+        "Sp. Defense": 40,
+        "Speed": 40
+    },
+    "0232": {
+        "HP": 90,
+        "Attack": 120,
+        "Defense": 120,
+        "Sp. Attack": 60,
+        "Sp. Defense": 60,
+        "Speed": 50
+    },
+    "0233": {
+        "HP": 85,
+        "Attack": 80,
+        "Defense": 90,
+        "Sp. Attack": 105,
+        "Sp. Defense": 95,
+        "Speed": 60
+    },
+    "0234": {
+        "HP": 73,
+        "Attack": 95,
+        "Defense": 62,
+        "Sp. Attack": 85,
+        "Sp. Defense": 65,
+        "Speed": 85
+    },
+    "0235": {
+        "HP": 55,
+        "Attack": 20,
+        "Defense": 35,
+        "Sp. Attack": 20,
+        "Sp. Defense": 45,
+        "Speed": 75
+    },
+    "0236": {
+        "HP": 35,
+        "Attack": 35,
+        "Defense": 35,
+        "Sp. Attack": 35,
+        "Sp. Defense": 35,
+        "Speed": 35
+    },
+    "0237": {
+        "HP": 50,
+        "Attack": 95,
+        "Defense": 95,
+        "Sp. Attack": 35,
+        "Sp. Defense": 110,
+        "Speed": 70
+    },
+    "0238": {
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 15,
+        "Sp. Attack": 85,
+        "Sp. Defense": 65,
+        "Speed": 65
+    },
+    "0239": {
+        "HP": 45,
+        "Attack": 63,
+        "Defense": 37,
+        "Sp. Attack": 65,
+        "Sp. Defense": 55,
+        "Speed": 95
+    },
+    "0240": {
+        "HP": 45,
+        "Attack": 75,
+        "Defense": 37,
+        "Sp. Attack": 70,
+        "Sp. Defense": 55,
+        "Speed": 83
+    },
+    "0241": {
+        "HP": 95,
+        "Attack": 80,
+        "Defense": 105,
+        "Sp. Attack": 40,
+        "Sp. Defense": 70,
+        "Speed": 100
+    },
+    "0242": {
+        "HP": 255,
+        "Attack": 10,
+        "Defense": 10,
+        "Sp. Attack": 75,
+        "Sp. Defense": 135,
+        "Speed": 55
+    },
+    "0243": {
+        "HP": 90,
+        "Attack": 85,
+        "Defense": 75,
+        "Sp. Attack": 115,
+        "Sp. Defense": 100,
+        "Speed": 115
+    },
+    "0244": {
+        "HP": 115,
+        "Attack": 115,
+        "Defense": 85,
+        "Sp. Attack": 90,
+        "Sp. Defense": 75,
+        "Speed": 100
+    },
+    "0245": {
+        "HP": 100,
+        "Attack": 75,
+        "Defense": 115,
+        "Sp. Attack": 90,
+        "Sp. Defense": 115,
+        "Speed": 85
+    },
+    "0246": {
+        "HP": 50,
+        "Attack": 64,
+        "Defense": 50,
+        "Sp. Attack": 45,
+        "Sp. Defense": 50,
+        "Speed": 41
+    },
+    "0247": {
+        "HP": 70,
+        "Attack": 84,
+        "Defense": 70,
+        "Sp. Attack": 65,
+        "Sp. Defense": 70,
+        "Speed": 51
+    },
+    "0248": {
+        "HP": 100,
+        "Attack": 134,
+        "Defense": 110,
+        "Sp. Attack": 95,
+        "Sp. Defense": 100,
+        "Speed": 61
+    },
+    "0249": {
+        "HP": 106,
+        "Attack": 90,
+        "Defense": 130,
+        "Sp. Attack": 90,
+        "Sp. Defense": 154,
+        "Speed": 110
+    },
+    "0250": {
+        "HP": 106,
+        "Attack": 130,
+        "Defense": 90,
+        "Sp. Attack": 110,
+        "Sp. Defense": 154,
+        "Speed": 90
+    },
+    "0251": {
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 100,
+        "Sp. Attack": 100,
+        "Sp. Defense": 100,
+        "Speed": 100
+    },
+    "0252": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 35,
+        "Sp. Attack": 65,
+        "Sp. Defense": 55,
+        "Speed": 70
+    },
+    "0253": {
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 45,
+        "Sp. Attack": 85,
+        "Sp. Defense": 65,
+        "Speed": 95
+    },
+    "0254": {
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 65,
+        "Sp. Attack": 105,
+        "Sp. Defense": 85,
+        "Speed": 120
+    },
+    "0255": {
+        "HP": 45,
+        "Attack": 60,
+        "Defense": 40,
+        "Sp. Attack": 70,
+        "Sp. Defense": 50,
+        "Speed": 45
+    },
+    "0256": {
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 60,
+        "Sp. Attack": 85,
+        "Sp. Defense": 60,
+        "Speed": 55
+    },
+    "0257": {
+        "HP": 80,
+        "Attack": 120,
+        "Defense": 70,
+        "Sp. Attack": 110,
+        "Sp. Defense": 70,
+        "Speed": 80
+    },
+    "0258": {
+        "HP": 50,
+        "Attack": 70,
+        "Defense": 50,
+        "Sp. Attack": 50,
+        "Sp. Defense": 50,
+        "Speed": 40
+    },
+    "0259": {
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 70,
+        "Sp. Attack": 60,
+        "Sp. Defense": 70,
+        "Speed": 50
+    },
+    "0260": {
+        "HP": 100,
+        "Attack": 110,
+        "Defense": 90,
+        "Sp. Attack": 85,
+        "Sp. Defense": 90,
+        "Speed": 60
+    },
+    "0261": {
+        "HP": 35,
+        "Attack": 55,
+        "Defense": 35,
+        "Sp. Attack": 30,
+        "Sp. Defense": 30,
+        "Speed": 35
+    },
+    "0262": {
+        "HP": 70,
+        "Attack": 90,
+        "Defense": 70,
+        "Sp. Attack": 60,
+        "Sp. Defense": 60,
+        "Speed": 70
+    },
+    "0263": {
+        "HP": 38,
+        "Attack": 30,
+        "Defense": 41,
+        "Sp. Attack": 30,
+        "Sp. Defense": 41,
+        "Speed": 60
+    },
+    "0264": {
+        "HP": 78,
+        "Attack": 70,
+        "Defense": 61,
+        "Sp. Attack": 50,
+        "Sp. Defense": 61,
+        "Speed": 100
+    },
+    "0265": {
+        "HP": 45,
+        "Attack": 45,
+        "Defense": 35,
+        "Sp. Attack": 20,
+        "Sp. Defense": 30,
+        "Speed": 20
+    },
+    "0266": {
+        "HP": 50,
+        "Attack": 35,
+        "Defense": 55,
+        "Sp. Attack": 25,
+        "Sp. Defense": 25,
+        "Speed": 15
+    },
+    "0267": {
+        "HP": 60,
+        "Attack": 70,
+        "Defense": 50,
+        "Sp. Attack": 100,
+        "Sp. Defense": 50,
+        "Speed": 65
+    },
+    "0268": {
+        "HP": 50,
+        "Attack": 35,
+        "Defense": 55,
+        "Sp. Attack": 25,
+        "Sp. Defense": 25,
+        "Speed": 15
+    },
+    "0269": {
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 70,
+        "Sp. Attack": 50,
+        "Sp. Defense": 90,
+        "Speed": 65
+    },
+    "0270": {
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 30,
+        "Sp. Attack": 40,
+        "Sp. Defense": 50,
+        "Speed": 30
+    },
+    "0271": {
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 50,
+        "Sp. Attack": 60,
+        "Sp. Defense": 70,
+        "Speed": 50
+    },
+    "0272": {
+        "HP": 80,
+        "Attack": 70,
+        "Defense": 70,
+        "Sp. Attack": 90,
+        "Sp. Defense": 100,
+        "Speed": 70
+    },
+    "0273": {
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 50,
+        "Sp. Attack": 30,
+        "Sp. Defense": 30,
+        "Speed": 30
+    },
+    "0274": {
+        "HP": 70,
+        "Attack": 70,
+        "Defense": 40,
+        "Sp. Attack": 60,
+        "Sp. Defense": 40,
+        "Speed": 60
+    },
+    "0275": {
+        "HP": 90,
+        "Attack": 100,
+        "Defense": 60,
+        "Sp. Attack": 90,
+        "Sp. Defense": 60,
+        "Speed": 80
+    },
+    "0276": {
+        "HP": 40,
+        "Attack": 55,
+        "Defense": 30,
+        "Sp. Attack": 30,
+        "Sp. Defense": 30,
+        "Speed": 85
+    },
+    "0277": {
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 60,
+        "Sp. Attack": 75,
+        "Sp. Defense": 50,
+        "Speed": 125
+    },
+    "0278": {
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 30,
+        "Sp. Attack": 55,
+        "Sp. Defense": 30,
+        "Speed": 85
+    },
+    "0279": {
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 100,
+        "Sp. Attack": 95,
+        "Sp. Defense": 70,
+        "Speed": 65
+    },
+    "0280": {
+        "HP": 28,
+        "Attack": 25,
+        "Defense": 25,
+        "Sp. Attack": 45,
+        "Sp. Defense": 35,
+        "Speed": 40
+    },
+    "0281": {
+        "HP": 38,
+        "Attack": 35,
+        "Defense": 35,
+        "Sp. Attack": 65,
+        "Sp. Defense": 55,
+        "Speed": 50
+    },
+    "0282": {
+        "HP": 68,
+        "Attack": 65,
+        "Defense": 65,
+        "Sp. Attack": 125,
+        "Sp. Defense": 115,
+        "Speed": 80
+    },
+    "0283": {
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 32,
+        "Sp. Attack": 50,
+        "Sp. Defense": 52,
+        "Speed": 65
+    },
+    "0284": {
+        "HP": 70,
+        "Attack": 60,
+        "Defense": 62,
+        "Sp. Attack": 100,
+        "Sp. Defense": 82,
+        "Speed": 80
+    },
+    "0285": {
+        "HP": 60,
+        "Attack": 40,
+        "Defense": 60,
+        "Sp. Attack": 40,
+        "Sp. Defense": 60,
+        "Speed": 35
+    },
+    "0286": {
+        "HP": 60,
+        "Attack": 130,
+        "Defense": 80,
+        "Sp. Attack": 60,
+        "Sp. Defense": 60,
+        "Speed": 70
+    },
+    "0287": {
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 60,
+        "Sp. Attack": 35,
+        "Sp. Defense": 35,
+        "Speed": 30
+    },
+    "0288": {
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 80,
+        "Sp. Attack": 55,
+        "Sp. Defense": 55,
+        "Speed": 90
+    },
+    "0289": {
+        "HP": 150,
+        "Attack": 160,
+        "Defense": 100,
+        "Sp. Attack": 95,
+        "Sp. Defense": 65,
+        "Speed": 100
+    },
+    "0290": {
+        "HP": 31,
+        "Attack": 45,
+        "Defense": 90,
+        "Sp. Attack": 30,
+        "Sp. Defense": 30,
+        "Speed": 40
+    },
+    "0291": {
+        "HP": 61,
+        "Attack": 90,
+        "Defense": 45,
+        "Sp. Attack": 50,
+        "Sp. Defense": 50,
+        "Speed": 160
+    },
+    "0292": {
+        "HP": 1,
+        "Attack": 90,
+        "Defense": 45,
+        "Sp. Attack": 30,
+        "Sp. Defense": 30,
+        "Speed": 40
+    },
+    "0293": {
+        "HP": 64,
+        "Attack": 51,
+        "Defense": 23,
+        "Sp. Attack": 51,
+        "Sp. Defense": 23,
+        "Speed": 28
+    },
+    "0294": {
+        "HP": 84,
+        "Attack": 71,
+        "Defense": 43,
+        "Sp. Attack": 71,
+        "Sp. Defense": 43,
+        "Speed": 48
+    },
+    "0295": {
+        "HP": 104,
+        "Attack": 91,
+        "Defense": 63,
+        "Sp. Attack": 91,
+        "Sp. Defense": 73,
+        "Speed": 68
+    },
+    "0296": {
+        "HP": 72,
+        "Attack": 60,
+        "Defense": 30,
+        "Sp. Attack": 20,
+        "Sp. Defense": 30,
+        "Speed": 25
+    },
+    "0297": {
+        "HP": 144,
+        "Attack": 120,
+        "Defense": 60,
+        "Sp. Attack": 40,
+        "Sp. Defense": 60,
+        "Speed": 50
+    },
+    "0298": {
+        "HP": 50,
+        "Attack": 20,
+        "Defense": 40,
+        "Sp. Attack": 20,
+        "Sp. Defense": 40,
+        "Speed": 20
+    },
+    "0299": {
+        "HP": 30,
+        "Attack": 45,
+        "Defense": 135,
+        "Sp. Attack": 45,
+        "Sp. Defense": 90,
+        "Speed": 30
+    },
+    "0300": {
+        "HP": 50,
+        "Attack": 45,
+        "Defense": 45,
+        "Sp. Attack": 35,
+        "Sp. Defense": 35,
+        "Speed": 50
+    },
+    "0301": {
+        "HP": 70,
+        "Attack": 65,
+        "Defense": 65,
+        "Sp. Attack": 55,
+        "Sp. Defense": 55,
+        "Speed": 90
+    },
+    "0302": {
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 75,
+        "Sp. Attack": 65,
+        "Sp. Defense": 65,
+        "Speed": 50
+    },
+    "0303": {
+        "HP": 50,
+        "Attack": 85,
+        "Defense": 85,
+        "Sp. Attack": 55,
+        "Sp. Defense": 55,
+        "Speed": 50
+    },
+    "0304": {
+        "HP": 50,
+        "Attack": 70,
+        "Defense": 100,
+        "Sp. Attack": 40,
+        "Sp. Defense": 40,
+        "Speed": 30
+    },
+    "0305": {
+        "HP": 60,
+        "Attack": 90,
+        "Defense": 140,
+        "Sp. Attack": 50,
+        "Sp. Defense": 50,
+        "Speed": 40
+    },
+    "0306": {
+        "HP": 70,
+        "Attack": 110,
+        "Defense": 180,
+        "Sp. Attack": 60,
+        "Sp. Defense": 60,
+        "Speed": 50
+    },
+    "0307": {
+        "HP": 30,
+        "Attack": 40,
+        "Defense": 55,
+        "Sp. Attack": 40,
+        "Sp. Defense": 55,
+        "Speed": 60
+    },
+    "0308": {
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 75,
+        "Sp. Attack": 60,
+        "Sp. Defense": 75,
+        "Speed": 80
+    },
+    "0309": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 40,
+        "Sp. Attack": 65,
+        "Sp. Defense": 40,
+        "Speed": 65
+    },
+    "0310": {
+        "HP": 70,
+        "Attack": 75,
+        "Defense": 60,
+        "Sp. Attack": 105,
+        "Sp. Defense": 60,
+        "Speed": 105
+    },
+    "0311": {
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 40,
+        "Sp. Attack": 85,
+        "Sp. Defense": 75,
+        "Speed": 95
+    },
+    "0312": {
+        "HP": 60,
+        "Attack": 40,
+        "Defense": 50,
+        "Sp. Attack": 75,
+        "Sp. Defense": 85,
+        "Speed": 95
+    },
+    "0313": {
+        "HP": 65,
+        "Attack": 73,
+        "Defense": 75,
+        "Sp. Attack": 47,
+        "Sp. Defense": 85,
+        "Speed": 85
+    },
+    "0314": {
+        "HP": 65,
+        "Attack": 47,
+        "Defense": 75,
+        "Sp. Attack": 73,
+        "Sp. Defense": 85,
+        "Speed": 85
+    },
+    "0315": {
+        "HP": 50,
+        "Attack": 60,
+        "Defense": 45,
+        "Sp. Attack": 100,
+        "Sp. Defense": 80,
+        "Speed": 65
+    },
+    "0316": {
+        "HP": 70,
+        "Attack": 43,
+        "Defense": 53,
+        "Sp. Attack": 43,
+        "Sp. Defense": 53,
+        "Speed": 40
+    },
+    "0317": {
+        "HP": 100,
+        "Attack": 73,
+        "Defense": 83,
+        "Sp. Attack": 73,
+        "Sp. Defense": 83,
+        "Speed": 55
+    },
+    "0318": {
+        "HP": 45,
+        "Attack": 90,
+        "Defense": 20,
+        "Sp. Attack": 65,
+        "Sp. Defense": 20,
+        "Speed": 65
+    },
+    "0319": {
+        "HP": 70,
+        "Attack": 120,
+        "Defense": 40,
+        "Sp. Attack": 95,
+        "Sp. Defense": 40,
+        "Speed": 95
+    },
+    "0320": {
+        "HP": 130,
+        "Attack": 70,
+        "Defense": 35,
+        "Sp. Attack": 70,
+        "Sp. Defense": 35,
+        "Speed": 60
+    },
+    "0321": {
+        "HP": 170,
+        "Attack": 90,
+        "Defense": 45,
+        "Sp. Attack": 90,
+        "Sp. Defense": 45,
+        "Speed": 60
+    },
+    "0322": {
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 40,
+        "Sp. Attack": 65,
+        "Sp. Defense": 45,
+        "Speed": 35
+    },
+    "0323": {
+        "HP": 70,
+        "Attack": 100,
+        "Defense": 70,
+        "Sp. Attack": 105,
+        "Sp. Defense": 75,
+        "Speed": 40
+    },
+    "0324": {
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 140,
+        "Sp. Attack": 85,
+        "Sp. Defense": 70,
+        "Speed": 20
+    },
+    "0325": {
+        "HP": 60,
+        "Attack": 25,
+        "Defense": 35,
+        "Sp. Attack": 70,
+        "Sp. Defense": 80,
+        "Speed": 60
+    },
+    "0326": {
+        "HP": 80,
+        "Attack": 45,
+        "Defense": 65,
+        "Sp. Attack": 90,
+        "Sp. Defense": 110,
+        "Speed": 80
+    },
+    "0327": {
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 60,
+        "Sp. Attack": 60,
+        "Sp. Defense": 60,
+        "Speed": 60
+    },
+    "0328": {
+        "HP": 45,
+        "Attack": 100,
+        "Defense": 45,
+        "Sp. Attack": 45,
+        "Sp. Defense": 45,
+        "Speed": 10
+    },
+    "0329": {
+        "HP": 50,
+        "Attack": 70,
+        "Defense": 50,
+        "Sp. Attack": 50,
+        "Sp. Defense": 50,
+        "Speed": 70
+    },
+    "0330": {
+        "HP": 80,
+        "Attack": 100,
+        "Defense": 80,
+        "Sp. Attack": 80,
+        "Sp. Defense": 80,
+        "Speed": 100
+    },
+    "0331": {
+        "HP": 50,
+        "Attack": 85,
+        "Defense": 40,
+        "Sp. Attack": 85,
+        "Sp. Defense": 40,
+        "Speed": 35
+    },
+    "0332": {
+        "HP": 70,
+        "Attack": 115,
+        "Defense": 60,
+        "Sp. Attack": 115,
+        "Sp. Defense": 60,
+        "Speed": 55
+    },
+    "0333": {
+        "HP": 45,
+        "Attack": 40,
+        "Defense": 60,
+        "Sp. Attack": 40,
+        "Sp. Defense": 75,
+        "Speed": 50
+    },
+    "0334": {
+        "HP": 75,
+        "Attack": 70,
+        "Defense": 90,
+        "Sp. Attack": 70,
+        "Sp. Defense": 105,
+        "Speed": 80
+    },
+    "0335": {
+        "HP": 73,
+        "Attack": 115,
+        "Defense": 60,
+        "Sp. Attack": 60,
+        "Sp. Defense": 60,
+        "Speed": 90
+    },
+    "0336": {
+        "HP": 73,
+        "Attack": 100,
+        "Defense": 60,
+        "Sp. Attack": 100,
+        "Sp. Defense": 60,
+        "Speed": 65
+    },
+    "0337": {
+        "HP": 90,
+        "Attack": 55,
+        "Defense": 65,
+        "Sp. Attack": 95,
+        "Sp. Defense": 85,
+        "Speed": 70
+    },
+    "0338": {
+        "HP": 90,
+        "Attack": 95,
+        "Defense": 85,
+        "Sp. Attack": 55,
+        "Sp. Defense": 65,
+        "Speed": 70
+    },
+    "0339": {
+        "HP": 50,
+        "Attack": 48,
+        "Defense": 43,
+        "Sp. Attack": 46,
+        "Sp. Defense": 41,
+        "Speed": 60
+    },
+    "0340": {
+        "HP": 110,
+        "Attack": 78,
+        "Defense": 73,
+        "Sp. Attack": 76,
+        "Sp. Defense": 71,
+        "Speed": 60
+    },
+    "0341": {
+        "HP": 43,
+        "Attack": 80,
+        "Defense": 65,
+        "Sp. Attack": 50,
+        "Sp. Defense": 35,
+        "Speed": 35
+    },
+    "0342": {
+        "HP": 63,
+        "Attack": 120,
+        "Defense": 85,
+        "Sp. Attack": 90,
+        "Sp. Defense": 55,
+        "Speed": 55
+    },
+    "0343": {
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 55,
+        "Sp. Attack": 40,
+        "Sp. Defense": 70,
+        "Speed": 55
+    },
+    "0344": {
+        "HP": 60,
+        "Attack": 70,
+        "Defense": 105,
+        "Sp. Attack": 70,
+        "Sp. Defense": 120,
+        "Speed": 75
+    },
+    "0345": {
+        "HP": 66,
+        "Attack": 41,
+        "Defense": 77,
+        "Sp. Attack": 61,
+        "Sp. Defense": 87,
+        "Speed": 23
+    },
+    "0346": {
+        "HP": 86,
+        "Attack": 81,
+        "Defense": 97,
+        "Sp. Attack": 81,
+        "Sp. Defense": 107,
+        "Speed": 43
+    },
+    "0347": {
+        "HP": 45,
+        "Attack": 95,
+        "Defense": 50,
+        "Sp. Attack": 40,
+        "Sp. Defense": 50,
+        "Speed": 75
+    },
+    "0348": {
+        "HP": 75,
+        "Attack": 125,
+        "Defense": 100,
+        "Sp. Attack": 70,
+        "Sp. Defense": 80,
+        "Speed": 45
+    },
+    "0349": {
+        "HP": 20,
+        "Attack": 15,
+        "Defense": 20,
+        "Sp. Attack": 10,
+        "Sp. Defense": 55,
+        "Speed": 80
+    },
+    "0350": {
+        "HP": 95,
+        "Attack": 60,
+        "Defense": 79,
+        "Sp. Attack": 100,
+        "Sp. Defense": 125,
+        "Speed": 81
+    },
+    "0351": {
+        "HP": 70,
+        "Attack": 70,
+        "Defense": 70,
+        "Sp. Attack": 70,
+        "Sp. Defense": 70,
+        "Speed": 70
+    },
+    "0352": {
+        "HP": 60,
+        "Attack": 90,
+        "Defense": 70,
+        "Sp. Attack": 60,
+        "Sp. Defense": 120,
+        "Speed": 40
+    },
+    "0353": {
+        "HP": 44,
+        "Attack": 75,
+        "Defense": 35,
+        "Sp. Attack": 63,
+        "Sp. Defense": 33,
+        "Speed": 45
+    },
+    "0354": {
+        "HP": 64,
+        "Attack": 115,
+        "Defense": 65,
+        "Sp. Attack": 83,
+        "Sp. Defense": 63,
+        "Speed": 65
+    },
+    "0355": {
+        "HP": 20,
+        "Attack": 40,
+        "Defense": 90,
+        "Sp. Attack": 30,
+        "Sp. Defense": 90,
+        "Speed": 25
+    },
+    "0356": {
+        "HP": 40,
+        "Attack": 70,
+        "Defense": 130,
+        "Sp. Attack": 60,
+        "Sp. Defense": 130,
+        "Speed": 25
+    },
+    "0357": {
+        "HP": 99,
+        "Attack": 68,
+        "Defense": 83,
+        "Sp. Attack": 72,
+        "Sp. Defense": 87,
+        "Speed": 51
+    },
+    "0358": {
+        "HP": 75,
+        "Attack": 50,
+        "Defense": 80,
+        "Sp. Attack": 95,
+        "Sp. Defense": 90,
+        "Speed": 65
+    },
+    "0359": {
+        "HP": 65,
+        "Attack": 130,
+        "Defense": 60,
+        "Sp. Attack": 75,
+        "Sp. Defense": 60,
+        "Speed": 75
+    },
+    "0360": {
+        "HP": 95,
+        "Attack": 23,
+        "Defense": 48,
+        "Sp. Attack": 23,
+        "Sp. Defense": 48,
+        "Speed": 23
+    },
+    "0361": {
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 50,
+        "Sp. Attack": 50,
+        "Sp. Defense": 50,
+        "Speed": 50
+    },
+    "0362": {
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 80,
+        "Sp. Attack": 80,
+        "Sp. Defense": 80,
+        "Speed": 80
+    },
+    "0363": {
+        "HP": 70,
+        "Attack": 40,
+        "Defense": 50,
+        "Sp. Attack": 55,
+        "Sp. Defense": 50,
+        "Speed": 25
+    },
+    "0364": {
+        "HP": 90,
+        "Attack": 60,
+        "Defense": 70,
+        "Sp. Attack": 75,
+        "Sp. Defense": 70,
+        "Speed": 45
+    },
+    "0365": {
+        "HP": 110,
+        "Attack": 80,
+        "Defense": 90,
+        "Sp. Attack": 95,
+        "Sp. Defense": 90,
+        "Speed": 65
+    },
+    "0366": {
+        "HP": 35,
+        "Attack": 64,
+        "Defense": 85,
+        "Sp. Attack": 74,
+        "Sp. Defense": 55,
+        "Speed": 32
+    },
+    "0367": {
+        "HP": 55,
+        "Attack": 104,
+        "Defense": 105,
+        "Sp. Attack": 94,
+        "Sp. Defense": 75,
+        "Speed": 52
+    },
+    "0368": {
+        "HP": 55,
+        "Attack": 84,
+        "Defense": 105,
+        "Sp. Attack": 114,
+        "Sp. Defense": 75,
+        "Speed": 52
+    },
+    "0369": {
+        "HP": 100,
+        "Attack": 90,
+        "Defense": 130,
+        "Sp. Attack": 45,
+        "Sp. Defense": 65,
+        "Speed": 55
+    },
+    "0370": {
+        "HP": 43,
+        "Attack": 30,
+        "Defense": 55,
+        "Sp. Attack": 40,
+        "Sp. Defense": 65,
+        "Speed": 97
+    },
+    "0371": {
+        "HP": 45,
+        "Attack": 75,
+        "Defense": 60,
+        "Sp. Attack": 40,
+        "Sp. Defense": 30,
+        "Speed": 50
+    },
+    "0372": {
+        "HP": 65,
+        "Attack": 95,
+        "Defense": 100,
+        "Sp. Attack": 60,
+        "Sp. Defense": 50,
+        "Speed": 50
+    },
+    "0373": {
+        "HP": 95,
+        "Attack": 135,
+        "Defense": 80,
+        "Sp. Attack": 110,
+        "Sp. Defense": 80,
+        "Speed": 100
+    },
+    "0374": {
+        "HP": 40,
+        "Attack": 55,
+        "Defense": 80,
+        "Sp. Attack": 35,
+        "Sp. Defense": 60,
+        "Speed": 30
+    },
+    "0375": {
+        "HP": 60,
+        "Attack": 75,
+        "Defense": 100,
+        "Sp. Attack": 55,
+        "Sp. Defense": 80,
+        "Speed": 50
+    },
+    "0376": {
+        "HP": 80,
+        "Attack": 135,
+        "Defense": 130,
+        "Sp. Attack": 95,
+        "Sp. Defense": 90,
+        "Speed": 70
+    },
+    "0377": {
+        "HP": 80,
+        "Attack": 100,
+        "Defense": 200,
+        "Sp. Attack": 50,
+        "Sp. Defense": 100,
+        "Speed": 50
+    },
+    "0378": {
+        "HP": 80,
+        "Attack": 50,
+        "Defense": 100,
+        "Sp. Attack": 100,
+        "Sp. Defense": 200,
+        "Speed": 50
+    },
+    "0379": {
+        "HP": 80,
+        "Attack": 75,
+        "Defense": 150,
+        "Sp. Attack": 75,
+        "Sp. Defense": 150,
+        "Speed": 50
+    },
+    "0380": {
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 90,
+        "Sp. Attack": 110,
+        "Sp. Defense": 130,
+        "Speed": 110
+    },
+    "0381": {
+        "HP": 80,
+        "Attack": 90,
+        "Defense": 80,
+        "Sp. Attack": 130,
+        "Sp. Defense": 110,
+        "Speed": 110
+    },
+    "0382": {
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 90,
+        "Sp. Attack": 150,
+        "Sp. Defense": 140,
+        "Speed": 90
+    },
+    "0383": {
+        "HP": 100,
+        "Attack": 150,
+        "Defense": 140,
+        "Sp. Attack": 100,
+        "Sp. Defense": 90,
+        "Speed": 90
+    },
+    "0384": {
+        "HP": 105,
+        "Attack": 150,
+        "Defense": 90,
+        "Sp. Attack": 150,
+        "Sp. Defense": 90,
+        "Speed": 95
+    },
+    "0385": {
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 100,
+        "Sp. Attack": 100,
+        "Sp. Defense": 100,
+        "Speed": 100
+    },
+    "0386": {
+        "HP": 50,
+        "Attack": 150,
+        "Defense": 50,
+        "Sp. Attack": 150,
+        "Sp. Defense": 50,
+        "Speed": 150
+    },
+    "0387": {
+        "HP": 55,
+        "Attack": 68,
+        "Defense": 64,
+        "Sp. Attack": 45,
+        "Sp. Defense": 55,
+        "Speed": 31
+    },
+    "0388": {
+        "HP": 75,
+        "Attack": 89,
+        "Defense": 85,
+        "Sp. Attack": 55,
+        "Sp. Defense": 65,
+        "Speed": 36
+    },
+    "0389": {
+        "HP": 95,
+        "Attack": 109,
+        "Defense": 105,
+        "Sp. Attack": 75,
+        "Sp. Defense": 85,
+        "Speed": 56
+    },
+    "0390": {
+        "HP": 44,
+        "Attack": 58,
+        "Defense": 44,
+        "Sp. Attack": 58,
+        "Sp. Defense": 44,
+        "Speed": 61
+    },
+    "0391": {
+        "HP": 64,
+        "Attack": 78,
+        "Defense": 52,
+        "Sp. Attack": 78,
+        "Sp. Defense": 52,
+        "Speed": 81
+    },
+    "0392": {
+        "HP": 76,
+        "Attack": 104,
+        "Defense": 71,
+        "Sp. Attack": 104,
+        "Sp. Defense": 71,
+        "Speed": 108
+    },
+    "0393": {
+        "HP": 53,
+        "Attack": 51,
+        "Defense": 53,
+        "Sp. Attack": 61,
+        "Sp. Defense": 56,
+        "Speed": 40
+    },
+    "0394": {
+        "HP": 64,
+        "Attack": 66,
+        "Defense": 68,
+        "Sp. Attack": 81,
+        "Sp. Defense": 76,
+        "Speed": 50
+    },
+    "0395": {
+        "HP": 84,
+        "Attack": 86,
+        "Defense": 88,
+        "Sp. Attack": 111,
+        "Sp. Defense": 101,
+        "Speed": 60
+    },
+    "0396": {
+        "HP": 40,
+        "Attack": 55,
+        "Defense": 30,
+        "Sp. Attack": 30,
+        "Sp. Defense": 30,
+        "Speed": 60
+    },
+    "0397": {
+        "HP": 55,
+        "Attack": 75,
+        "Defense": 50,
+        "Sp. Attack": 40,
+        "Sp. Defense": 40,
+        "Speed": 80
+    },
+    "0398": {
+        "HP": 85,
+        "Attack": 120,
+        "Defense": 70,
+        "Sp. Attack": 50,
+        "Sp. Defense": 60,
+        "Speed": 100
+    },
+    "0399": {
+        "HP": 59,
+        "Attack": 45,
+        "Defense": 40,
+        "Sp. Attack": 35,
+        "Sp. Defense": 40,
+        "Speed": 31
+    },
+    "0400": {
+        "HP": 79,
+        "Attack": 85,
+        "Defense": 60,
+        "Sp. Attack": 55,
+        "Sp. Defense": 60,
+        "Speed": 71
+    },
+    "0401": {
+        "HP": 37,
+        "Attack": 25,
+        "Defense": 41,
+        "Sp. Attack": 25,
+        "Sp. Defense": 41,
+        "Speed": 25
+    },
+    "0402": {
+        "HP": 77,
+        "Attack": 85,
+        "Defense": 51,
+        "Sp. Attack": 55,
+        "Sp. Defense": 51,
+        "Speed": 65
+    },
+    "0403": {
+        "HP": 45,
+        "Attack": 65,
+        "Defense": 34,
+        "Sp. Attack": 40,
+        "Sp. Defense": 34,
+        "Speed": 45
+    },
+    "0404": {
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 49,
+        "Sp. Attack": 60,
+        "Sp. Defense": 49,
+        "Speed": 60
+    },
+    "0405": {
+        "HP": 80,
+        "Attack": 120,
+        "Defense": 79,
+        "Sp. Attack": 95,
+        "Sp. Defense": 79,
+        "Speed": 70
+    },
+    "0406": {
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 35,
+        "Sp. Attack": 50,
+        "Sp. Defense": 70,
+        "Speed": 55
+    },
+    "0407": {
+        "HP": 60,
+        "Attack": 70,
+        "Defense": 65,
+        "Sp. Attack": 125,
+        "Sp. Defense": 105,
+        "Speed": 90
+    },
+    "0408": {
+        "HP": 67,
+        "Attack": 125,
+        "Defense": 40,
+        "Sp. Attack": 30,
+        "Sp. Defense": 30,
+        "Speed": 58
+    },
+    "0409": {
+        "HP": 97,
+        "Attack": 165,
+        "Defense": 60,
+        "Sp. Attack": 65,
+        "Sp. Defense": 50,
+        "Speed": 58
+    },
+    "0410": {
+        "HP": 30,
+        "Attack": 42,
+        "Defense": 118,
+        "Sp. Attack": 42,
+        "Sp. Defense": 88,
+        "Speed": 30
+    },
+    "0411": {
+        "HP": 60,
+        "Attack": 52,
+        "Defense": 168,
+        "Sp. Attack": 47,
+        "Sp. Defense": 138,
+        "Speed": 30
+    },
+    "0412": {
+        "HP": 40,
+        "Attack": 29,
+        "Defense": 45,
+        "Sp. Attack": 29,
+        "Sp. Defense": 45,
+        "Speed": 36
+    },
+    "0413": {
+        "HP": 60,
+        "Attack": 59,
+        "Defense": 85,
+        "Sp. Attack": 79,
+        "Sp. Defense": 105,
+        "Speed": 36
+    },
+    "0414": {
+        "HP": 70,
+        "Attack": 94,
+        "Defense": 50,
+        "Sp. Attack": 94,
+        "Sp. Defense": 50,
+        "Speed": 66
+    },
+    "0415": {
+        "HP": 30,
+        "Attack": 30,
+        "Defense": 42,
+        "Sp. Attack": 30,
+        "Sp. Defense": 42,
+        "Speed": 70
+    },
+    "0416": {
+        "HP": 70,
+        "Attack": 80,
+        "Defense": 102,
+        "Sp. Attack": 80,
+        "Sp. Defense": 102,
+        "Speed": 40
+    },
+    "0417": {
+        "HP": 60,
+        "Attack": 45,
+        "Defense": 70,
+        "Sp. Attack": 45,
+        "Sp. Defense": 90,
+        "Speed": 95
+    },
+    "0418": {
+        "HP": 55,
+        "Attack": 65,
+        "Defense": 35,
+        "Sp. Attack": 60,
+        "Sp. Defense": 30,
+        "Speed": 85
+    },
+    "0419": {
+        "HP": 85,
+        "Attack": 105,
+        "Defense": 55,
+        "Sp. Attack": 85,
+        "Sp. Defense": 50,
+        "Speed": 115
+    },
+    "0420": {
+        "HP": 45,
+        "Attack": 35,
+        "Defense": 45,
+        "Sp. Attack": 62,
+        "Sp. Defense": 53,
+        "Speed": 35
+    },
+    "0421": {
+        "HP": 70,
+        "Attack": 60,
+        "Defense": 70,
+        "Sp. Attack": 87,
+        "Sp. Defense": 78,
+        "Speed": 85
+    },
+    "0422": {
+        "HP": 76,
+        "Attack": 48,
+        "Defense": 48,
+        "Sp. Attack": 57,
+        "Sp. Defense": 62,
+        "Speed": 34
+    },
+    "0423": {
+        "HP": 111,
+        "Attack": 83,
+        "Defense": 68,
+        "Sp. Attack": 92,
+        "Sp. Defense": 82,
+        "Speed": 39
+    },
+    "0424": {
+        "HP": 75,
+        "Attack": 100,
+        "Defense": 66,
+        "Sp. Attack": 60,
+        "Sp. Defense": 66,
+        "Speed": 115
+    },
+    "0425": {
+        "HP": 90,
+        "Attack": 50,
+        "Defense": 34,
+        "Sp. Attack": 60,
+        "Sp. Defense": 44,
+        "Speed": 70
+    },
+    "0426": {
+        "HP": 150,
+        "Attack": 80,
+        "Defense": 44,
+        "Sp. Attack": 90,
+        "Sp. Defense": 54,
+        "Speed": 80
+    },
+    "0427": {
+        "HP": 55,
+        "Attack": 66,
+        "Defense": 44,
+        "Sp. Attack": 44,
+        "Sp. Defense": 56,
+        "Speed": 85
+    },
+    "0428": {
+        "HP": 65,
+        "Attack": 76,
+        "Defense": 84,
+        "Sp. Attack": 54,
+        "Sp. Defense": 96,
+        "Speed": 105
+    },
+    "0429": {
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 60,
+        "Sp. Attack": 105,
+        "Sp. Defense": 105,
+        "Speed": 105
+    },
+    "0430": {
+        "HP": 100,
+        "Attack": 125,
+        "Defense": 52,
+        "Sp. Attack": 105,
+        "Sp. Defense": 52,
+        "Speed": 71
+    },
+    "0431": {
+        "HP": 49,
+        "Attack": 55,
+        "Defense": 42,
+        "Sp. Attack": 42,
+        "Sp. Defense": 37,
+        "Speed": 85
+    },
+    "0432": {
+        "HP": 71,
+        "Attack": 82,
+        "Defense": 64,
+        "Sp. Attack": 64,
+        "Sp. Defense": 59,
+        "Speed": 112
+    },
+    "0433": {
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 50,
+        "Sp. Attack": 65,
+        "Sp. Defense": 50,
+        "Speed": 45
+    },
+    "0434": {
+        "HP": 63,
+        "Attack": 63,
+        "Defense": 47,
+        "Sp. Attack": 41,
+        "Sp. Defense": 41,
+        "Speed": 74
+    },
+    "0435": {
+        "HP": 103,
+        "Attack": 93,
+        "Defense": 67,
+        "Sp. Attack": 71,
+        "Sp. Defense": 61,
+        "Speed": 84
+    },
+    "0436": {
+        "HP": 57,
+        "Attack": 24,
+        "Defense": 86,
+        "Sp. Attack": 24,
+        "Sp. Defense": 86,
+        "Speed": 23
+    },
+    "0437": {
+        "HP": 67,
+        "Attack": 89,
+        "Defense": 116,
+        "Sp. Attack": 79,
+        "Sp. Defense": 116,
+        "Speed": 33
+    },
+    "0438": {
+        "HP": 50,
+        "Attack": 80,
+        "Defense": 95,
+        "Sp. Attack": 10,
+        "Sp. Defense": 45,
+        "Speed": 10
+    },
+    "0439": {
+        "HP": 20,
+        "Attack": 25,
+        "Defense": 45,
+        "Sp. Attack": 70,
+        "Sp. Defense": 90,
+        "Speed": 60
+    },
+    "0440": {
+        "HP": 100,
+        "Attack": 5,
+        "Defense": 5,
+        "Sp. Attack": 15,
+        "Sp. Defense": 65,
+        "Speed": 30
+    },
+    "0441": {
+        "HP": 76,
+        "Attack": 65,
+        "Defense": 45,
+        "Sp. Attack": 92,
+        "Sp. Defense": 42,
+        "Speed": 91
+    },
+    "0442": {
+        "HP": 50,
+        "Attack": 92,
+        "Defense": 108,
+        "Sp. Attack": 92,
+        "Sp. Defense": 108,
+        "Speed": 35
+    },
+    "0443": {
+        "HP": 58,
+        "Attack": 70,
+        "Defense": 45,
+        "Sp. Attack": 40,
+        "Sp. Defense": 45,
+        "Speed": 42
+    },
+    "0444": {
+        "HP": 68,
+        "Attack": 90,
+        "Defense": 65,
+        "Sp. Attack": 50,
+        "Sp. Defense": 55,
+        "Speed": 82
+    },
+    "0445": {
+        "HP": 108,
+        "Attack": 130,
+        "Defense": 95,
+        "Sp. Attack": 80,
+        "Sp. Defense": 85,
+        "Speed": 102
+    },
+    "0446": {
+        "HP": 135,
+        "Attack": 85,
+        "Defense": 40,
+        "Sp. Attack": 40,
+        "Sp. Defense": 85,
+        "Speed": 5
+    },
+    "0447": {
+        "HP": 40,
+        "Attack": 70,
+        "Defense": 40,
+        "Sp. Attack": 35,
+        "Sp. Defense": 40,
+        "Speed": 60
+    },
+    "0448": {
+        "HP": 70,
+        "Attack": 110,
+        "Defense": 70,
+        "Sp. Attack": 115,
+        "Sp. Defense": 70,
+        "Speed": 90
+    },
+    "0449": {
+        "HP": 68,
+        "Attack": 72,
+        "Defense": 78,
+        "Sp. Attack": 38,
+        "Sp. Defense": 42,
+        "Speed": 32
+    },
+    "0450": {
+        "HP": 108,
+        "Attack": 112,
+        "Defense": 118,
+        "Sp. Attack": 68,
+        "Sp. Defense": 72,
+        "Speed": 47
+    },
+    "0451": {
+        "HP": 40,
+        "Attack": 50,
+        "Defense": 90,
+        "Sp. Attack": 30,
+        "Sp. Defense": 55,
+        "Speed": 65
+    },
+    "0452": {
+        "HP": 70,
+        "Attack": 90,
+        "Defense": 110,
+        "Sp. Attack": 60,
+        "Sp. Defense": 75,
+        "Speed": 95
+    },
+    "0453": {
+        "HP": 48,
+        "Attack": 61,
+        "Defense": 40,
+        "Sp. Attack": 61,
+        "Sp. Defense": 40,
+        "Speed": 50
+    },
+    "0454": {
+        "HP": 83,
+        "Attack": 106,
+        "Defense": 65,
+        "Sp. Attack": 86,
+        "Sp. Defense": 65,
+        "Speed": 85
+    },
+    "0455": {
+        "HP": 74,
+        "Attack": 100,
+        "Defense": 72,
+        "Sp. Attack": 90,
+        "Sp. Defense": 72,
+        "Speed": 46
+    },
+    "0456": {
+        "HP": 49,
+        "Attack": 49,
+        "Defense": 56,
+        "Sp. Attack": 49,
+        "Sp. Defense": 61,
+        "Speed": 66
+    },
+    "0457": {
+        "HP": 69,
+        "Attack": 69,
+        "Defense": 76,
+        "Sp. Attack": 69,
+        "Sp. Defense": 86,
+        "Speed": 91
+    },
+    "0458": {
+        "HP": 45,
+        "Attack": 20,
+        "Defense": 50,
+        "Sp. Attack": 60,
+        "Sp. Defense": 120,
+        "Speed": 50
+    },
+    "0459": {
+        "HP": 60,
+        "Attack": 62,
+        "Defense": 50,
+        "Sp. Attack": 62,
+        "Sp. Defense": 60,
+        "Speed": 40
+    },
+    "0460": {
+        "HP": 90,
+        "Attack": 92,
+        "Defense": 75,
+        "Sp. Attack": 92,
+        "Sp. Defense": 85,
+        "Speed": 60
+    },
+    "0461": {
+        "HP": 70,
+        "Attack": 120,
+        "Defense": 65,
+        "Sp. Attack": 45,
+        "Sp. Defense": 85,
+        "Speed": 125
+    },
+    "0462": {
+        "HP": 70,
+        "Attack": 70,
+        "Defense": 115,
+        "Sp. Attack": 130,
+        "Sp. Defense": 90,
+        "Speed": 60
+    },
+    "0463": {
+        "HP": 110,
+        "Attack": 85,
+        "Defense": 95,
+        "Sp. Attack": 80,
+        "Sp. Defense": 95,
+        "Speed": 50
+    },
+    "0464": {
+        "HP": 115,
+        "Attack": 140,
+        "Defense": 130,
+        "Sp. Attack": 55,
+        "Sp. Defense": 55,
+        "Speed": 40
+    },
+    "0465": {
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 125,
+        "Sp. Attack": 110,
+        "Sp. Defense": 50,
+        "Speed": 50
+    },
+    "0466": {
+        "HP": 75,
+        "Attack": 123,
+        "Defense": 67,
+        "Sp. Attack": 95,
+        "Sp. Defense": 85,
+        "Speed": 95
+    },
+    "0467": {
+        "HP": 75,
+        "Attack": 95,
+        "Defense": 67,
+        "Sp. Attack": 125,
+        "Sp. Defense": 95,
+        "Speed": 83
+    },
+    "0468": {
+        "HP": 85,
+        "Attack": 50,
+        "Defense": 95,
+        "Sp. Attack": 120,
+        "Sp. Defense": 115,
+        "Speed": 80
+    },
+    "0469": {
+        "HP": 86,
+        "Attack": 76,
+        "Defense": 86,
+        "Sp. Attack": 116,
+        "Sp. Defense": 56,
+        "Speed": 95
+    },
+    "0470": {
+        "HP": 65,
+        "Attack": 110,
+        "Defense": 130,
+        "Sp. Attack": 60,
+        "Sp. Defense": 65,
+        "Speed": 95
+    },
+    "0471": {
+        "HP": 65,
+        "Attack": 60,
+        "Defense": 110,
+        "Sp. Attack": 130,
+        "Sp. Defense": 95,
+        "Speed": 65
+    },
+    "0472": {
+        "HP": 75,
+        "Attack": 95,
+        "Defense": 125,
+        "Sp. Attack": 45,
+        "Sp. Defense": 75,
+        "Speed": 95
+    },
+    "0473": {
+        "HP": 110,
+        "Attack": 130,
+        "Defense": 80,
+        "Sp. Attack": 70,
+        "Sp. Defense": 60,
+        "Speed": 80
+    },
+    "0474": {
+        "HP": 85,
+        "Attack": 80,
+        "Defense": 70,
+        "Sp. Attack": 135,
+        "Sp. Defense": 75,
+        "Speed": 90
+    },
+    "0475": {
+        "HP": 68,
+        "Attack": 125,
+        "Defense": 65,
+        "Sp. Attack": 65,
+        "Sp. Defense": 115,
+        "Speed": 80
+    },
+    "0476": {
+        "HP": 60,
+        "Attack": 55,
+        "Defense": 145,
+        "Sp. Attack": 75,
+        "Sp. Defense": 150,
+        "Speed": 40
+    },
+    "0477": {
+        "HP": 45,
+        "Attack": 100,
+        "Defense": 135,
+        "Sp. Attack": 65,
+        "Sp. Defense": 135,
+        "Speed": 45
+    },
+    "0478": {
+        "HP": 70,
+        "Attack": 80,
+        "Defense": 70,
+        "Sp. Attack": 80,
+        "Sp. Defense": 70,
+        "Speed": 110
+    },
+    "0479": {
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 77,
+        "Sp. Attack": 95,
+        "Sp. Defense": 77,
+        "Speed": 91
+    },
+    "0480": {
+        "HP": 75,
+        "Attack": 75,
+        "Defense": 130,
+        "Sp. Attack": 75,
+        "Sp. Defense": 130,
+        "Speed": 95
+    },
+    "0481": {
+        "HP": 80,
+        "Attack": 105,
+        "Defense": 105,
+        "Sp. Attack": 105,
+        "Sp. Defense": 105,
+        "Speed": 80
+    },
+    "0482": {
+        "HP": 75,
+        "Attack": 125,
+        "Defense": 70,
+        "Sp. Attack": 125,
+        "Sp. Defense": 70,
+        "Speed": 115
+    },
+    "0483": {
+        "HP": 100,
+        "Attack": 120,
+        "Defense": 120,
+        "Sp. Attack": 150,
+        "Sp. Defense": 100,
+        "Speed": 90
+    },
+    "0484": {
+        "HP": 90,
+        "Attack": 120,
+        "Defense": 100,
+        "Sp. Attack": 150,
+        "Sp. Defense": 120,
+        "Speed": 100
+    },
+    "0485": {
+        "HP": 91,
+        "Attack": 90,
+        "Defense": 106,
+        "Sp. Attack": 130,
+        "Sp. Defense": 106,
+        "Speed": 77
+    },
+    "0486": {
+        "HP": 110,
+        "Attack": 160,
+        "Defense": 110,
+        "Sp. Attack": 80,
+        "Sp. Defense": 110,
+        "Speed": 100
+    },
+    "0487": {
+        "HP": 150,
+        "Attack": 100,
+        "Defense": 120,
+        "Sp. Attack": 100,
+        "Sp. Defense": 120,
+        "Speed": 90
+    },
+    "0488": {
+        "HP": 120,
+        "Attack": 70,
+        "Defense": 120,
+        "Sp. Attack": 75,
+        "Sp. Defense": 130,
+        "Speed": 85
+    },
+    "0489": {
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 80,
+        "Sp. Attack": 80,
+        "Sp. Defense": 80,
+        "Speed": 80
+    },
+    "0490": {
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 100,
+        "Sp. Attack": 100,
+        "Sp. Defense": 100,
+        "Speed": 100
+    },
+    "0491": {
+        "HP": 70,
+        "Attack": 90,
+        "Defense": 90,
+        "Sp. Attack": 135,
+        "Sp. Defense": 90,
+        "Speed": 125
+    },
+    "0492": {
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 100,
+        "Sp. Attack": 100,
+        "Sp. Defense": 100,
+        "Speed": 100
+    },
+    "0493": {
+        "HP": 120,
+        "Attack": 120,
+        "Defense": 120,
+        "Sp. Attack": 120,
+        "Sp. Defense": 120,
+        "Speed": 120
+    },
+    "0494": {
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 100,
+        "Sp. Attack": 100,
+        "Sp. Defense": 100,
+        "Speed": 100
+    },
+    "0495": {
+        "HP": 45,
+        "Attack": 45,
+        "Defense": 55,
+        "Sp. Attack": 45,
+        "Sp. Defense": 55,
+        "Speed": 63
+    },
+    "0496": {
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 75,
+        "Sp. Attack": 60,
+        "Sp. Defense": 75,
+        "Speed": 83
+    },
+    "0497": {
+        "HP": 75,
+        "Attack": 75,
+        "Defense": 95,
+        "Sp. Attack": 75,
+        "Sp. Defense": 95,
+        "Speed": 113
+    },
+    "0498": {
+        "HP": 65,
+        "Attack": 63,
+        "Defense": 45,
+        "Sp. Attack": 45,
+        "Sp. Defense": 45,
+        "Speed": 45
+    },
+    "0499": {
+        "HP": 90,
+        "Attack": 93,
+        "Defense": 55,
+        "Sp. Attack": 70,
+        "Sp. Defense": 55,
+        "Speed": 55
+    },
+    "0500": {
+        "HP": 110,
+        "Attack": 123,
+        "Defense": 65,
+        "Sp. Attack": 100,
+        "Sp. Defense": 65,
+        "Speed": 65
+    },
+    "0501": {
+        "HP": 55,
+        "Attack": 55,
+        "Defense": 45,
+        "Sp. Attack": 63,
+        "Sp. Defense": 45,
+        "Speed": 45
+    },
+    "0502": {
+        "HP": 75,
+        "Attack": 75,
+        "Defense": 60,
+        "Sp. Attack": 83,
+        "Sp. Defense": 60,
+        "Speed": 60
+    },
+    "0503": {
+        "HP": 95,
+        "Attack": 100,
+        "Defense": 85,
+        "Sp. Attack": 108,
+        "Sp. Defense": 70,
+        "Speed": 70
+    },
+    "0504": {
+        "HP": 45,
+        "Attack": 55,
+        "Defense": 39,
+        "Sp. Attack": 35,
+        "Sp. Defense": 39,
+        "Speed": 42
+    },
+    "0505": {
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 69,
+        "Sp. Attack": 60,
+        "Sp. Defense": 69,
+        "Speed": 77
+    },
+    "0506": {
+        "HP": 45,
+        "Attack": 60,
+        "Defense": 45,
+        "Sp. Attack": 25,
+        "Sp. Defense": 45,
+        "Speed": 55
+    },
+    "0507": {
+        "HP": 65,
+        "Attack": 80,
+        "Defense": 65,
+        "Sp. Attack": 35,
+        "Sp. Defense": 65,
+        "Speed": 60
+    },
+    "0508": {
+        "HP": 85,
+        "Attack": 110,
+        "Defense": 90,
+        "Sp. Attack": 45,
+        "Sp. Defense": 90,
+        "Speed": 80
+    },
+    "0509": {
+        "HP": 41,
+        "Attack": 50,
+        "Defense": 37,
+        "Sp. Attack": 50,
+        "Sp. Defense": 37,
+        "Speed": 66
+    },
+    "0510": {
+        "HP": 64,
+        "Attack": 88,
+        "Defense": 50,
+        "Sp. Attack": 88,
+        "Sp. Defense": 50,
+        "Speed": 106
+    },
+    "0511": {
+        "HP": 50,
+        "Attack": 53,
+        "Defense": 48,
+        "Sp. Attack": 53,
+        "Sp. Defense": 48,
+        "Speed": 64
+    },
+    "0512": {
+        "HP": 75,
+        "Attack": 98,
+        "Defense": 63,
+        "Sp. Attack": 98,
+        "Sp. Defense": 63,
+        "Speed": 101
+    },
+    "0513": {
+        "HP": 50,
+        "Attack": 53,
+        "Defense": 48,
+        "Sp. Attack": 53,
+        "Sp. Defense": 48,
+        "Speed": 64
+    },
+    "0514": {
+        "HP": 75,
+        "Attack": 98,
+        "Defense": 63,
+        "Sp. Attack": 98,
+        "Sp. Defense": 63,
+        "Speed": 101
+    },
+    "0515": {
+        "HP": 50,
+        "Attack": 53,
+        "Defense": 48,
+        "Sp. Attack": 53,
+        "Sp. Defense": 48,
+        "Speed": 64
+    },
+    "0516": {
+        "HP": 75,
+        "Attack": 98,
+        "Defense": 63,
+        "Sp. Attack": 98,
+        "Sp. Defense": 63,
+        "Speed": 101
+    },
+    "0517": {
+        "HP": 76,
+        "Attack": 25,
+        "Defense": 45,
+        "Sp. Attack": 67,
+        "Sp. Defense": 55,
+        "Speed": 24
+    },
+    "0518": {
+        "HP": 116,
+        "Attack": 55,
+        "Defense": 85,
+        "Sp. Attack": 107,
+        "Sp. Defense": 95,
+        "Speed": 29
+    },
+    "0519": {
+        "HP": 50,
+        "Attack": 55,
+        "Defense": 50,
+        "Sp. Attack": 36,
+        "Sp. Defense": 30,
+        "Speed": 43
+    },
+    "0520": {
+        "HP": 62,
+        "Attack": 77,
+        "Defense": 62,
+        "Sp. Attack": 50,
+        "Sp. Defense": 42,
+        "Speed": 65
+    },
+    "0521": {
+        "HP": 80,
+        "Attack": 115,
+        "Defense": 80,
+        "Sp. Attack": 65,
+        "Sp. Defense": 55,
+        "Speed": 93
+    },
+    "0522": {
+        "HP": 45,
+        "Attack": 60,
+        "Defense": 32,
+        "Sp. Attack": 50,
+        "Sp. Defense": 32,
+        "Speed": 76
+    },
+    "0523": {
+        "HP": 75,
+        "Attack": 100,
+        "Defense": 63,
+        "Sp. Attack": 80,
+        "Sp. Defense": 63,
+        "Speed": 116
+    },
+    "0524": {
+        "HP": 55,
+        "Attack": 75,
+        "Defense": 85,
+        "Sp. Attack": 25,
+        "Sp. Defense": 25,
+        "Speed": 15
+    },
+    "0525": {
+        "HP": 70,
+        "Attack": 105,
+        "Defense": 105,
+        "Sp. Attack": 50,
+        "Sp. Defense": 40,
+        "Speed": 20
+    },
+    "0526": {
+        "HP": 85,
+        "Attack": 135,
+        "Defense": 130,
+        "Sp. Attack": 60,
+        "Sp. Defense": 80,
+        "Speed": 25
+    },
+    "0527": {
+        "HP": 65,
+        "Attack": 45,
+        "Defense": 43,
+        "Sp. Attack": 55,
+        "Sp. Defense": 43,
+        "Speed": 72
+    },
+    "0528": {
+        "HP": 67,
+        "Attack": 57,
+        "Defense": 55,
+        "Sp. Attack": 77,
+        "Sp. Defense": 55,
+        "Speed": 114
+    },
+    "0529": {
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 40,
+        "Sp. Attack": 30,
+        "Sp. Defense": 45,
+        "Speed": 68
+    },
+    "0530": {
+        "HP": 110,
+        "Attack": 135,
+        "Defense": 60,
+        "Sp. Attack": 50,
+        "Sp. Defense": 65,
+        "Speed": 88
+    },
+    "0531": {
+        "HP": 103,
+        "Attack": 60,
+        "Defense": 86,
+        "Sp. Attack": 60,
+        "Sp. Defense": 86,
+        "Speed": 50
+    },
+    "0532": {
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 55,
+        "Sp. Attack": 25,
+        "Sp. Defense": 35,
+        "Speed": 35
+    },
+    "0533": {
+        "HP": 85,
+        "Attack": 105,
+        "Defense": 85,
+        "Sp. Attack": 40,
+        "Sp. Defense": 50,
+        "Speed": 40
+    },
+    "0534": {
+        "HP": 105,
+        "Attack": 140,
+        "Defense": 95,
+        "Sp. Attack": 55,
+        "Sp. Defense": 65,
+        "Speed": 45
+    },
+    "0535": {
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 40,
+        "Sp. Attack": 50,
+        "Sp. Defense": 40,
+        "Speed": 64
+    },
+    "0536": {
+        "HP": 75,
+        "Attack": 65,
+        "Defense": 55,
+        "Sp. Attack": 65,
+        "Sp. Defense": 55,
+        "Speed": 69
+    },
+    "0537": {
+        "HP": 105,
+        "Attack": 95,
+        "Defense": 75,
+        "Sp. Attack": 85,
+        "Sp. Defense": 75,
+        "Speed": 74
+    },
+    "0538": {
+        "HP": 120,
+        "Attack": 100,
+        "Defense": 85,
+        "Sp. Attack": 30,
+        "Sp. Defense": 85,
+        "Speed": 45
+    },
+    "0539": {
+        "HP": 75,
+        "Attack": 125,
+        "Defense": 75,
+        "Sp. Attack": 30,
+        "Sp. Defense": 75,
+        "Speed": 85
+    },
+    "0540": {
+        "HP": 45,
+        "Attack": 53,
+        "Defense": 70,
+        "Sp. Attack": 40,
+        "Sp. Defense": 60,
+        "Speed": 42
+    },
+    "0541": {
+        "HP": 55,
+        "Attack": 63,
+        "Defense": 90,
+        "Sp. Attack": 50,
+        "Sp. Defense": 80,
+        "Speed": 42
+    },
+    "0542": {
+        "HP": 75,
+        "Attack": 103,
+        "Defense": 80,
+        "Sp. Attack": 70,
+        "Sp. Defense": 80,
+        "Speed": 92
+    },
+    "0543": {
+        "HP": 30,
+        "Attack": 45,
+        "Defense": 59,
+        "Sp. Attack": 30,
+        "Sp. Defense": 39,
+        "Speed": 57
+    },
+    "0544": {
+        "HP": 40,
+        "Attack": 55,
+        "Defense": 99,
+        "Sp. Attack": 40,
+        "Sp. Defense": 79,
+        "Speed": 47
+    },
+    "0545": {
+        "HP": 60,
+        "Attack": 100,
+        "Defense": 89,
+        "Sp. Attack": 55,
+        "Sp. Defense": 69,
+        "Speed": 112
+    },
+    "0546": {
+        "HP": 40,
+        "Attack": 27,
+        "Defense": 60,
+        "Sp. Attack": 37,
+        "Sp. Defense": 50,
+        "Speed": 66
+    },
+    "0547": {
+        "HP": 60,
+        "Attack": 67,
+        "Defense": 85,
+        "Sp. Attack": 77,
+        "Sp. Defense": 75,
+        "Speed": 116
+    },
+    "0548": {
+        "HP": 45,
+        "Attack": 35,
+        "Defense": 50,
+        "Sp. Attack": 70,
+        "Sp. Defense": 50,
+        "Speed": 30
+    },
+    "0549": {
+        "HP": 70,
+        "Attack": 60,
+        "Defense": 75,
+        "Sp. Attack": 110,
+        "Sp. Defense": 75,
+        "Speed": 90
+    },
+    "0550": {
+        "HP": 70,
+        "Attack": 92,
+        "Defense": 65,
+        "Sp. Attack": 80,
+        "Sp. Defense": 55,
+        "Speed": 98
+    },
+    "0551": {
+        "HP": 50,
+        "Attack": 72,
+        "Defense": 35,
+        "Sp. Attack": 35,
+        "Sp. Defense": 35,
+        "Speed": 65
+    },
+    "0552": {
+        "HP": 60,
+        "Attack": 82,
+        "Defense": 45,
+        "Sp. Attack": 45,
+        "Sp. Defense": 45,
+        "Speed": 74
+    },
+    "0553": {
+        "HP": 95,
+        "Attack": 117,
+        "Defense": 80,
+        "Sp. Attack": 65,
+        "Sp. Defense": 70,
+        "Speed": 92
+    },
+    "0554": {
+        "HP": 70,
+        "Attack": 90,
+        "Defense": 45,
+        "Sp. Attack": 15,
+        "Sp. Defense": 45,
+        "Speed": 50
+    },
+    "0555": {
+        "HP": 105,
+        "Attack": 140,
+        "Defense": 55,
+        "Sp. Attack": 30,
+        "Sp. Defense": 55,
+        "Speed": 95
+    },
+    "0556": {
+        "HP": 75,
+        "Attack": 86,
+        "Defense": 67,
+        "Sp. Attack": 106,
+        "Sp. Defense": 67,
+        "Speed": 60
+    },
+    "0557": {
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 85,
+        "Sp. Attack": 35,
+        "Sp. Defense": 35,
+        "Speed": 55
+    },
+    "0558": {
+        "HP": 70,
+        "Attack": 105,
+        "Defense": 125,
+        "Sp. Attack": 65,
+        "Sp. Defense": 75,
+        "Speed": 45
+    },
+    "0559": {
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 70,
+        "Sp. Attack": 35,
+        "Sp. Defense": 70,
+        "Speed": 48
+    },
+    "0560": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 115,
+        "Sp. Attack": 45,
+        "Sp. Defense": 115,
+        "Speed": 58
+    },
+    "0561": {
+        "HP": 72,
+        "Attack": 58,
+        "Defense": 80,
+        "Sp. Attack": 103,
+        "Sp. Defense": 80,
+        "Speed": 97
+    },
+    "0562": {
+        "HP": 38,
+        "Attack": 30,
+        "Defense": 85,
+        "Sp. Attack": 55,
+        "Sp. Defense": 65,
+        "Speed": 30
+    },
+    "0563": {
+        "HP": 58,
+        "Attack": 50,
+        "Defense": 145,
+        "Sp. Attack": 95,
+        "Sp. Defense": 105,
+        "Speed": 30
+    },
+    "0564": {
+        "HP": 54,
+        "Attack": 78,
+        "Defense": 103,
+        "Sp. Attack": 53,
+        "Sp. Defense": 45,
+        "Speed": 22
+    },
+    "0565": {
+        "HP": 74,
+        "Attack": 108,
+        "Defense": 133,
+        "Sp. Attack": 83,
+        "Sp. Defense": 65,
+        "Speed": 32
+    },
+    "0566": {
+        "HP": 55,
+        "Attack": 112,
+        "Defense": 45,
+        "Sp. Attack": 74,
+        "Sp. Defense": 45,
+        "Speed": 70
+    },
+    "0567": {
+        "HP": 75,
+        "Attack": 140,
+        "Defense": 65,
+        "Sp. Attack": 112,
+        "Sp. Defense": 65,
+        "Speed": 110
+    },
+    "0568": {
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 62,
+        "Sp. Attack": 40,
+        "Sp. Defense": 62,
+        "Speed": 65
+    },
+    "0569": {
+        "HP": 80,
+        "Attack": 95,
+        "Defense": 82,
+        "Sp. Attack": 60,
+        "Sp. Defense": 82,
+        "Speed": 75
+    },
+    "0570": {
+        "HP": 40,
+        "Attack": 65,
+        "Defense": 40,
+        "Sp. Attack": 80,
+        "Sp. Defense": 40,
+        "Speed": 65
+    },
+    "0571": {
+        "HP": 60,
+        "Attack": 105,
+        "Defense": 60,
+        "Sp. Attack": 120,
+        "Sp. Defense": 60,
+        "Speed": 105
+    },
+    "0572": {
+        "HP": 55,
+        "Attack": 50,
+        "Defense": 40,
+        "Sp. Attack": 40,
+        "Sp. Defense": 40,
+        "Speed": 75
+    },
+    "0573": {
+        "HP": 75,
+        "Attack": 95,
+        "Defense": 60,
+        "Sp. Attack": 65,
+        "Sp. Defense": 60,
+        "Speed": 115
+    },
+    "0574": {
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 50,
+        "Sp. Attack": 55,
+        "Sp. Defense": 65,
+        "Speed": 45
+    },
+    "0575": {
+        "HP": 60,
+        "Attack": 45,
+        "Defense": 70,
+        "Sp. Attack": 75,
+        "Sp. Defense": 85,
+        "Speed": 55
+    },
+    "0576": {
+        "HP": 70,
+        "Attack": 55,
+        "Defense": 95,
+        "Sp. Attack": 95,
+        "Sp. Defense": 110,
+        "Speed": 65
+    },
+    "0577": {
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 40,
+        "Sp. Attack": 105,
+        "Sp. Defense": 50,
+        "Speed": 20
+    },
+    "0578": {
+        "HP": 65,
+        "Attack": 40,
+        "Defense": 50,
+        "Sp. Attack": 125,
+        "Sp. Defense": 60,
+        "Speed": 30
+    },
+    "0579": {
+        "HP": 110,
+        "Attack": 65,
+        "Defense": 75,
+        "Sp. Attack": 125,
+        "Sp. Defense": 85,
+        "Speed": 30
+    },
+    "0580": {
+        "HP": 62,
+        "Attack": 44,
+        "Defense": 50,
+        "Sp. Attack": 44,
+        "Sp. Defense": 50,
+        "Speed": 55
+    },
+    "0581": {
+        "HP": 75,
+        "Attack": 87,
+        "Defense": 63,
+        "Sp. Attack": 87,
+        "Sp. Defense": 63,
+        "Speed": 98
+    },
+    "0582": {
+        "HP": 36,
+        "Attack": 50,
+        "Defense": 50,
+        "Sp. Attack": 65,
+        "Sp. Defense": 60,
+        "Speed": 44
+    },
+    "0583": {
+        "HP": 51,
+        "Attack": 65,
+        "Defense": 65,
+        "Sp. Attack": 80,
+        "Sp. Defense": 75,
+        "Speed": 59
+    },
+    "0584": {
+        "HP": 71,
+        "Attack": 95,
+        "Defense": 85,
+        "Sp. Attack": 110,
+        "Sp. Defense": 95,
+        "Speed": 79
+    },
+    "0585": {
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 50,
+        "Sp. Attack": 40,
+        "Sp. Defense": 50,
+        "Speed": 75
+    },
+    "0586": {
+        "HP": 80,
+        "Attack": 100,
+        "Defense": 70,
+        "Sp. Attack": 60,
+        "Sp. Defense": 70,
+        "Speed": 95
+    },
+    "0587": {
+        "HP": 55,
+        "Attack": 75,
+        "Defense": 60,
+        "Sp. Attack": 75,
+        "Sp. Defense": 60,
+        "Speed": 103
+    },
+    "0588": {
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 45,
+        "Sp. Attack": 40,
+        "Sp. Defense": 45,
+        "Speed": 60
+    },
+    "0589": {
+        "HP": 70,
+        "Attack": 135,
+        "Defense": 105,
+        "Sp. Attack": 60,
+        "Sp. Defense": 105,
+        "Speed": 20
+    },
+    "0590": {
+        "HP": 69,
+        "Attack": 55,
+        "Defense": 45,
+        "Sp. Attack": 55,
+        "Sp. Defense": 55,
+        "Speed": 15
+    },
+    "0591": {
+        "HP": 114,
+        "Attack": 85,
+        "Defense": 70,
+        "Sp. Attack": 85,
+        "Sp. Defense": 80,
+        "Speed": 30
+    },
+    "0592": {
+        "HP": 55,
+        "Attack": 40,
+        "Defense": 50,
+        "Sp. Attack": 65,
+        "Sp. Defense": 85,
+        "Speed": 40
+    },
+    "0593": {
+        "HP": 100,
+        "Attack": 60,
+        "Defense": 70,
+        "Sp. Attack": 85,
+        "Sp. Defense": 105,
+        "Speed": 60
+    },
+    "0594": {
+        "HP": 165,
+        "Attack": 75,
+        "Defense": 80,
+        "Sp. Attack": 40,
+        "Sp. Defense": 45,
+        "Speed": 65
+    },
+    "0595": {
+        "HP": 50,
+        "Attack": 47,
+        "Defense": 50,
+        "Sp. Attack": 57,
+        "Sp. Defense": 50,
+        "Speed": 65
+    },
+    "0596": {
+        "HP": 70,
+        "Attack": 77,
+        "Defense": 60,
+        "Sp. Attack": 97,
+        "Sp. Defense": 60,
+        "Speed": 108
+    },
+    "0597": {
+        "HP": 44,
+        "Attack": 50,
+        "Defense": 91,
+        "Sp. Attack": 24,
+        "Sp. Defense": 86,
+        "Speed": 10
+    },
+    "0598": {
+        "HP": 74,
+        "Attack": 94,
+        "Defense": 131,
+        "Sp. Attack": 54,
+        "Sp. Defense": 116,
+        "Speed": 20
+    },
+    "0599": {
+        "HP": 40,
+        "Attack": 55,
+        "Defense": 70,
+        "Sp. Attack": 45,
+        "Sp. Defense": 60,
+        "Speed": 30
+    },
+    "0600": {
+        "HP": 60,
+        "Attack": 80,
+        "Defense": 95,
+        "Sp. Attack": 70,
+        "Sp. Defense": 85,
+        "Speed": 50
+    },
+    "0601": {
+        "HP": 60,
+        "Attack": 100,
+        "Defense": 115,
+        "Sp. Attack": 70,
+        "Sp. Defense": 85,
+        "Speed": 90
+    },
+    "0602": {
+        "HP": 35,
+        "Attack": 55,
+        "Defense": 40,
+        "Sp. Attack": 45,
+        "Sp. Defense": 40,
+        "Speed": 60
+    },
+    "0603": {
+        "HP": 65,
+        "Attack": 85,
+        "Defense": 70,
+        "Sp. Attack": 75,
+        "Sp. Defense": 70,
+        "Speed": 40
+    },
+    "0604": {
+        "HP": 85,
+        "Attack": 115,
+        "Defense": 80,
+        "Sp. Attack": 105,
+        "Sp. Defense": 80,
+        "Speed": 50
+    },
+    "0605": {
+        "HP": 55,
+        "Attack": 55,
+        "Defense": 55,
+        "Sp. Attack": 85,
+        "Sp. Defense": 55,
+        "Speed": 30
+    },
+    "0606": {
+        "HP": 75,
+        "Attack": 75,
+        "Defense": 75,
+        "Sp. Attack": 125,
+        "Sp. Defense": 95,
+        "Speed": 40
+    },
+    "0607": {
+        "HP": 50,
+        "Attack": 30,
+        "Defense": 55,
+        "Sp. Attack": 65,
+        "Sp. Defense": 55,
+        "Speed": 20
+    },
+    "0608": {
+        "HP": 60,
+        "Attack": 40,
+        "Defense": 60,
+        "Sp. Attack": 95,
+        "Sp. Defense": 60,
+        "Speed": 55
+    },
+    "0609": {
+        "HP": 60,
+        "Attack": 55,
+        "Defense": 90,
+        "Sp. Attack": 145,
+        "Sp. Defense": 90,
+        "Speed": 80
+    },
+    "0610": {
+        "HP": 46,
+        "Attack": 87,
+        "Defense": 60,
+        "Sp. Attack": 30,
+        "Sp. Defense": 40,
+        "Speed": 57
+    },
+    "0611": {
+        "HP": 66,
+        "Attack": 117,
+        "Defense": 70,
+        "Sp. Attack": 40,
+        "Sp. Defense": 50,
+        "Speed": 67
+    },
+    "0612": {
+        "HP": 76,
+        "Attack": 147,
+        "Defense": 90,
+        "Sp. Attack": 60,
+        "Sp. Defense": 70,
+        "Speed": 97
+    },
+    "0613": {
+        "HP": 55,
+        "Attack": 70,
+        "Defense": 40,
+        "Sp. Attack": 60,
+        "Sp. Defense": 40,
+        "Speed": 40
+    },
+    "0614": {
+        "HP": 95,
+        "Attack": 130,
+        "Defense": 80,
+        "Sp. Attack": 70,
+        "Sp. Defense": 80,
+        "Speed": 50
+    },
+    "0615": {
+        "HP": 80,
+        "Attack": 50,
+        "Defense": 50,
+        "Sp. Attack": 95,
+        "Sp. Defense": 135,
+        "Speed": 105
+    },
+    "0616": {
+        "HP": 50,
+        "Attack": 40,
+        "Defense": 85,
+        "Sp. Attack": 40,
+        "Sp. Defense": 65,
+        "Speed": 25
+    },
+    "0617": {
+        "HP": 80,
+        "Attack": 70,
+        "Defense": 40,
+        "Sp. Attack": 100,
+        "Sp. Defense": 60,
+        "Speed": 145
+    },
+    "0618": {
+        "HP": 109,
+        "Attack": 66,
+        "Defense": 84,
+        "Sp. Attack": 81,
+        "Sp. Defense": 99,
+        "Speed": 32
+    },
+    "0619": {
+        "HP": 45,
+        "Attack": 85,
+        "Defense": 50,
+        "Sp. Attack": 55,
+        "Sp. Defense": 50,
+        "Speed": 65
+    },
+    "0620": {
+        "HP": 65,
+        "Attack": 125,
+        "Defense": 60,
+        "Sp. Attack": 95,
+        "Sp. Defense": 60,
+        "Speed": 105
+    },
+    "0621": {
+        "HP": 77,
+        "Attack": 120,
+        "Defense": 90,
+        "Sp. Attack": 60,
+        "Sp. Defense": 90,
+        "Speed": 48
+    },
+    "0622": {
+        "HP": 59,
+        "Attack": 74,
+        "Defense": 50,
+        "Sp. Attack": 35,
+        "Sp. Defense": 50,
+        "Speed": 35
+    },
+    "0623": {
+        "HP": 89,
+        "Attack": 124,
+        "Defense": 80,
+        "Sp. Attack": 55,
+        "Sp. Defense": 80,
+        "Speed": 55
+    },
+    "0624": {
+        "HP": 45,
+        "Attack": 85,
+        "Defense": 70,
+        "Sp. Attack": 40,
+        "Sp. Defense": 40,
+        "Speed": 60
+    },
+    "0625": {
+        "HP": 65,
+        "Attack": 125,
+        "Defense": 100,
+        "Sp. Attack": 60,
+        "Sp. Defense": 70,
+        "Speed": 70
+    },
+    "0626": {
+        "HP": 95,
+        "Attack": 110,
+        "Defense": 95,
+        "Sp. Attack": 40,
+        "Sp. Defense": 95,
+        "Speed": 55
+    },
+    "0627": {
+        "HP": 70,
+        "Attack": 83,
+        "Defense": 50,
+        "Sp. Attack": 37,
+        "Sp. Defense": 50,
+        "Speed": 60
+    },
+    "0628": {
+        "HP": 100,
+        "Attack": 123,
+        "Defense": 75,
+        "Sp. Attack": 57,
+        "Sp. Defense": 75,
+        "Speed": 80
+    },
+    "0629": {
+        "HP": 70,
+        "Attack": 55,
+        "Defense": 75,
+        "Sp. Attack": 45,
+        "Sp. Defense": 65,
+        "Speed": 60
+    },
+    "0630": {
+        "HP": 110,
+        "Attack": 65,
+        "Defense": 105,
+        "Sp. Attack": 55,
+        "Sp. Defense": 95,
+        "Speed": 80
+    },
+    "0631": {
+        "HP": 85,
+        "Attack": 97,
+        "Defense": 66,
+        "Sp. Attack": 105,
+        "Sp. Defense": 66,
+        "Speed": 65
+    },
+    "0632": {
+        "HP": 58,
+        "Attack": 109,
+        "Defense": 112,
+        "Sp. Attack": 48,
+        "Sp. Defense": 48,
+        "Speed": 109
+    },
+    "0633": {
+        "HP": 52,
+        "Attack": 65,
+        "Defense": 50,
+        "Sp. Attack": 45,
+        "Sp. Defense": 50,
+        "Speed": 38
+    },
+    "0634": {
+        "HP": 72,
+        "Attack": 85,
+        "Defense": 70,
+        "Sp. Attack": 65,
+        "Sp. Defense": 70,
+        "Speed": 58
+    },
+    "0635": {
+        "HP": 92,
+        "Attack": 105,
+        "Defense": 90,
+        "Sp. Attack": 125,
+        "Sp. Defense": 90,
+        "Speed": 98
+    },
+    "0636": {
+        "HP": 55,
+        "Attack": 85,
+        "Defense": 55,
+        "Sp. Attack": 50,
+        "Sp. Defense": 55,
+        "Speed": 60
+    },
+    "0637": {
+        "HP": 85,
+        "Attack": 60,
+        "Defense": 65,
+        "Sp. Attack": 135,
+        "Sp. Defense": 105,
+        "Speed": 100
+    },
+    "0638": {
+        "HP": 91,
+        "Attack": 90,
+        "Defense": 129,
+        "Sp. Attack": 90,
+        "Sp. Defense": 72,
+        "Speed": 108
+    },
+    "0639": {
+        "HP": 91,
+        "Attack": 129,
+        "Defense": 90,
+        "Sp. Attack": 72,
+        "Sp. Defense": 90,
+        "Speed": 108
+    },
+    "0640": {
+        "HP": 91,
+        "Attack": 90,
+        "Defense": 72,
+        "Sp. Attack": 90,
+        "Sp. Defense": 129,
+        "Speed": 108
+    },
+    "0641": {
+        "HP": 79,
+        "Attack": 115,
+        "Defense": 70,
+        "Sp. Attack": 125,
+        "Sp. Defense": 80,
+        "Speed": 111
+    },
+    "0642": {
+        "HP": 79,
+        "Attack": 115,
+        "Defense": 70,
+        "Sp. Attack": 125,
+        "Sp. Defense": 80,
+        "Speed": 111
+    },
+    "0643": {
+        "HP": 100,
+        "Attack": 120,
+        "Defense": 100,
+        "Sp. Attack": 150,
+        "Sp. Defense": 120,
+        "Speed": 90
+    },
+    "0644": {
+        "HP": 100,
+        "Attack": 150,
+        "Defense": 120,
+        "Sp. Attack": 120,
+        "Sp. Defense": 100,
+        "Speed": 90
+    },
+    "0645": {
+        "HP": 89,
+        "Attack": 125,
+        "Defense": 90,
+        "Sp. Attack": 115,
+        "Sp. Defense": 80,
+        "Speed": 101
+    },
+    "0646": {
+        "HP": 125,
+        "Attack": 130,
+        "Defense": 90,
+        "Sp. Attack": 130,
+        "Sp. Defense": 90,
+        "Speed": 95
+    },
+    "0647": {
+        "HP": 91,
+        "Attack": 72,
+        "Defense": 90,
+        "Sp. Attack": 129,
+        "Sp. Defense": 90,
+        "Speed": 108
+    },
+    "0648": {
+        "HP": 100,
+        "Attack": 77,
+        "Defense": 77,
+        "Sp. Attack": 128,
+        "Sp. Defense": 128,
+        "Speed": 90
+    },
+    "0649": {
+        "HP": 71,
+        "Attack": 120,
+        "Defense": 95,
+        "Sp. Attack": 120,
+        "Sp. Defense": 95,
+        "Speed": 99
+    },
+    "0650": {
+        "HP": 56,
+        "Attack": 61,
+        "Defense": 65,
+        "Sp. Attack": 48,
+        "Sp. Defense": 45,
+        "Speed": 38
+    },
+    "0651": {
+        "HP": 61,
+        "Attack": 78,
+        "Defense": 95,
+        "Sp. Attack": 56,
+        "Sp. Defense": 58,
+        "Speed": 57
+    },
+    "0652": {
+        "HP": 88,
+        "Attack": 107,
+        "Defense": 122,
+        "Sp. Attack": 74,
+        "Sp. Defense": 75,
+        "Speed": 64
+    },
+    "0653": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 40,
+        "Sp. Attack": 62,
+        "Sp. Defense": 60,
+        "Speed": 60
+    },
+    "0654": {
+        "HP": 59,
+        "Attack": 59,
+        "Defense": 58,
+        "Sp. Attack": 90,
+        "Sp. Defense": 70,
+        "Speed": 73
+    },
+    "0655": {
+        "HP": 75,
+        "Attack": 69,
+        "Defense": 72,
+        "Sp. Attack": 114,
+        "Sp. Defense": 100,
+        "Speed": 104
+    },
+    "0656": {
+        "HP": 41,
+        "Attack": 56,
+        "Defense": 40,
+        "Sp. Attack": 62,
+        "Sp. Defense": 44,
+        "Speed": 71
+    },
+    "0657": {
+        "HP": 54,
+        "Attack": 63,
+        "Defense": 52,
+        "Sp. Attack": 83,
+        "Sp. Defense": 56,
+        "Speed": 97
+    },
+    "0658": {
+        "HP": 72,
+        "Attack": 95,
+        "Defense": 67,
+        "Sp. Attack": 103,
+        "Sp. Defense": 71,
+        "Speed": 122
+    },
+    "0659": {
+        "HP": 38,
+        "Attack": 36,
+        "Defense": 38,
+        "Sp. Attack": 32,
+        "Sp. Defense": 36,
+        "Speed": 57
+    },
+    "0660": {
+        "HP": 85,
+        "Attack": 56,
+        "Defense": 77,
+        "Sp. Attack": 50,
+        "Sp. Defense": 77,
+        "Speed": 78
+    },
+    "0661": {
+        "HP": 45,
+        "Attack": 50,
+        "Defense": 43,
+        "Sp. Attack": 40,
+        "Sp. Defense": 38,
+        "Speed": 62
+    },
+    "0662": {
+        "HP": 62,
+        "Attack": 73,
+        "Defense": 55,
+        "Sp. Attack": 56,
+        "Sp. Defense": 52,
+        "Speed": 84
+    },
+    "0663": {
+        "HP": 78,
+        "Attack": 81,
+        "Defense": 71,
+        "Sp. Attack": 74,
+        "Sp. Defense": 69,
+        "Speed": 126
+    },
+    "0664": {
+        "HP": 38,
+        "Attack": 35,
+        "Defense": 40,
+        "Sp. Attack": 27,
+        "Sp. Defense": 25,
+        "Speed": 35
+    },
+    "0665": {
+        "HP": 45,
+        "Attack": 22,
+        "Defense": 60,
+        "Sp. Attack": 27,
+        "Sp. Defense": 30,
+        "Speed": 29
+    },
+    "0666": {
+        "HP": 80,
+        "Attack": 52,
+        "Defense": 50,
+        "Sp. Attack": 90,
+        "Sp. Defense": 50,
+        "Speed": 89
+    },
+    "0667": {
+        "HP": 62,
+        "Attack": 50,
+        "Defense": 58,
+        "Sp. Attack": 73,
+        "Sp. Defense": 54,
+        "Speed": 72
+    },
+    "0668": {
+        "HP": 86,
+        "Attack": 68,
+        "Defense": 72,
+        "Sp. Attack": 109,
+        "Sp. Defense": 66,
+        "Speed": 106
+    },
+    "0669": {
+        "HP": 44,
+        "Attack": 38,
+        "Defense": 39,
+        "Sp. Attack": 61,
+        "Sp. Defense": 79,
+        "Speed": 42
+    },
+    "0670": {
+        "HP": 54,
+        "Attack": 45,
+        "Defense": 47,
+        "Sp. Attack": 75,
+        "Sp. Defense": 98,
+        "Speed": 52
+    },
+    "0671": {
+        "HP": 78,
+        "Attack": 65,
+        "Defense": 68,
+        "Sp. Attack": 112,
+        "Sp. Defense": 154,
+        "Speed": 75
+    },
+    "0672": {
+        "HP": 66,
+        "Attack": 65,
+        "Defense": 48,
+        "Sp. Attack": 62,
+        "Sp. Defense": 57,
+        "Speed": 52
+    },
+    "0673": {
+        "HP": 123,
+        "Attack": 100,
+        "Defense": 62,
+        "Sp. Attack": 97,
+        "Sp. Defense": 81,
+        "Speed": 68
+    },
+    "0674": {
+        "HP": 67,
+        "Attack": 82,
+        "Defense": 62,
+        "Sp. Attack": 46,
+        "Sp. Defense": 48,
+        "Speed": 43
+    },
+    "0675": {
+        "HP": 95,
+        "Attack": 124,
+        "Defense": 78,
+        "Sp. Attack": 69,
+        "Sp. Defense": 71,
+        "Speed": 58
+    },
+    "0676": {
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 60,
+        "Sp. Attack": 65,
+        "Sp. Defense": 90,
+        "Speed": 102
+    },
+    "0677": {
+        "HP": 62,
+        "Attack": 48,
+        "Defense": 54,
+        "Sp. Attack": 63,
+        "Sp. Defense": 60,
+        "Speed": 68
+    },
+    "0678": {
+        "HP": 74,
+        "Attack": 48,
+        "Defense": 76,
+        "Sp. Attack": 83,
+        "Sp. Defense": 81,
+        "Speed": 104
+    },
+    "0679": {
+        "HP": 45,
+        "Attack": 80,
+        "Defense": 100,
+        "Sp. Attack": 35,
+        "Sp. Defense": 37,
+        "Speed": 28
+    },
+    "0680": {
+        "HP": 59,
+        "Attack": 110,
+        "Defense": 150,
+        "Sp. Attack": 45,
+        "Sp. Defense": 49,
+        "Speed": 35
+    },
+    "0681": {
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 140,
+        "Sp. Attack": 50,
+        "Sp. Defense": 140,
+        "Speed": 60
+    },
+    "0682": {
+        "HP": 78,
+        "Attack": 52,
+        "Defense": 60,
+        "Sp. Attack": 63,
+        "Sp. Defense": 65,
+        "Speed": 23
+    },
+    "0683": {
+        "HP": 101,
+        "Attack": 72,
+        "Defense": 72,
+        "Sp. Attack": 99,
+        "Sp. Defense": 89,
+        "Speed": 29
+    },
+    "0684": {
+        "HP": 62,
+        "Attack": 48,
+        "Defense": 66,
+        "Sp. Attack": 59,
+        "Sp. Defense": 57,
+        "Speed": 49
+    },
+    "0685": {
+        "HP": 82,
+        "Attack": 80,
+        "Defense": 86,
+        "Sp. Attack": 85,
+        "Sp. Defense": 75,
+        "Speed": 72
+    },
+    "0686": {
+        "HP": 53,
+        "Attack": 54,
+        "Defense": 53,
+        "Sp. Attack": 37,
+        "Sp. Defense": 46,
+        "Speed": 45
+    },
+    "0687": {
+        "HP": 86,
+        "Attack": 92,
+        "Defense": 88,
+        "Sp. Attack": 68,
+        "Sp. Defense": 75,
+        "Speed": 73
+    },
+    "0688": {
+        "HP": 42,
+        "Attack": 52,
+        "Defense": 67,
+        "Sp. Attack": 39,
+        "Sp. Defense": 56,
+        "Speed": 50
+    },
+    "0689": {
+        "HP": 72,
+        "Attack": 105,
+        "Defense": 115,
+        "Sp. Attack": 54,
+        "Sp. Defense": 86,
+        "Speed": 68
+    },
+    "0690": {
+        "HP": 50,
+        "Attack": 60,
+        "Defense": 60,
+        "Sp. Attack": 60,
+        "Sp. Defense": 60,
+        "Speed": 30
+    },
+    "0691": {
+        "HP": 65,
+        "Attack": 75,
+        "Defense": 90,
+        "Sp. Attack": 97,
+        "Sp. Defense": 123,
+        "Speed": 44
+    },
+    "0692": {
+        "HP": 50,
+        "Attack": 53,
+        "Defense": 62,
+        "Sp. Attack": 58,
+        "Sp. Defense": 63,
+        "Speed": 44
+    },
+    "0693": {
+        "HP": 71,
+        "Attack": 73,
+        "Defense": 88,
+        "Sp. Attack": 120,
+        "Sp. Defense": 89,
+        "Speed": 59
+    },
+    "0694": {
+        "HP": 44,
+        "Attack": 38,
+        "Defense": 33,
+        "Sp. Attack": 61,
+        "Sp. Defense": 43,
+        "Speed": 70
+    },
+    "0695": {
+        "HP": 62,
+        "Attack": 55,
+        "Defense": 52,
+        "Sp. Attack": 109,
+        "Sp. Defense": 94,
+        "Speed": 109
+    },
+    "0696": {
+        "HP": 58,
+        "Attack": 89,
+        "Defense": 77,
+        "Sp. Attack": 45,
+        "Sp. Defense": 45,
+        "Speed": 48
+    },
+    "0697": {
+        "HP": 82,
+        "Attack": 121,
+        "Defense": 119,
+        "Sp. Attack": 69,
+        "Sp. Defense": 59,
+        "Speed": 71
+    },
+    "0698": {
+        "HP": 77,
+        "Attack": 59,
+        "Defense": 50,
+        "Sp. Attack": 67,
+        "Sp. Defense": 63,
+        "Speed": 46
+    },
+    "0699": {
+        "HP": 123,
+        "Attack": 77,
+        "Defense": 72,
+        "Sp. Attack": 99,
+        "Sp. Defense": 92,
+        "Speed": 58
+    },
+    "0700": {
+        "HP": 95,
+        "Attack": 65,
+        "Defense": 65,
+        "Sp. Attack": 110,
+        "Sp. Defense": 130,
+        "Speed": 60
+    },
+    "0701": {
+        "HP": 78,
+        "Attack": 92,
+        "Defense": 75,
+        "Sp. Attack": 74,
+        "Sp. Defense": 63,
+        "Speed": 118
+    },
+    "0702": {
+        "HP": 67,
+        "Attack": 58,
+        "Defense": 57,
+        "Sp. Attack": 81,
+        "Sp. Defense": 67,
+        "Speed": 101
+    },
+    "0703": {
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 150,
+        "Sp. Attack": 50,
+        "Sp. Defense": 150,
+        "Speed": 50
+    },
+    "0704": {
+        "HP": 45,
+        "Attack": 50,
+        "Defense": 35,
+        "Sp. Attack": 55,
+        "Sp. Defense": 75,
+        "Speed": 40
+    },
+    "0705": {
+        "HP": 68,
+        "Attack": 75,
+        "Defense": 53,
+        "Sp. Attack": 83,
+        "Sp. Defense": 113,
+        "Speed": 60
+    },
+    "0706": {
+        "HP": 90,
+        "Attack": 100,
+        "Defense": 70,
+        "Sp. Attack": 110,
+        "Sp. Defense": 150,
+        "Speed": 80
+    },
+    "0707": {
+        "HP": 57,
+        "Attack": 80,
+        "Defense": 91,
+        "Sp. Attack": 80,
+        "Sp. Defense": 87,
+        "Speed": 75
+    },
+    "0708": {
+        "HP": 43,
+        "Attack": 70,
+        "Defense": 48,
+        "Sp. Attack": 50,
+        "Sp. Defense": 60,
+        "Speed": 38
+    },
+    "0709": {
+        "HP": 85,
+        "Attack": 110,
+        "Defense": 76,
+        "Sp. Attack": 65,
+        "Sp. Defense": 82,
+        "Speed": 56
+    },
+    "0710": {
+        "HP": 49,
+        "Attack": 66,
+        "Defense": 70,
+        "Sp. Attack": 44,
+        "Sp. Defense": 55,
+        "Speed": 51
+    },
+    "0711": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 122,
+        "Sp. Attack": 58,
+        "Sp. Defense": 75,
+        "Speed": 84
+    },
+    "0712": {
+        "HP": 55,
+        "Attack": 69,
+        "Defense": 85,
+        "Sp. Attack": 32,
+        "Sp. Defense": 35,
+        "Speed": 28
+    },
+    "0713": {
+        "HP": 95,
+        "Attack": 117,
+        "Defense": 184,
+        "Sp. Attack": 44,
+        "Sp. Defense": 46,
+        "Speed": 28
+    },
+    "0714": {
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 35,
+        "Sp. Attack": 45,
+        "Sp. Defense": 40,
+        "Speed": 55
+    },
+    "0715": {
+        "HP": 85,
+        "Attack": 70,
+        "Defense": 80,
+        "Sp. Attack": 97,
+        "Sp. Defense": 80,
+        "Speed": 123
+    },
+    "0716": {
+        "HP": 126,
+        "Attack": 131,
+        "Defense": 95,
+        "Sp. Attack": 131,
+        "Sp. Defense": 98,
+        "Speed": 99
+    },
+    "0717": {
+        "HP": 126,
+        "Attack": 131,
+        "Defense": 95,
+        "Sp. Attack": 131,
+        "Sp. Defense": 98,
+        "Speed": 99
+    },
+    "0718": {
+        "HP": 108,
+        "Attack": 100,
+        "Defense": 121,
+        "Sp. Attack": 81,
+        "Sp. Defense": 95,
+        "Speed": 95
+    },
+    "0719": {
+        "HP": 50,
+        "Attack": 100,
+        "Defense": 150,
+        "Sp. Attack": 100,
+        "Sp. Defense": 150,
+        "Speed": 50
+    },
+    "0720": {
+        "HP": 80,
+        "Attack": 110,
+        "Defense": 60,
+        "Sp. Attack": 150,
+        "Sp. Defense": 130,
+        "Speed": 70
+    },
+    "0721": {
+        "HP": 80,
+        "Attack": 110,
+        "Defense": 120,
+        "Sp. Attack": 130,
+        "Sp. Defense": 90,
+        "Speed": 70
+    },
+    "0722": {
+        "HP": 68,
+        "Attack": 55,
+        "Defense": 55,
+        "Sp. Attack": 50,
+        "Sp. Defense": 50,
+        "Speed": 42
+    },
+    "0723": {
+        "HP": 78,
+        "Attack": 75,
+        "Defense": 75,
+        "Sp. Attack": 70,
+        "Sp. Defense": 70,
+        "Speed": 52
+    },
+    "0724": {
+        "HP": 78,
+        "Attack": 107,
+        "Defense": 75,
+        "Sp. Attack": 100,
+        "Sp. Defense": 100,
+        "Speed": 70
+    },
+    "0725": {
+        "HP": 45,
+        "Attack": 65,
+        "Defense": 40,
+        "Sp. Attack": 60,
+        "Sp. Defense": 40,
+        "Speed": 70
+    },
+    "0726": {
+        "HP": 65,
+        "Attack": 85,
+        "Defense": 50,
+        "Sp. Attack": 80,
+        "Sp. Defense": 50,
+        "Speed": 90
+    },
+    "0727": {
+        "HP": 95,
+        "Attack": 115,
+        "Defense": 90,
+        "Sp. Attack": 80,
+        "Sp. Defense": 90,
+        "Speed": 60
+    },
+    "0728": {
+        "HP": 50,
+        "Attack": 54,
+        "Defense": 54,
+        "Sp. Attack": 66,
+        "Sp. Defense": 56,
+        "Speed": 40
+    },
+    "0729": {
+        "HP": 60,
+        "Attack": 69,
+        "Defense": 69,
+        "Sp. Attack": 91,
+        "Sp. Defense": 81,
+        "Speed": 50
+    },
+    "0730": {
+        "HP": 80,
+        "Attack": 74,
+        "Defense": 74,
+        "Sp. Attack": 126,
+        "Sp. Defense": 116,
+        "Speed": 60
+    },
+    "0731": {
+        "HP": 35,
+        "Attack": 75,
+        "Defense": 30,
+        "Sp. Attack": 30,
+        "Sp. Defense": 30,
+        "Speed": 65
+    },
+    "0732": {
+        "HP": 55,
+        "Attack": 85,
+        "Defense": 50,
+        "Sp. Attack": 40,
+        "Sp. Defense": 50,
+        "Speed": 75
+    },
+    "0733": {
+        "HP": 80,
+        "Attack": 120,
+        "Defense": 75,
+        "Sp. Attack": 75,
+        "Sp. Defense": 75,
+        "Speed": 60
+    },
+    "0734": {
+        "HP": 48,
+        "Attack": 70,
+        "Defense": 30,
+        "Sp. Attack": 30,
+        "Sp. Defense": 30,
+        "Speed": 45
+    },
+    "0735": {
+        "HP": 88,
+        "Attack": 110,
+        "Defense": 60,
+        "Sp. Attack": 55,
+        "Sp. Defense": 60,
+        "Speed": 45
+    },
+    "0736": {
+        "HP": 47,
+        "Attack": 62,
+        "Defense": 45,
+        "Sp. Attack": 55,
+        "Sp. Defense": 45,
+        "Speed": 46
+    },
+    "0737": {
+        "HP": 57,
+        "Attack": 82,
+        "Defense": 95,
+        "Sp. Attack": 55,
+        "Sp. Defense": 75,
+        "Speed": 36
+    },
+    "0738": {
+        "HP": 77,
+        "Attack": 70,
+        "Defense": 90,
+        "Sp. Attack": 145,
+        "Sp. Defense": 75,
+        "Speed": 43
+    },
+    "0739": {
+        "HP": 47,
+        "Attack": 82,
+        "Defense": 57,
+        "Sp. Attack": 42,
+        "Sp. Defense": 47,
+        "Speed": 63
+    },
+    "0740": {
+        "HP": 97,
+        "Attack": 132,
+        "Defense": 77,
+        "Sp. Attack": 62,
+        "Sp. Defense": 67,
+        "Speed": 43
+    },
+    "0741": {
+        "HP": 75,
+        "Attack": 70,
+        "Defense": 70,
+        "Sp. Attack": 98,
+        "Sp. Defense": 70,
+        "Speed": 93
+    },
+    "0742": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 40,
+        "Sp. Attack": 55,
+        "Sp. Defense": 40,
+        "Speed": 84
+    },
+    "0743": {
+        "HP": 60,
+        "Attack": 55,
+        "Defense": 60,
+        "Sp. Attack": 95,
+        "Sp. Defense": 70,
+        "Speed": 124
+    },
+    "0744": {
+        "HP": 45,
+        "Attack": 65,
+        "Defense": 40,
+        "Sp. Attack": 30,
+        "Sp. Defense": 40,
+        "Speed": 60
+    },
+    "0745": {
+        "HP": 75,
+        "Attack": 115,
+        "Defense": 65,
+        "Sp. Attack": 55,
+        "Sp. Defense": 65,
+        "Speed": 112
+    },
+    "0746": {
+        "HP": 45,
+        "Attack": 20,
+        "Defense": 20,
+        "Sp. Attack": 25,
+        "Sp. Defense": 25,
+        "Speed": 40
+    },
+    "0747": {
+        "HP": 50,
+        "Attack": 53,
+        "Defense": 62,
+        "Sp. Attack": 43,
+        "Sp. Defense": 52,
+        "Speed": 45
+    },
+    "0748": {
+        "HP": 50,
+        "Attack": 63,
+        "Defense": 152,
+        "Sp. Attack": 53,
+        "Sp. Defense": 142,
+        "Speed": 35
+    },
+    "0749": {
+        "HP": 70,
+        "Attack": 100,
+        "Defense": 70,
+        "Sp. Attack": 45,
+        "Sp. Defense": 55,
+        "Speed": 45
+    },
+    "0750": {
+        "HP": 100,
+        "Attack": 125,
+        "Defense": 100,
+        "Sp. Attack": 55,
+        "Sp. Defense": 85,
+        "Speed": 35
+    },
+    "0751": {
+        "HP": 38,
+        "Attack": 40,
+        "Defense": 52,
+        "Sp. Attack": 40,
+        "Sp. Defense": 72,
+        "Speed": 27
+    },
+    "0752": {
+        "HP": 68,
+        "Attack": 70,
+        "Defense": 92,
+        "Sp. Attack": 50,
+        "Sp. Defense": 132,
+        "Speed": 42
+    },
+    "0753": {
+        "HP": 40,
+        "Attack": 55,
+        "Defense": 35,
+        "Sp. Attack": 50,
+        "Sp. Defense": 35,
+        "Speed": 35
+    },
+    "0754": {
+        "HP": 70,
+        "Attack": 105,
+        "Defense": 90,
+        "Sp. Attack": 80,
+        "Sp. Defense": 90,
+        "Speed": 45
+    },
+    "0755": {
+        "HP": 40,
+        "Attack": 35,
+        "Defense": 55,
+        "Sp. Attack": 65,
+        "Sp. Defense": 75,
+        "Speed": 15
+    },
+    "0756": {
+        "HP": 60,
+        "Attack": 45,
+        "Defense": 80,
+        "Sp. Attack": 90,
+        "Sp. Defense": 100,
+        "Speed": 30
+    },
+    "0757": {
+        "HP": 48,
+        "Attack": 44,
+        "Defense": 40,
+        "Sp. Attack": 71,
+        "Sp. Defense": 40,
+        "Speed": 77
+    },
+    "0758": {
+        "HP": 68,
+        "Attack": 64,
+        "Defense": 60,
+        "Sp. Attack": 111,
+        "Sp. Defense": 60,
+        "Speed": 117
+    },
+    "0759": {
+        "HP": 70,
+        "Attack": 75,
+        "Defense": 50,
+        "Sp. Attack": 45,
+        "Sp. Defense": 50,
+        "Speed": 50
+    },
+    "0760": {
+        "HP": 120,
+        "Attack": 125,
+        "Defense": 80,
+        "Sp. Attack": 55,
+        "Sp. Defense": 60,
+        "Speed": 60
+    },
+    "0761": {
+        "HP": 42,
+        "Attack": 30,
+        "Defense": 38,
+        "Sp. Attack": 30,
+        "Sp. Defense": 38,
+        "Speed": 32
+    },
+    "0762": {
+        "HP": 52,
+        "Attack": 40,
+        "Defense": 48,
+        "Sp. Attack": 40,
+        "Sp. Defense": 48,
+        "Speed": 62
+    },
+    "0763": {
+        "HP": 72,
+        "Attack": 120,
+        "Defense": 98,
+        "Sp. Attack": 50,
+        "Sp. Defense": 98,
+        "Speed": 72
+    },
+    "0764": {
+        "HP": 51,
+        "Attack": 52,
+        "Defense": 90,
+        "Sp. Attack": 82,
+        "Sp. Defense": 110,
+        "Speed": 100
+    },
+    "0765": {
+        "HP": 90,
+        "Attack": 60,
+        "Defense": 80,
+        "Sp. Attack": 90,
+        "Sp. Defense": 110,
+        "Speed": 60
+    },
+    "0766": {
+        "HP": 100,
+        "Attack": 120,
+        "Defense": 90,
+        "Sp. Attack": 40,
+        "Sp. Defense": 60,
+        "Speed": 80
+    },
+    "0767": {
+        "HP": 25,
+        "Attack": 35,
+        "Defense": 40,
+        "Sp. Attack": 20,
+        "Sp. Defense": 30,
+        "Speed": 80
+    },
+    "0768": {
+        "HP": 75,
+        "Attack": 125,
+        "Defense": 140,
+        "Sp. Attack": 60,
+        "Sp. Defense": 90,
+        "Speed": 40
+    },
+    "0769": {
+        "HP": 55,
+        "Attack": 55,
+        "Defense": 80,
+        "Sp. Attack": 70,
+        "Sp. Defense": 45,
+        "Speed": 15
+    },
+    "0770": {
+        "HP": 85,
+        "Attack": 75,
+        "Defense": 110,
+        "Sp. Attack": 100,
+        "Sp. Defense": 75,
+        "Speed": 35
+    },
+    "0771": {
+        "HP": 55,
+        "Attack": 60,
+        "Defense": 130,
+        "Sp. Attack": 30,
+        "Sp. Defense": 130,
+        "Speed": 5
+    },
+    "0772": {
+        "HP": 95,
+        "Attack": 95,
+        "Defense": 95,
+        "Sp. Attack": 95,
+        "Sp. Defense": 95,
+        "Speed": 59
+    },
+    "0773": {
+        "HP": 95,
+        "Attack": 95,
+        "Defense": 95,
+        "Sp. Attack": 95,
+        "Sp. Defense": 95,
+        "Speed": 95
+    },
+    "0774": {
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 100,
+        "Sp. Attack": 60,
+        "Sp. Defense": 100,
+        "Speed": 60
+    },
+    "0775": {
+        "HP": 65,
+        "Attack": 115,
+        "Defense": 65,
+        "Sp. Attack": 75,
+        "Sp. Defense": 95,
+        "Speed": 65
+    },
+    "0776": {
+        "HP": 60,
+        "Attack": 78,
+        "Defense": 135,
+        "Sp. Attack": 91,
+        "Sp. Defense": 85,
+        "Speed": 36
+    },
+    "0777": {
+        "HP": 65,
+        "Attack": 98,
+        "Defense": 63,
+        "Sp. Attack": 40,
+        "Sp. Defense": 73,
+        "Speed": 96
+    },
+    "0778": {
+        "HP": 55,
+        "Attack": 90,
+        "Defense": 80,
+        "Sp. Attack": 50,
+        "Sp. Defense": 105,
+        "Speed": 96
+    },
+    "0779": {
+        "HP": 68,
+        "Attack": 105,
+        "Defense": 70,
+        "Sp. Attack": 70,
+        "Sp. Defense": 70,
+        "Speed": 92
+    },
+    "0780": {
+        "HP": 78,
+        "Attack": 60,
+        "Defense": 85,
+        "Sp. Attack": 135,
+        "Sp. Defense": 91,
+        "Speed": 36
+    },
+    "0781": {
+        "HP": 70,
+        "Attack": 131,
+        "Defense": 100,
+        "Sp. Attack": 86,
+        "Sp. Defense": 90,
+        "Speed": 40
+    },
+    "0782": {
+        "HP": 45,
+        "Attack": 55,
+        "Defense": 65,
+        "Sp. Attack": 45,
+        "Sp. Defense": 45,
+        "Speed": 45
+    },
+    "0783": {
+        "HP": 55,
+        "Attack": 75,
+        "Defense": 90,
+        "Sp. Attack": 65,
+        "Sp. Defense": 70,
+        "Speed": 65
+    },
+    "0784": {
+        "HP": 75,
+        "Attack": 110,
+        "Defense": 125,
+        "Sp. Attack": 100,
+        "Sp. Defense": 105,
+        "Speed": 85
+    },
+    "0785": {
+        "HP": 70,
+        "Attack": 115,
+        "Defense": 85,
+        "Sp. Attack": 95,
+        "Sp. Defense": 75,
+        "Speed": 130
+    },
+    "0786": {
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 75,
+        "Sp. Attack": 130,
+        "Sp. Defense": 115,
+        "Speed": 95
+    },
+    "0787": {
+        "HP": 70,
+        "Attack": 130,
+        "Defense": 115,
+        "Sp. Attack": 85,
+        "Sp. Defense": 95,
+        "Speed": 75
+    },
+    "0788": {
+        "HP": 70,
+        "Attack": 75,
+        "Defense": 115,
+        "Sp. Attack": 95,
+        "Sp. Defense": 130,
+        "Speed": 85
+    },
+    "0789": {
+        "HP": 43,
+        "Attack": 29,
+        "Defense": 31,
+        "Sp. Attack": 29,
+        "Sp. Defense": 31,
+        "Speed": 37
+    },
+    "0790": {
+        "HP": 43,
+        "Attack": 29,
+        "Defense": 131,
+        "Sp. Attack": 29,
+        "Sp. Defense": 131,
+        "Speed": 37
+    },
+    "0791": {
+        "HP": 137,
+        "Attack": 137,
+        "Defense": 107,
+        "Sp. Attack": 113,
+        "Sp. Defense": 89,
+        "Speed": 97
+    },
+    "0792": {
+        "HP": 137,
+        "Attack": 113,
+        "Defense": 89,
+        "Sp. Attack": 137,
+        "Sp. Defense": 107,
+        "Speed": 97
+    },
+    "0793": {
+        "HP": 109,
+        "Attack": 53,
+        "Defense": 47,
+        "Sp. Attack": 127,
+        "Sp. Defense": 131,
+        "Speed": 103
+    },
+    "0794": {
+        "HP": 107,
+        "Attack": 139,
+        "Defense": 139,
+        "Sp. Attack": 53,
+        "Sp. Defense": 53,
+        "Speed": 79
+    },
+    "0795": {
+        "HP": 71,
+        "Attack": 137,
+        "Defense": 37,
+        "Sp. Attack": 137,
+        "Sp. Defense": 37,
+        "Speed": 151
+    },
+    "0796": {
+        "HP": 83,
+        "Attack": 89,
+        "Defense": 71,
+        "Sp. Attack": 173,
+        "Sp. Defense": 71,
+        "Speed": 83
+    },
+    "0797": {
+        "HP": 97,
+        "Attack": 101,
+        "Defense": 103,
+        "Sp. Attack": 107,
+        "Sp. Defense": 101,
+        "Speed": 61
+    },
+    "0798": {
+        "HP": 59,
+        "Attack": 181,
+        "Defense": 131,
+        "Sp. Attack": 59,
+        "Sp. Defense": 31,
+        "Speed": 109
+    },
+    "0799": {
+        "HP": 223,
+        "Attack": 101,
+        "Defense": 53,
+        "Sp. Attack": 97,
+        "Sp. Defense": 53,
+        "Speed": 43
+    },
+    "0800": {
+        "HP": 97,
+        "Attack": 107,
+        "Defense": 101,
+        "Sp. Attack": 127,
+        "Sp. Defense": 89,
+        "Speed": 79
+    },
+    "0801": {
+        "HP": 80,
+        "Attack": 95,
+        "Defense": 115,
+        "Sp. Attack": 130,
+        "Sp. Defense": 115,
+        "Speed": 65
+    },
+    "0802": {
+        "HP": 90,
+        "Attack": 125,
+        "Defense": 80,
+        "Sp. Attack": 90,
+        "Sp. Defense": 90,
+        "Speed": 125
+    },
+    "0803": {
+        "HP": 67,
+        "Attack": 73,
+        "Defense": 67,
+        "Sp. Attack": 73,
+        "Sp. Defense": 67,
+        "Speed": 73
+    },
+    "0804": {
+        "HP": 73,
+        "Attack": 73,
+        "Defense": 73,
+        "Sp. Attack": 127,
+        "Sp. Defense": 73,
+        "Speed": 121
+    },
+    "0805": {
+        "HP": 61,
+        "Attack": 131,
+        "Defense": 211,
+        "Sp. Attack": 53,
+        "Sp. Defense": 101,
+        "Speed": 13
+    },
+    "0806": {
+        "HP": 53,
+        "Attack": 127,
+        "Defense": 53,
+        "Sp. Attack": 151,
+        "Sp. Defense": 79,
+        "Speed": 107
+    },
+    "0807": {
+        "HP": 88,
+        "Attack": 112,
+        "Defense": 75,
+        "Sp. Attack": 102,
+        "Sp. Defense": 80,
+        "Speed": 143
+    },
+    "0808": {
+        "HP": 46,
+        "Attack": 65,
+        "Defense": 65,
+        "Sp. Attack": 55,
+        "Sp. Defense": 35,
+        "Speed": 34
+    },
+    "0809": {
+        "HP": 135,
+        "Attack": 143,
+        "Defense": 143,
+        "Sp. Attack": 80,
+        "Sp. Defense": 65,
+        "Speed": 34
+    },
+    "0810": {
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 50,
+        "Sp. Attack": 40,
+        "Sp. Defense": 40,
+        "Speed": 65
+    },
+    "0811": {
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 70,
+        "Sp. Attack": 55,
+        "Sp. Defense": 60,
+        "Speed": 80
+    },
+    "0812": {
+        "HP": 100,
+        "Attack": 125,
+        "Defense": 90,
+        "Sp. Attack": 60,
+        "Sp. Defense": 70,
+        "Speed": 85
+    },
+    "0813": {
+        "HP": 50,
+        "Attack": 71,
+        "Defense": 40,
+        "Sp. Attack": 40,
+        "Sp. Defense": 40,
+        "Speed": 69
+    },
+    "0814": {
+        "HP": 65,
+        "Attack": 86,
+        "Defense": 60,
+        "Sp. Attack": 55,
+        "Sp. Defense": 60,
+        "Speed": 94
+    },
+    "0815": {
+        "HP": 80,
+        "Attack": 116,
+        "Defense": 75,
+        "Sp. Attack": 65,
+        "Sp. Defense": 75,
+        "Speed": 119
+    },
+    "0816": {
+        "HP": 50,
+        "Attack": 40,
+        "Defense": 40,
+        "Sp. Attack": 70,
+        "Sp. Defense": 40,
+        "Speed": 70
+    },
+    "0817": {
+        "HP": 65,
+        "Attack": 60,
+        "Defense": 55,
+        "Sp. Attack": 95,
+        "Sp. Defense": 55,
+        "Speed": 90
+    },
+    "0818": {
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 65,
+        "Sp. Attack": 125,
+        "Sp. Defense": 65,
+        "Speed": 120
+    },
+    "0819": {
+        "HP": 70,
+        "Attack": 55,
+        "Defense": 55,
+        "Sp. Attack": 35,
+        "Sp. Defense": 35,
+        "Speed": 25
+    },
+    "0820": {
+        "HP": 120,
+        "Attack": 95,
+        "Defense": 95,
+        "Sp. Attack": 55,
+        "Sp. Defense": 75,
+        "Speed": 20
+    },
+    "0821": {
+        "HP": 38,
+        "Attack": 47,
+        "Defense": 35,
+        "Sp. Attack": 33,
+        "Sp. Defense": 35,
+        "Speed": 57
+    },
+    "0822": {
+        "HP": 68,
+        "Attack": 67,
+        "Defense": 55,
+        "Sp. Attack": 43,
+        "Sp. Defense": 55,
+        "Speed": 77
+    },
+    "0823": {
+        "HP": 98,
+        "Attack": 87,
+        "Defense": 105,
+        "Sp. Attack": 53,
+        "Sp. Defense": 85,
+        "Speed": 67
+    },
+    "0824": {
+        "HP": 25,
+        "Attack": 20,
+        "Defense": 20,
+        "Sp. Attack": 25,
+        "Sp. Defense": 45,
+        "Speed": 45
+    },
+    "0825": {
+        "HP": 50,
+        "Attack": 35,
+        "Defense": 80,
+        "Sp. Attack": 50,
+        "Sp. Defense": 90,
+        "Speed": 30
+    },
+    "0826": {
+        "HP": 60,
+        "Attack": 45,
+        "Defense": 110,
+        "Sp. Attack": 80,
+        "Sp. Defense": 120,
+        "Speed": 90
+    },
+    "0827": {
+        "HP": 40,
+        "Attack": 28,
+        "Defense": 28,
+        "Sp. Attack": 47,
+        "Sp. Defense": 52,
+        "Speed": 50
+    },
+    "0828": {
+        "HP": 70,
+        "Attack": 58,
+        "Defense": 58,
+        "Sp. Attack": 87,
+        "Sp. Defense": 92,
+        "Speed": 90
+    },
+    "0829": {
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 60,
+        "Sp. Attack": 40,
+        "Sp. Defense": 60,
+        "Speed": 10
+    },
+    "0830": {
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 90,
+        "Sp. Attack": 80,
+        "Sp. Defense": 120,
+        "Speed": 60
+    },
+    "0831": {
+        "HP": 42,
+        "Attack": 40,
+        "Defense": 55,
+        "Sp. Attack": 40,
+        "Sp. Defense": 45,
+        "Speed": 48
+    },
+    "0832": {
+        "HP": 72,
+        "Attack": 80,
+        "Defense": 100,
+        "Sp. Attack": 60,
+        "Sp. Defense": 90,
+        "Speed": 88
+    },
+    "0833": {
+        "HP": 50,
+        "Attack": 64,
+        "Defense": 50,
+        "Sp. Attack": 38,
+        "Sp. Defense": 38,
+        "Speed": 44
+    },
+    "0834": {
+        "HP": 90,
+        "Attack": 115,
+        "Defense": 90,
+        "Sp. Attack": 48,
+        "Sp. Defense": 68,
+        "Speed": 74
+    },
+    "0835": {
+        "HP": 59,
+        "Attack": 45,
+        "Defense": 50,
+        "Sp. Attack": 40,
+        "Sp. Defense": 50,
+        "Speed": 26
+    },
+    "0836": {
+        "HP": 69,
+        "Attack": 90,
+        "Defense": 60,
+        "Sp. Attack": 90,
+        "Sp. Defense": 60,
+        "Speed": 121
+    },
+    "0837": {
+        "HP": 30,
+        "Attack": 40,
+        "Defense": 50,
+        "Sp. Attack": 40,
+        "Sp. Defense": 50,
+        "Speed": 30
+    },
+    "0838": {
+        "HP": 80,
+        "Attack": 60,
+        "Defense": 90,
+        "Sp. Attack": 60,
+        "Sp. Defense": 70,
+        "Speed": 50
+    },
+    "0839": {
+        "HP": 110,
+        "Attack": 80,
+        "Defense": 120,
+        "Sp. Attack": 80,
+        "Sp. Defense": 90,
+        "Speed": 30
+    },
+    "0840": {
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 80,
+        "Sp. Attack": 40,
+        "Sp. Defense": 40,
+        "Speed": 20
+    },
+    "0841": {
+        "HP": 70,
+        "Attack": 110,
+        "Defense": 80,
+        "Sp. Attack": 95,
+        "Sp. Defense": 60,
+        "Speed": 70
+    },
+    "0842": {
+        "HP": 110,
+        "Attack": 85,
+        "Defense": 80,
+        "Sp. Attack": 100,
+        "Sp. Defense": 80,
+        "Speed": 30
+    },
+    "0843": {
+        "HP": 52,
+        "Attack": 57,
+        "Defense": 75,
+        "Sp. Attack": 35,
+        "Sp. Defense": 50,
+        "Speed": 46
+    },
+    "0844": {
+        "HP": 72,
+        "Attack": 107,
+        "Defense": 125,
+        "Sp. Attack": 65,
+        "Sp. Defense": 70,
+        "Speed": 71
+    },
+    "0845": {
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 55,
+        "Sp. Attack": 85,
+        "Sp. Defense": 95,
+        "Speed": 85
+    },
+    "0846": {
+        "HP": 41,
+        "Attack": 63,
+        "Defense": 40,
+        "Sp. Attack": 40,
+        "Sp. Defense": 30,
+        "Speed": 66
+    },
+    "0847": {
+        "HP": 61,
+        "Attack": 123,
+        "Defense": 60,
+        "Sp. Attack": 60,
+        "Sp. Defense": 50,
+        "Speed": 136
+    },
+    "0848": {
+        "HP": 40,
+        "Attack": 38,
+        "Defense": 35,
+        "Sp. Attack": 54,
+        "Sp. Defense": 35,
+        "Speed": 40
+    },
+    "0849": {
+        "HP": 75,
+        "Attack": 98,
+        "Defense": 70,
+        "Sp. Attack": 114,
+        "Sp. Defense": 70,
+        "Speed": 75
+    },
+    "0850": {
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 45,
+        "Sp. Attack": 50,
+        "Sp. Defense": 50,
+        "Speed": 45
+    },
+    "0851": {
+        "HP": 100,
+        "Attack": 115,
+        "Defense": 65,
+        "Sp. Attack": 90,
+        "Sp. Defense": 90,
+        "Speed": 65
+    },
+    "0852": {
+        "HP": 50,
+        "Attack": 68,
+        "Defense": 60,
+        "Sp. Attack": 50,
+        "Sp. Defense": 50,
+        "Speed": 32
+    },
+    "0853": {
+        "HP": 80,
+        "Attack": 118,
+        "Defense": 90,
+        "Sp. Attack": 70,
+        "Sp. Defense": 80,
+        "Speed": 42
+    },
+    "0854": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 45,
+        "Sp. Attack": 74,
+        "Sp. Defense": 54,
+        "Speed": 50
+    },
+    "0855": {
+        "HP": 60,
+        "Attack": 65,
+        "Defense": 65,
+        "Sp. Attack": 134,
+        "Sp. Defense": 114,
+        "Speed": 70
+    },
+    "0856": {
+        "HP": 42,
+        "Attack": 30,
+        "Defense": 45,
+        "Sp. Attack": 56,
+        "Sp. Defense": 53,
+        "Speed": 39
+    },
+    "0857": {
+        "HP": 57,
+        "Attack": 40,
+        "Defense": 65,
+        "Sp. Attack": 86,
+        "Sp. Defense": 73,
+        "Speed": 49
+    },
+    "0858": {
+        "HP": 57,
+        "Attack": 90,
+        "Defense": 95,
+        "Sp. Attack": 136,
+        "Sp. Defense": 103,
+        "Speed": 29
+    },
+    "0859": {
+        "HP": 45,
+        "Attack": 45,
+        "Defense": 30,
+        "Sp. Attack": 55,
+        "Sp. Defense": 40,
+        "Speed": 50
+    },
+    "0860": {
+        "HP": 65,
+        "Attack": 60,
+        "Defense": 45,
+        "Sp. Attack": 75,
+        "Sp. Defense": 55,
+        "Speed": 70
+    },
+    "0861": {
+        "HP": 95,
+        "Attack": 120,
+        "Defense": 65,
+        "Sp. Attack": 95,
+        "Sp. Defense": 75,
+        "Speed": 60
+    },
+    "0862": {
+        "HP": 93,
+        "Attack": 90,
+        "Defense": 101,
+        "Sp. Attack": 60,
+        "Sp. Defense": 81,
+        "Speed": 95
+    },
+    "0863": {
+        "HP": 70,
+        "Attack": 110,
+        "Defense": 100,
+        "Sp. Attack": 50,
+        "Sp. Defense": 60,
+        "Speed": 50
+    },
+    "0864": {
+        "HP": 60,
+        "Attack": 95,
+        "Defense": 50,
+        "Sp. Attack": 145,
+        "Sp. Defense": 130,
+        "Speed": 30
+    },
+    "0865": {
+        "HP": 62,
+        "Attack": 135,
+        "Defense": 95,
+        "Sp. Attack": 68,
+        "Sp. Defense": 82,
+        "Speed": 65
+    },
+    "0866": {
+        "HP": 80,
+        "Attack": 85,
+        "Defense": 75,
+        "Sp. Attack": 110,
+        "Sp. Defense": 100,
+        "Speed": 70
+    },
+    "0867": {
+        "HP": 58,
+        "Attack": 95,
+        "Defense": 145,
+        "Sp. Attack": 50,
+        "Sp. Defense": 105,
+        "Speed": 30
+    },
+    "0868": {
+        "HP": 45,
+        "Attack": 40,
+        "Defense": 40,
+        "Sp. Attack": 50,
+        "Sp. Defense": 61,
+        "Speed": 34
+    },
+    "0869": {
+        "HP": 65,
+        "Attack": 60,
+        "Defense": 75,
+        "Sp. Attack": 110,
+        "Sp. Defense": 121,
+        "Speed": 64
+    },
+    "0870": {
+        "HP": 65,
+        "Attack": 100,
+        "Defense": 100,
+        "Sp. Attack": 70,
+        "Sp. Defense": 60,
+        "Speed": 75
+    },
+    "0871": {
+        "HP": 48,
+        "Attack": 101,
+        "Defense": 95,
+        "Sp. Attack": 91,
+        "Sp. Defense": 85,
+        "Speed": 15
+    },
+    "0872": {
+        "HP": 30,
+        "Attack": 25,
+        "Defense": 35,
+        "Sp. Attack": 45,
+        "Sp. Defense": 30,
+        "Speed": 20
+    },
+    "0873": {
+        "HP": 70,
+        "Attack": 65,
+        "Defense": 60,
+        "Sp. Attack": 125,
+        "Sp. Defense": 90,
+        "Speed": 65
+    },
+    "0874": {
+        "HP": 100,
+        "Attack": 125,
+        "Defense": 135,
+        "Sp. Attack": 20,
+        "Sp. Defense": 20,
+        "Speed": 70
+    },
+    "0875": {
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 110,
+        "Sp. Attack": 65,
+        "Sp. Defense": 90,
+        "Speed": 50
+    },
+    "0876": {
+        "HP": 60,
+        "Attack": 65,
+        "Defense": 55,
+        "Sp. Attack": 105,
+        "Sp. Defense": 95,
+        "Speed": 95
+    },
+    "0877": {
+        "HP": 58,
+        "Attack": 95,
+        "Defense": 58,
+        "Sp. Attack": 70,
+        "Sp. Defense": 58,
+        "Speed": 97
+    },
+    "0878": {
+        "HP": 72,
+        "Attack": 80,
+        "Defense": 49,
+        "Sp. Attack": 40,
+        "Sp. Defense": 49,
+        "Speed": 40
+    },
+    "0879": {
+        "HP": 122,
+        "Attack": 130,
+        "Defense": 69,
+        "Sp. Attack": 80,
+        "Sp. Defense": 69,
+        "Speed": 30
+    },
+    "0880": {
+        "HP": 90,
+        "Attack": 100,
+        "Defense": 90,
+        "Sp. Attack": 80,
+        "Sp. Defense": 70,
+        "Speed": 75
+    },
+    "0881": {
+        "HP": 90,
+        "Attack": 100,
+        "Defense": 90,
+        "Sp. Attack": 90,
+        "Sp. Defense": 80,
+        "Speed": 55
+    },
+    "0882": {
+        "HP": 90,
+        "Attack": 90,
+        "Defense": 100,
+        "Sp. Attack": 70,
+        "Sp. Defense": 80,
+        "Speed": 75
+    },
+    "0883": {
+        "HP": 90,
+        "Attack": 90,
+        "Defense": 100,
+        "Sp. Attack": 80,
+        "Sp. Defense": 90,
+        "Speed": 55
+    },
+    "0884": {
+        "HP": 70,
+        "Attack": 95,
+        "Defense": 115,
+        "Sp. Attack": 120,
+        "Sp. Defense": 50,
+        "Speed": 85
+    },
+    "0885": {
+        "HP": 28,
+        "Attack": 60,
+        "Defense": 30,
+        "Sp. Attack": 40,
+        "Sp. Defense": 30,
+        "Speed": 82
+    },
+    "0886": {
+        "HP": 68,
+        "Attack": 80,
+        "Defense": 50,
+        "Sp. Attack": 60,
+        "Sp. Defense": 50,
+        "Speed": 102
+    },
+    "0887": {
+        "HP": 88,
+        "Attack": 120,
+        "Defense": 75,
+        "Sp. Attack": 100,
+        "Sp. Defense": 75,
+        "Speed": 142
+    },
+    "0888": {
+        "HP": 92,
+        "Attack": 130,
+        "Defense": 115,
+        "Sp. Attack": 80,
+        "Sp. Defense": 115,
+        "Speed": 138
+    },
+    "0889": {
+        "HP": 92,
+        "Attack": 130,
+        "Defense": 115,
+        "Sp. Attack": 80,
+        "Sp. Defense": 115,
+        "Speed": 138
+    },
+    "0890": {
+        "HP": 140,
+        "Attack": 85,
+        "Defense": 95,
+        "Sp. Attack": 145,
+        "Sp. Defense": 95,
+        "Speed": 130
+    },
+    "0891": {
+        "HP": 60,
+        "Attack": 90,
+        "Defense": 60,
+        "Sp. Attack": 53,
+        "Sp. Defense": 50,
+        "Speed": 72
+    },
+    "0892": {
+        "HP": 100,
+        "Attack": 130,
+        "Defense": 100,
+        "Sp. Attack": 63,
+        "Sp. Defense": 60,
+        "Speed": 97
+    },
+    "0893": {
+        "HP": 105,
+        "Attack": 120,
+        "Defense": 105,
+        "Sp. Attack": 70,
+        "Sp. Defense": 95,
+        "Speed": 105
+    },
+    "0894": {
+        "HP": 80,
+        "Attack": 100,
+        "Defense": 50,
+        "Sp. Attack": 100,
+        "Sp. Defense": 50,
+        "Speed": 200
+    },
+    "0895": {
+        "HP": 200,
+        "Attack": 100,
+        "Defense": 50,
+        "Sp. Attack": 100,
+        "Sp. Defense": 50,
+        "Speed": 80
+    },
+    "0896": {
+        "HP": 100,
+        "Attack": 145,
+        "Defense": 130,
+        "Sp. Attack": 65,
+        "Sp. Defense": 110,
+        "Speed": 30
+    },
+    "0897": {
+        "HP": 100,
+        "Attack": 65,
+        "Defense": 60,
+        "Sp. Attack": 145,
+        "Sp. Defense": 80,
+        "Speed": 130
+    },
+    "0898": {
+        "HP": 100,
+        "Attack": 80,
+        "Defense": 80,
+        "Sp. Attack": 80,
+        "Sp. Defense": 80,
+        "Speed": 80
+    }
+}

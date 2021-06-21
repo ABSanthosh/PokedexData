@@ -1,0 +1,3937 @@
+{
+    "0001": [
+        "Overgrow",
+        "Chlorophyll"
+    ],
+    "0002": [
+        "Overgrow",
+        "Chlorophyll"
+    ],
+    "0003": [
+        "Overgrow",
+        "Chlorophyll"
+    ],
+    "0004": [
+        "Blaze",
+        "Solar-power"
+    ],
+    "0005": [
+        "Blaze",
+        "Solar-power"
+    ],
+    "0006": [
+        "Blaze",
+        "Solar-power"
+    ],
+    "0007": [
+        "Torrent",
+        "Rain-dish"
+    ],
+    "0008": [
+        "Torrent",
+        "Rain-dish"
+    ],
+    "0009": [
+        "Torrent",
+        "Rain-dish"
+    ],
+    "0010": [
+        "Shield-dust",
+        "Run-away"
+    ],
+    "0011": [
+        "Shed-skin"
+    ],
+    "0012": [
+        "Compound-eyes",
+        "Tinted-lens"
+    ],
+    "0013": [
+        "Shield-dust",
+        "Run-away"
+    ],
+    "0014": [
+        "Shed-skin"
+    ],
+    "0015": [
+        "Swarm",
+        "Sniper"
+    ],
+    "0016": [
+        "Keen-eye",
+        "Tangled-feet",
+        "Big-pecks"
+    ],
+    "0017": [
+        "Keen-eye",
+        "Tangled-feet",
+        "Big-pecks"
+    ],
+    "0018": [
+        "Keen-eye",
+        "Tangled-feet",
+        "Big-pecks"
+    ],
+    "0019": [
+        "Run-away",
+        "Guts",
+        "Hustle"
+    ],
+    "0020": [
+        "Run-away",
+        "Guts",
+        "Hustle"
+    ],
+    "0021": [
+        "Keen-eye",
+        "Sniper"
+    ],
+    "0022": [
+        "Keen-eye",
+        "Sniper"
+    ],
+    "0023": [
+        "Intimidate",
+        "Shed-skin",
+        "Unnerve"
+    ],
+    "0024": [
+        "Intimidate",
+        "Shed-skin",
+        "Unnerve"
+    ],
+    "0025": [
+        "Static",
+        "Lightning-rod"
+    ],
+    "0026": [
+        "Static",
+        "Lightning-rod"
+    ],
+    "0027": [
+        "Sand-veil",
+        "Sand-rush"
+    ],
+    "0028": [
+        "Sand-veil",
+        "Sand-rush"
+    ],
+    "0029": [
+        "Poison-point",
+        "Rivalry",
+        "Hustle"
+    ],
+    "0030": [
+        "Poison-point",
+        "Rivalry",
+        "Hustle"
+    ],
+    "0031": [
+        "Poison-point",
+        "Rivalry",
+        "Sheer-force"
+    ],
+    "0032": [
+        "Poison-point",
+        "Rivalry",
+        "Hustle"
+    ],
+    "0033": [
+        "Poison-point",
+        "Rivalry",
+        "Hustle"
+    ],
+    "0034": [
+        "Poison-point",
+        "Rivalry",
+        "Sheer-force"
+    ],
+    "0035": [
+        "Cute-charm",
+        "Magic-guard",
+        "Friend-guard"
+    ],
+    "0036": [
+        "Cute-charm",
+        "Magic-guard",
+        "Unaware"
+    ],
+    "0037": [
+        "Flash-fire",
+        "Drought"
+    ],
+    "0038": [
+        "Flash-fire",
+        "Drought"
+    ],
+    "0039": [
+        "Cute-charm",
+        "Competitive",
+        "Friend-guard"
+    ],
+    "0040": [
+        "Cute-charm",
+        "Competitive",
+        "Frisk"
+    ],
+    "0041": [
+        "Inner-focus",
+        "Infiltrator"
+    ],
+    "0042": [
+        "Inner-focus",
+        "Infiltrator"
+    ],
+    "0043": [
+        "Chlorophyll",
+        "Run-away"
+    ],
+    "0044": [
+        "Chlorophyll",
+        "Stench"
+    ],
+    "0045": [
+        "Chlorophyll",
+        "Effect-spore"
+    ],
+    "0046": [
+        "Effect-spore",
+        "Dry-skin",
+        "Damp"
+    ],
+    "0047": [
+        "Effect-spore",
+        "Dry-skin",
+        "Damp"
+    ],
+    "0048": [
+        "Compound-eyes",
+        "Tinted-lens",
+        "Run-away"
+    ],
+    "0049": [
+        "Shield-dust",
+        "Tinted-lens",
+        "Wonder-skin"
+    ],
+    "0050": [
+        "Sand-veil",
+        "Arena-trap",
+        "Sand-force"
+    ],
+    "0051": [
+        "Sand-veil",
+        "Arena-trap",
+        "Sand-force"
+    ],
+    "0052": [
+        "Pickup",
+        "Technician",
+        "Unnerve"
+    ],
+    "0053": [
+        "Limber",
+        "Technician",
+        "Unnerve"
+    ],
+    "0054": [
+        "Damp",
+        "Cloud-nine",
+        "Swift-swim"
+    ],
+    "0055": [
+        "Damp",
+        "Cloud-nine",
+        "Swift-swim"
+    ],
+    "0056": [
+        "Vital-spirit",
+        "Anger-point",
+        "Defiant"
+    ],
+    "0057": [
+        "Vital-spirit",
+        "Anger-point",
+        "Defiant"
+    ],
+    "0058": [
+        "Intimidate",
+        "Flash-fire",
+        "Justified"
+    ],
+    "0059": [
+        "Intimidate",
+        "Flash-fire",
+        "Justified"
+    ],
+    "0060": [
+        "Water-absorb",
+        "Damp",
+        "Swift-swim"
+    ],
+    "0061": [
+        "Water-absorb",
+        "Damp",
+        "Swift-swim"
+    ],
+    "0062": [
+        "Water-absorb",
+        "Damp",
+        "Swift-swim"
+    ],
+    "0063": [
+        "Synchronize",
+        "Inner-focus",
+        "Magic-guard"
+    ],
+    "0064": [
+        "Synchronize",
+        "Inner-focus",
+        "Magic-guard"
+    ],
+    "0065": [
+        "Synchronize",
+        "Inner-focus",
+        "Magic-guard"
+    ],
+    "0066": [
+        "Guts",
+        "No-guard",
+        "Steadfast"
+    ],
+    "0067": [
+        "Guts",
+        "No-guard",
+        "Steadfast"
+    ],
+    "0068": [
+        "Guts",
+        "No-guard",
+        "Steadfast"
+    ],
+    "0069": [
+        "Chlorophyll",
+        "Gluttony"
+    ],
+    "0070": [
+        "Chlorophyll",
+        "Gluttony"
+    ],
+    "0071": [
+        "Chlorophyll",
+        "Gluttony"
+    ],
+    "0072": [
+        "Clear-body",
+        "Liquid-ooze",
+        "Rain-dish"
+    ],
+    "0073": [
+        "Clear-body",
+        "Liquid-ooze",
+        "Rain-dish"
+    ],
+    "0074": [
+        "Rock-head",
+        "Sturdy",
+        "Sand-veil"
+    ],
+    "0075": [
+        "Rock-head",
+        "Sturdy",
+        "Sand-veil"
+    ],
+    "0076": [
+        "Rock-head",
+        "Sturdy",
+        "Sand-veil"
+    ],
+    "0077": [
+        "Run-away",
+        "Flash-fire",
+        "Flame-body"
+    ],
+    "0078": [
+        "Run-away",
+        "Flash-fire",
+        "Flame-body"
+    ],
+    "0079": [
+        "Oblivious",
+        "Own-tempo",
+        "Regenerator"
+    ],
+    "0080": [
+        "Oblivious",
+        "Own-tempo",
+        "Regenerator"
+    ],
+    "0081": [
+        "Magnet-pull",
+        "Sturdy",
+        "Analytic"
+    ],
+    "0082": [
+        "Magnet-pull",
+        "Sturdy",
+        "Analytic"
+    ],
+    "0083": [
+        "Keen-eye",
+        "Inner-focus",
+        "Defiant"
+    ],
+    "0084": [
+        "Run-away",
+        "Early-bird",
+        "Tangled-feet"
+    ],
+    "0085": [
+        "Run-away",
+        "Early-bird",
+        "Tangled-feet"
+    ],
+    "0086": [
+        "Thick-fat",
+        "Hydration",
+        "Ice-body"
+    ],
+    "0087": [
+        "Thick-fat",
+        "Hydration",
+        "Ice-body"
+    ],
+    "0088": [
+        "Stench",
+        "Sticky-hold",
+        "Poison-touch"
+    ],
+    "0089": [
+        "Stench",
+        "Sticky-hold",
+        "Poison-touch"
+    ],
+    "0090": [
+        "Shell-armor",
+        "Skill-link",
+        "Overcoat"
+    ],
+    "0091": [
+        "Shell-armor",
+        "Skill-link",
+        "Overcoat"
+    ],
+    "0092": [
+        "Levitate"
+    ],
+    "0093": [
+        "Levitate"
+    ],
+    "0094": [
+        "Cursed-body"
+    ],
+    "0095": [
+        "Rock-head",
+        "Sturdy",
+        "Weak-armor"
+    ],
+    "0096": [
+        "Insomnia",
+        "Forewarn",
+        "Inner-focus"
+    ],
+    "0097": [
+        "Insomnia",
+        "Forewarn",
+        "Inner-focus"
+    ],
+    "0098": [
+        "Hyper-cutter",
+        "Shell-armor",
+        "Sheer-force"
+    ],
+    "0099": [
+        "Hyper-cutter",
+        "Shell-armor",
+        "Sheer-force"
+    ],
+    "0100": [
+        "Soundproof",
+        "Static",
+        "Aftermath"
+    ],
+    "0101": [
+        "Soundproof",
+        "Static",
+        "Aftermath"
+    ],
+    "0102": [
+        "Chlorophyll",
+        "Harvest"
+    ],
+    "0103": [
+        "Chlorophyll",
+        "Harvest"
+    ],
+    "0104": [
+        "Rock-head",
+        "Lightning-rod",
+        "Battle-armor"
+    ],
+    "0105": [
+        "Rock-head",
+        "Lightning-rod",
+        "Battle-armor"
+    ],
+    "0106": [
+        "Limber",
+        "Reckless",
+        "Unburden"
+    ],
+    "0107": [
+        "Keen-eye",
+        "Iron-fist",
+        "Inner-focus"
+    ],
+    "0108": [
+        "Own-tempo",
+        "Oblivious",
+        "Cloud-nine"
+    ],
+    "0109": [
+        "Levitate"
+    ],
+    "0110": [
+        "Levitate"
+    ],
+    "0111": [
+        "Lightning-rod",
+        "Rock-head",
+        "Reckless"
+    ],
+    "0112": [
+        "Lightning-rod",
+        "Rock-head",
+        "Reckless"
+    ],
+    "0113": [
+        "Natural-cure",
+        "Serene-grace",
+        "Healer"
+    ],
+    "0114": [
+        "Chlorophyll",
+        "Leaf-guard",
+        "Regenerator"
+    ],
+    "0115": [
+        "Early-bird",
+        "Scrappy",
+        "Inner-focus"
+    ],
+    "0116": [
+        "Swift-swim",
+        "Sniper",
+        "Damp"
+    ],
+    "0117": [
+        "Poison-point",
+        "Sniper",
+        "Damp"
+    ],
+    "0118": [
+        "Swift-swim",
+        "Water-veil",
+        "Lightning-rod"
+    ],
+    "0119": [
+        "Swift-swim",
+        "Water-veil",
+        "Lightning-rod"
+    ],
+    "0120": [
+        "Illuminate",
+        "Natural-cure",
+        "Analytic"
+    ],
+    "0121": [
+        "Illuminate",
+        "Natural-cure",
+        "Analytic"
+    ],
+    "0122": [
+        "Soundproof",
+        "Filter",
+        "Technician"
+    ],
+    "0123": [
+        "Swarm",
+        "Technician",
+        "Steadfast"
+    ],
+    "0124": [
+        "Oblivious",
+        "Forewarn",
+        "Dry-skin"
+    ],
+    "0125": [
+        "Static",
+        "Vital-spirit"
+    ],
+    "0126": [
+        "Flame-body",
+        "Vital-spirit"
+    ],
+    "0127": [
+        "Hyper-cutter",
+        "Mold-breaker",
+        "Moxie"
+    ],
+    "0128": [
+        "Intimidate",
+        "Anger-point",
+        "Sheer-force"
+    ],
+    "0129": [
+        "Swift-swim",
+        "Rattled"
+    ],
+    "0130": [
+        "Intimidate",
+        "Moxie"
+    ],
+    "0131": [
+        "Water-absorb",
+        "Shell-armor",
+        "Hydration"
+    ],
+    "0132": [
+        "Limber",
+        "Imposter"
+    ],
+    "0133": [
+        "Run-away",
+        "Adaptability",
+        "Anticipation"
+    ],
+    "0134": [
+        "Water-absorb",
+        "Hydration"
+    ],
+    "0135": [
+        "Volt-absorb",
+        "Quick-feet"
+    ],
+    "0136": [
+        "Flash-fire",
+        "Guts"
+    ],
+    "0137": [
+        "Trace",
+        "Download",
+        "Analytic"
+    ],
+    "0138": [
+        "Swift-swim",
+        "Shell-armor",
+        "Weak-armor"
+    ],
+    "0139": [
+        "Swift-swim",
+        "Shell-armor",
+        "Weak-armor"
+    ],
+    "0140": [
+        "Swift-swim",
+        "Battle-armor",
+        "Weak-armor"
+    ],
+    "0141": [
+        "Swift-swim",
+        "Battle-armor",
+        "Weak-armor"
+    ],
+    "0142": [
+        "Rock-head",
+        "Pressure",
+        "Unnerve"
+    ],
+    "0143": [
+        "Immunity",
+        "Thick-fat",
+        "Gluttony"
+    ],
+    "0144": [
+        "Pressure",
+        "Snow-cloak"
+    ],
+    "0145": [
+        "Pressure",
+        "Static"
+    ],
+    "0146": [
+        "Pressure",
+        "Flame-body"
+    ],
+    "0147": [
+        "Shed-skin",
+        "Marvel-scale"
+    ],
+    "0148": [
+        "Shed-skin",
+        "Marvel-scale"
+    ],
+    "0149": [
+        "Inner-focus",
+        "Multiscale"
+    ],
+    "0150": [
+        "Pressure",
+        "Unnerve"
+    ],
+    "0151": [
+        "Synchronize"
+    ],
+    "0152": [
+        "Overgrow",
+        "Leaf-guard"
+    ],
+    "0153": [
+        "Overgrow",
+        "Leaf-guard"
+    ],
+    "0154": [
+        "Overgrow",
+        "Leaf-guard"
+    ],
+    "0155": [
+        "Blaze",
+        "Flash-fire"
+    ],
+    "0156": [
+        "Blaze",
+        "Flash-fire"
+    ],
+    "0157": [
+        "Blaze",
+        "Flash-fire"
+    ],
+    "0158": [
+        "Torrent",
+        "Sheer-force"
+    ],
+    "0159": [
+        "Torrent",
+        "Sheer-force"
+    ],
+    "0160": [
+        "Torrent",
+        "Sheer-force"
+    ],
+    "0161": [
+        "Run-away",
+        "Keen-eye",
+        "Frisk"
+    ],
+    "0162": [
+        "Run-away",
+        "Keen-eye",
+        "Frisk"
+    ],
+    "0163": [
+        "Insomnia",
+        "Keen-eye",
+        "Tinted-lens"
+    ],
+    "0164": [
+        "Insomnia",
+        "Keen-eye",
+        "Tinted-lens"
+    ],
+    "0165": [
+        "Swarm",
+        "Early-bird",
+        "Rattled"
+    ],
+    "0166": [
+        "Swarm",
+        "Early-bird",
+        "Iron-fist"
+    ],
+    "0167": [
+        "Swarm",
+        "Insomnia",
+        "Sniper"
+    ],
+    "0168": [
+        "Swarm",
+        "Insomnia",
+        "Sniper"
+    ],
+    "0169": [
+        "Inner-focus",
+        "Infiltrator"
+    ],
+    "0170": [
+        "Volt-absorb",
+        "Illuminate",
+        "Water-absorb"
+    ],
+    "0171": [
+        "Volt-absorb",
+        "Illuminate",
+        "Water-absorb"
+    ],
+    "0172": [
+        "Static",
+        "Lightning-rod"
+    ],
+    "0173": [
+        "Cute-charm",
+        "Magic-guard",
+        "Friend-guard"
+    ],
+    "0174": [
+        "Cute-charm",
+        "Competitive",
+        "Friend-guard"
+    ],
+    "0175": [
+        "Hustle",
+        "Serene-grace",
+        "Super-luck"
+    ],
+    "0176": [
+        "Hustle",
+        "Serene-grace",
+        "Super-luck"
+    ],
+    "0177": [
+        "Synchronize",
+        "Early-bird",
+        "Magic-bounce"
+    ],
+    "0178": [
+        "Synchronize",
+        "Early-bird",
+        "Magic-bounce"
+    ],
+    "0179": [
+        "Static",
+        "Plus"
+    ],
+    "0180": [
+        "Static",
+        "Plus"
+    ],
+    "0181": [
+        "Static",
+        "Plus"
+    ],
+    "0182": [
+        "Chlorophyll",
+        "Healer"
+    ],
+    "0183": [
+        "Thick-fat",
+        "Huge-power",
+        "Sap-sipper"
+    ],
+    "0184": [
+        "Thick-fat",
+        "Huge-power",
+        "Sap-sipper"
+    ],
+    "0185": [
+        "Sturdy",
+        "Rock-head",
+        "Rattled"
+    ],
+    "0186": [
+        "Water-absorb",
+        "Damp",
+        "Drizzle"
+    ],
+    "0187": [
+        "Chlorophyll",
+        "Leaf-guard",
+        "Infiltrator"
+    ],
+    "0188": [
+        "Chlorophyll",
+        "Leaf-guard",
+        "Infiltrator"
+    ],
+    "0189": [
+        "Chlorophyll",
+        "Leaf-guard",
+        "Infiltrator"
+    ],
+    "0190": [
+        "Run-away",
+        "Pickup",
+        "Skill-link"
+    ],
+    "0191": [
+        "Chlorophyll",
+        "Solar-power",
+        "Early-bird"
+    ],
+    "0192": [
+        "Chlorophyll",
+        "Solar-power",
+        "Early-bird"
+    ],
+    "0193": [
+        "Speed-boost",
+        "Compound-eyes",
+        "Frisk"
+    ],
+    "0194": [
+        "Damp",
+        "Water-absorb",
+        "Unaware"
+    ],
+    "0195": [
+        "Damp",
+        "Water-absorb",
+        "Unaware"
+    ],
+    "0196": [
+        "Synchronize",
+        "Magic-bounce"
+    ],
+    "0197": [
+        "Synchronize",
+        "Inner-focus"
+    ],
+    "0198": [
+        "Insomnia",
+        "Super-luck",
+        "Prankster"
+    ],
+    "0199": [
+        "Oblivious",
+        "Own-tempo",
+        "Regenerator"
+    ],
+    "0200": [
+        "Levitate"
+    ],
+    "0201": [
+        "Levitate"
+    ],
+    "0202": [
+        "Shadow-tag",
+        "Telepathy"
+    ],
+    "0203": [
+        "Inner-focus",
+        "Early-bird",
+        "Sap-sipper"
+    ],
+    "0204": [
+        "Sturdy",
+        "Overcoat"
+    ],
+    "0205": [
+        "Sturdy",
+        "Overcoat"
+    ],
+    "0206": [
+        "Serene-grace",
+        "Run-away",
+        "Rattled"
+    ],
+    "0207": [
+        "Hyper-cutter",
+        "Sand-veil",
+        "Immunity"
+    ],
+    "0208": [
+        "Rock-head",
+        "Sturdy",
+        "Sheer-force"
+    ],
+    "0209": [
+        "Intimidate",
+        "Run-away",
+        "Rattled"
+    ],
+    "0210": [
+        "Intimidate",
+        "Quick-feet",
+        "Rattled"
+    ],
+    "0211": [
+        "Poison-point",
+        "Swift-swim",
+        "Intimidate"
+    ],
+    "0212": [
+        "Swarm",
+        "Technician",
+        "Light-metal"
+    ],
+    "0213": [
+        "Sturdy",
+        "Gluttony",
+        "Contrary"
+    ],
+    "0214": [
+        "Swarm",
+        "Guts",
+        "Moxie"
+    ],
+    "0215": [
+        "Inner-focus",
+        "Keen-eye",
+        "Pickpocket"
+    ],
+    "0216": [
+        "Pickup",
+        "Quick-feet",
+        "Honey-gather"
+    ],
+    "0217": [
+        "Guts",
+        "Quick-feet",
+        "Unnerve"
+    ],
+    "0218": [
+        "Magma-armor",
+        "Flame-body",
+        "Weak-armor"
+    ],
+    "0219": [
+        "Magma-armor",
+        "Flame-body",
+        "Weak-armor"
+    ],
+    "0220": [
+        "Oblivious",
+        "Snow-cloak",
+        "Thick-fat"
+    ],
+    "0221": [
+        "Oblivious",
+        "Snow-cloak",
+        "Thick-fat"
+    ],
+    "0222": [
+        "Hustle",
+        "Natural-cure",
+        "Regenerator"
+    ],
+    "0223": [
+        "Hustle",
+        "Sniper",
+        "Moody"
+    ],
+    "0224": [
+        "Suction-cups",
+        "Sniper",
+        "Moody"
+    ],
+    "0225": [
+        "Vital-spirit",
+        "Hustle",
+        "Insomnia"
+    ],
+    "0226": [
+        "Swift-swim",
+        "Water-absorb",
+        "Water-veil"
+    ],
+    "0227": [
+        "Keen-eye",
+        "Sturdy",
+        "Weak-armor"
+    ],
+    "0228": [
+        "Early-bird",
+        "Flash-fire",
+        "Unnerve"
+    ],
+    "0229": [
+        "Early-bird",
+        "Flash-fire",
+        "Unnerve"
+    ],
+    "0230": [
+        "Swift-swim",
+        "Sniper",
+        "Damp"
+    ],
+    "0231": [
+        "Pickup",
+        "Sand-veil"
+    ],
+    "0232": [
+        "Sturdy",
+        "Sand-veil"
+    ],
+    "0233": [
+        "Trace",
+        "Download",
+        "Analytic"
+    ],
+    "0234": [
+        "Intimidate",
+        "Frisk",
+        "Sap-sipper"
+    ],
+    "0235": [
+        "Own-tempo",
+        "Technician",
+        "Moody"
+    ],
+    "0236": [
+        "Guts",
+        "Steadfast",
+        "Vital-spirit"
+    ],
+    "0237": [
+        "Intimidate",
+        "Technician",
+        "Steadfast"
+    ],
+    "0238": [
+        "Oblivious",
+        "Forewarn",
+        "Hydration"
+    ],
+    "0239": [
+        "Static",
+        "Vital-spirit"
+    ],
+    "0240": [
+        "Flame-body",
+        "Vital-spirit"
+    ],
+    "0241": [
+        "Thick-fat",
+        "Scrappy",
+        "Sap-sipper"
+    ],
+    "0242": [
+        "Natural-cure",
+        "Serene-grace",
+        "Healer"
+    ],
+    "0243": [
+        "Pressure",
+        "Inner-focus"
+    ],
+    "0244": [
+        "Pressure",
+        "Inner-focus"
+    ],
+    "0245": [
+        "Pressure",
+        "Inner-focus"
+    ],
+    "0246": [
+        "Guts",
+        "Sand-veil"
+    ],
+    "0247": [
+        "Shed-skin"
+    ],
+    "0248": [
+        "Sand-stream",
+        "Unnerve"
+    ],
+    "0249": [
+        "Pressure",
+        "Multiscale"
+    ],
+    "0250": [
+        "Pressure",
+        "Regenerator"
+    ],
+    "0251": [
+        "Natural-cure"
+    ],
+    "0252": [
+        "Overgrow",
+        "Unburden"
+    ],
+    "0253": [
+        "Overgrow",
+        "Unburden"
+    ],
+    "0254": [
+        "Overgrow",
+        "Unburden"
+    ],
+    "0255": [
+        "Blaze",
+        "Speed-boost"
+    ],
+    "0256": [
+        "Blaze",
+        "Speed-boost"
+    ],
+    "0257": [
+        "Blaze",
+        "Speed-boost"
+    ],
+    "0258": [
+        "Torrent",
+        "Damp"
+    ],
+    "0259": [
+        "Torrent",
+        "Damp"
+    ],
+    "0260": [
+        "Torrent",
+        "Damp"
+    ],
+    "0261": [
+        "Run-away",
+        "Quick-feet",
+        "Rattled"
+    ],
+    "0262": [
+        "Intimidate",
+        "Quick-feet",
+        "Moxie"
+    ],
+    "0263": [
+        "Pickup",
+        "Gluttony",
+        "Quick-feet"
+    ],
+    "0264": [
+        "Pickup",
+        "Gluttony",
+        "Quick-feet"
+    ],
+    "0265": [
+        "Shield-dust",
+        "Run-away"
+    ],
+    "0266": [
+        "Shed-skin"
+    ],
+    "0267": [
+        "Swarm",
+        "Rivalry"
+    ],
+    "0268": [
+        "Shed-skin"
+    ],
+    "0269": [
+        "Shield-dust",
+        "Compound-eyes"
+    ],
+    "0270": [
+        "Swift-swim",
+        "Rain-dish",
+        "Own-tempo"
+    ],
+    "0271": [
+        "Swift-swim",
+        "Rain-dish",
+        "Own-tempo"
+    ],
+    "0272": [
+        "Swift-swim",
+        "Rain-dish",
+        "Own-tempo"
+    ],
+    "0273": [
+        "Chlorophyll",
+        "Early-bird",
+        "Pickpocket"
+    ],
+    "0274": [
+        "Chlorophyll",
+        "Early-bird",
+        "Pickpocket"
+    ],
+    "0275": [
+        "Chlorophyll",
+        "Early-bird",
+        "Pickpocket"
+    ],
+    "0276": [
+        "Guts",
+        "Scrappy"
+    ],
+    "0277": [
+        "Guts",
+        "Scrappy"
+    ],
+    "0278": [
+        "Keen-eye",
+        "Hydration",
+        "Rain-dish"
+    ],
+    "0279": [
+        "Keen-eye",
+        "Drizzle",
+        "Rain-dish"
+    ],
+    "0280": [
+        "Synchronize",
+        "Trace",
+        "Telepathy"
+    ],
+    "0281": [
+        "Synchronize",
+        "Trace",
+        "Telepathy"
+    ],
+    "0282": [
+        "Synchronize",
+        "Trace",
+        "Telepathy"
+    ],
+    "0283": [
+        "Swift-swim",
+        "Rain-dish"
+    ],
+    "0284": [
+        "Intimidate",
+        "Unnerve"
+    ],
+    "0285": [
+        "Effect-spore",
+        "Poison-heal",
+        "Quick-feet"
+    ],
+    "0286": [
+        "Effect-spore",
+        "Poison-heal",
+        "Technician"
+    ],
+    "0287": [
+        "Truant"
+    ],
+    "0288": [
+        "Vital-spirit"
+    ],
+    "0289": [
+        "Truant"
+    ],
+    "0290": [
+        "Compound-eyes",
+        "Run-away"
+    ],
+    "0291": [
+        "Speed-boost",
+        "Infiltrator"
+    ],
+    "0292": [
+        "Wonder-guard"
+    ],
+    "0293": [
+        "Soundproof",
+        "Rattled"
+    ],
+    "0294": [
+        "Soundproof",
+        "Scrappy"
+    ],
+    "0295": [
+        "Soundproof",
+        "Scrappy"
+    ],
+    "0296": [
+        "Thick-fat",
+        "Guts",
+        "Sheer-force"
+    ],
+    "0297": [
+        "Thick-fat",
+        "Guts",
+        "Sheer-force"
+    ],
+    "0298": [
+        "Thick-fat",
+        "Huge-power",
+        "Sap-sipper"
+    ],
+    "0299": [
+        "Sturdy",
+        "Magnet-pull",
+        "Sand-force"
+    ],
+    "0300": [
+        "Cute-charm",
+        "Normalize",
+        "Wonder-skin"
+    ],
+    "0301": [
+        "Cute-charm",
+        "Normalize",
+        "Wonder-skin"
+    ],
+    "0302": [
+        "Keen-eye",
+        "Stall",
+        "Prankster"
+    ],
+    "0303": [
+        "Hyper-cutter",
+        "Intimidate",
+        "Sheer-force"
+    ],
+    "0304": [
+        "Sturdy",
+        "Rock-head",
+        "Heavy-metal"
+    ],
+    "0305": [
+        "Sturdy",
+        "Rock-head",
+        "Heavy-metal"
+    ],
+    "0306": [
+        "Sturdy",
+        "Rock-head",
+        "Heavy-metal"
+    ],
+    "0307": [
+        "Pure-power",
+        "Telepathy"
+    ],
+    "0308": [
+        "Pure-power",
+        "Telepathy"
+    ],
+    "0309": [
+        "Static",
+        "Lightning-rod",
+        "Minus"
+    ],
+    "0310": [
+        "Static",
+        "Lightning-rod",
+        "Minus"
+    ],
+    "0311": [
+        "Plus",
+        "Lightning-rod"
+    ],
+    "0312": [
+        "Minus",
+        "Volt-absorb"
+    ],
+    "0313": [
+        "Illuminate",
+        "Swarm",
+        "Prankster"
+    ],
+    "0314": [
+        "Oblivious",
+        "Tinted-lens",
+        "Prankster"
+    ],
+    "0315": [
+        "Natural-cure",
+        "Poison-point",
+        "Leaf-guard"
+    ],
+    "0316": [
+        "Liquid-ooze",
+        "Sticky-hold",
+        "Gluttony"
+    ],
+    "0317": [
+        "Liquid-ooze",
+        "Sticky-hold",
+        "Gluttony"
+    ],
+    "0318": [
+        "Rough-skin",
+        "Speed-boost"
+    ],
+    "0319": [
+        "Rough-skin",
+        "Speed-boost"
+    ],
+    "0320": [
+        "Water-veil",
+        "Oblivious",
+        "Pressure"
+    ],
+    "0321": [
+        "Water-veil",
+        "Oblivious",
+        "Pressure"
+    ],
+    "0322": [
+        "Oblivious",
+        "Simple",
+        "Own-tempo"
+    ],
+    "0323": [
+        "Magma-armor",
+        "Solid-rock",
+        "Anger-point"
+    ],
+    "0324": [
+        "White-smoke",
+        "Drought",
+        "Shell-armor"
+    ],
+    "0325": [
+        "Thick-fat",
+        "Own-tempo",
+        "Gluttony"
+    ],
+    "0326": [
+        "Thick-fat",
+        "Own-tempo",
+        "Gluttony"
+    ],
+    "0327": [
+        "Own-tempo",
+        "Tangled-feet",
+        "Contrary"
+    ],
+    "0328": [
+        "Hyper-cutter",
+        "Arena-trap",
+        "Sheer-force"
+    ],
+    "0329": [
+        "Levitate"
+    ],
+    "0330": [
+        "Levitate"
+    ],
+    "0331": [
+        "Sand-veil",
+        "Water-absorb"
+    ],
+    "0332": [
+        "Sand-veil",
+        "Water-absorb"
+    ],
+    "0333": [
+        "Natural-cure",
+        "Cloud-nine"
+    ],
+    "0334": [
+        "Natural-cure",
+        "Cloud-nine"
+    ],
+    "0335": [
+        "Immunity",
+        "Toxic-boost"
+    ],
+    "0336": [
+        "Shed-skin",
+        "Infiltrator"
+    ],
+    "0337": [
+        "Levitate"
+    ],
+    "0338": [
+        "Levitate"
+    ],
+    "0339": [
+        "Oblivious",
+        "Anticipation",
+        "Hydration"
+    ],
+    "0340": [
+        "Oblivious",
+        "Anticipation",
+        "Hydration"
+    ],
+    "0341": [
+        "Hyper-cutter",
+        "Shell-armor",
+        "Adaptability"
+    ],
+    "0342": [
+        "Hyper-cutter",
+        "Shell-armor",
+        "Adaptability"
+    ],
+    "0343": [
+        "Levitate"
+    ],
+    "0344": [
+        "Levitate"
+    ],
+    "0345": [
+        "Suction-cups",
+        "Storm-drain"
+    ],
+    "0346": [
+        "Suction-cups",
+        "Storm-drain"
+    ],
+    "0347": [
+        "Battle-armor",
+        "Swift-swim"
+    ],
+    "0348": [
+        "Battle-armor",
+        "Swift-swim"
+    ],
+    "0349": [
+        "Swift-swim",
+        "Oblivious",
+        "Adaptability"
+    ],
+    "0350": [
+        "Marvel-scale",
+        "Competitive",
+        "Cute-charm"
+    ],
+    "0351": [
+        "Forecast"
+    ],
+    "0352": [
+        "Color-change",
+        "Protean"
+    ],
+    "0353": [
+        "Insomnia",
+        "Frisk",
+        "Cursed-body"
+    ],
+    "0354": [
+        "Insomnia",
+        "Frisk",
+        "Cursed-body"
+    ],
+    "0355": [
+        "Levitate",
+        "Frisk"
+    ],
+    "0356": [
+        "Pressure",
+        "Frisk"
+    ],
+    "0357": [
+        "Chlorophyll",
+        "Solar-power",
+        "Harvest"
+    ],
+    "0358": [
+        "Levitate"
+    ],
+    "0359": [
+        "Pressure",
+        "Super-luck",
+        "Justified"
+    ],
+    "0360": [
+        "Shadow-tag",
+        "Telepathy"
+    ],
+    "0361": [
+        "Inner-focus",
+        "Ice-body",
+        "Moody"
+    ],
+    "0362": [
+        "Inner-focus",
+        "Ice-body",
+        "Moody"
+    ],
+    "0363": [
+        "Thick-fat",
+        "Ice-body",
+        "Oblivious"
+    ],
+    "0364": [
+        "Thick-fat",
+        "Ice-body",
+        "Oblivious"
+    ],
+    "0365": [
+        "Thick-fat",
+        "Ice-body",
+        "Oblivious"
+    ],
+    "0366": [
+        "Shell-armor",
+        "Rattled"
+    ],
+    "0367": [
+        "Swift-swim",
+        "Water-veil"
+    ],
+    "0368": [
+        "Swift-swim",
+        "Hydration"
+    ],
+    "0369": [
+        "Swift-swim",
+        "Rock-head",
+        "Sturdy"
+    ],
+    "0370": [
+        "Swift-swim",
+        "Hydration"
+    ],
+    "0371": [
+        "Rock-head",
+        "Sheer-force"
+    ],
+    "0372": [
+        "Rock-head",
+        "Overcoat"
+    ],
+    "0373": [
+        "Intimidate",
+        "Moxie"
+    ],
+    "0374": [
+        "Clear-body",
+        "Light-metal"
+    ],
+    "0375": [
+        "Clear-body",
+        "Light-metal"
+    ],
+    "0376": [
+        "Clear-body",
+        "Light-metal"
+    ],
+    "0377": [
+        "Clear-body",
+        "Sturdy"
+    ],
+    "0378": [
+        "Clear-body",
+        "Ice-body"
+    ],
+    "0379": [
+        "Clear-body",
+        "Light-metal"
+    ],
+    "0380": [
+        "Levitate"
+    ],
+    "0381": [
+        "Levitate"
+    ],
+    "0382": [
+        "Drizzle"
+    ],
+    "0383": [
+        "Drought"
+    ],
+    "0384": [
+        "Air-lock"
+    ],
+    "0385": [
+        "Serene-grace"
+    ],
+    "0386": [
+        "Pressure"
+    ],
+    "0387": [
+        "Overgrow",
+        "Shell-armor"
+    ],
+    "0388": [
+        "Overgrow",
+        "Shell-armor"
+    ],
+    "0389": [
+        "Overgrow",
+        "Shell-armor"
+    ],
+    "0390": [
+        "Blaze",
+        "Iron-fist"
+    ],
+    "0391": [
+        "Blaze",
+        "Iron-fist"
+    ],
+    "0392": [
+        "Blaze",
+        "Iron-fist"
+    ],
+    "0393": [
+        "Torrent",
+        "Defiant"
+    ],
+    "0394": [
+        "Torrent",
+        "Defiant"
+    ],
+    "0395": [
+        "Torrent",
+        "Defiant"
+    ],
+    "0396": [
+        "Keen-eye",
+        "Reckless"
+    ],
+    "0397": [
+        "Intimidate",
+        "Reckless"
+    ],
+    "0398": [
+        "Intimidate",
+        "Reckless"
+    ],
+    "0399": [
+        "Simple",
+        "Unaware",
+        "Moody"
+    ],
+    "0400": [
+        "Simple",
+        "Unaware",
+        "Moody"
+    ],
+    "0401": [
+        "Shed-skin",
+        "Run-away"
+    ],
+    "0402": [
+        "Swarm",
+        "Technician"
+    ],
+    "0403": [
+        "Rivalry",
+        "Intimidate",
+        "Guts"
+    ],
+    "0404": [
+        "Rivalry",
+        "Intimidate",
+        "Guts"
+    ],
+    "0405": [
+        "Rivalry",
+        "Intimidate",
+        "Guts"
+    ],
+    "0406": [
+        "Natural-cure",
+        "Poison-point",
+        "Leaf-guard"
+    ],
+    "0407": [
+        "Natural-cure",
+        "Poison-point",
+        "Technician"
+    ],
+    "0408": [
+        "Mold-breaker",
+        "Sheer-force"
+    ],
+    "0409": [
+        "Mold-breaker",
+        "Sheer-force"
+    ],
+    "0410": [
+        "Sturdy",
+        "Soundproof"
+    ],
+    "0411": [
+        "Sturdy",
+        "Soundproof"
+    ],
+    "0412": [
+        "Shed-skin",
+        "Overcoat"
+    ],
+    "0413": [
+        "Anticipation",
+        "Overcoat"
+    ],
+    "0414": [
+        "Swarm",
+        "Tinted-lens"
+    ],
+    "0415": [
+        "Honey-gather",
+        "Hustle"
+    ],
+    "0416": [
+        "Pressure",
+        "Unnerve"
+    ],
+    "0417": [
+        "Run-away",
+        "Pickup",
+        "Volt-absorb"
+    ],
+    "0418": [
+        "Swift-swim",
+        "Water-veil"
+    ],
+    "0419": [
+        "Swift-swim",
+        "Water-veil"
+    ],
+    "0420": [
+        "Chlorophyll"
+    ],
+    "0421": [
+        "Flower-gift"
+    ],
+    "0422": [
+        "Sticky-hold",
+        "Storm-drain",
+        "Sand-force"
+    ],
+    "0423": [
+        "Sticky-hold",
+        "Storm-drain",
+        "Sand-force"
+    ],
+    "0424": [
+        "Technician",
+        "Pickup",
+        "Skill-link"
+    ],
+    "0425": [
+        "Aftermath",
+        "Unburden",
+        "Flare-boost"
+    ],
+    "0426": [
+        "Aftermath",
+        "Unburden",
+        "Flare-boost"
+    ],
+    "0427": [
+        "Run-away",
+        "Klutz",
+        "Limber"
+    ],
+    "0428": [
+        "Cute-charm",
+        "Klutz",
+        "Limber"
+    ],
+    "0429": [
+        "Levitate"
+    ],
+    "0430": [
+        "Insomnia",
+        "Super-luck",
+        "Moxie"
+    ],
+    "0431": [
+        "Limber",
+        "Own-tempo",
+        "Keen-eye"
+    ],
+    "0432": [
+        "Thick-fat",
+        "Own-tempo",
+        "Defiant"
+    ],
+    "0433": [
+        "Levitate"
+    ],
+    "0434": [
+        "Stench",
+        "Aftermath",
+        "Keen-eye"
+    ],
+    "0435": [
+        "Stench",
+        "Aftermath",
+        "Keen-eye"
+    ],
+    "0436": [
+        "Levitate",
+        "Heatproof",
+        "Heavy-metal"
+    ],
+    "0437": [
+        "Levitate",
+        "Heatproof",
+        "Heavy-metal"
+    ],
+    "0438": [
+        "Sturdy",
+        "Rock-head",
+        "Rattled"
+    ],
+    "0439": [
+        "Soundproof",
+        "Filter",
+        "Technician"
+    ],
+    "0440": [
+        "Natural-cure",
+        "Serene-grace",
+        "Friend-guard"
+    ],
+    "0441": [
+        "Keen-eye",
+        "Tangled-feet",
+        "Big-pecks"
+    ],
+    "0442": [
+        "Pressure",
+        "Infiltrator"
+    ],
+    "0443": [
+        "Sand-veil",
+        "Rough-skin"
+    ],
+    "0444": [
+        "Sand-veil",
+        "Rough-skin"
+    ],
+    "0445": [
+        "Sand-veil",
+        "Rough-skin"
+    ],
+    "0446": [
+        "Pickup",
+        "Thick-fat",
+        "Gluttony"
+    ],
+    "0447": [
+        "Steadfast",
+        "Inner-focus",
+        "Prankster"
+    ],
+    "0448": [
+        "Steadfast",
+        "Inner-focus",
+        "Justified"
+    ],
+    "0449": [
+        "Sand-stream",
+        "Sand-force"
+    ],
+    "0450": [
+        "Sand-stream",
+        "Sand-force"
+    ],
+    "0451": [
+        "Battle-armor",
+        "Sniper",
+        "Keen-eye"
+    ],
+    "0452": [
+        "Battle-armor",
+        "Sniper",
+        "Keen-eye"
+    ],
+    "0453": [
+        "Anticipation",
+        "Dry-skin",
+        "Poison-touch"
+    ],
+    "0454": [
+        "Anticipation",
+        "Dry-skin",
+        "Poison-touch"
+    ],
+    "0455": [
+        "Levitate"
+    ],
+    "0456": [
+        "Swift-swim",
+        "Storm-drain",
+        "Water-veil"
+    ],
+    "0457": [
+        "Swift-swim",
+        "Storm-drain",
+        "Water-veil"
+    ],
+    "0458": [
+        "Swift-swim",
+        "Water-absorb",
+        "Water-veil"
+    ],
+    "0459": [
+        "Snow-warning",
+        "Soundproof"
+    ],
+    "0460": [
+        "Snow-warning",
+        "Soundproof"
+    ],
+    "0461": [
+        "Pressure",
+        "Pickpocket"
+    ],
+    "0462": [
+        "Magnet-pull",
+        "Sturdy",
+        "Analytic"
+    ],
+    "0463": [
+        "Own-tempo",
+        "Oblivious",
+        "Cloud-nine"
+    ],
+    "0464": [
+        "Lightning-rod",
+        "Solid-rock",
+        "Reckless"
+    ],
+    "0465": [
+        "Chlorophyll",
+        "Leaf-guard",
+        "Regenerator"
+    ],
+    "0466": [
+        "Motor-drive",
+        "Vital-spirit"
+    ],
+    "0467": [
+        "Flame-body",
+        "Vital-spirit"
+    ],
+    "0468": [
+        "Hustle",
+        "Serene-grace",
+        "Super-luck"
+    ],
+    "0469": [
+        "Speed-boost",
+        "Tinted-lens",
+        "Frisk"
+    ],
+    "0470": [
+        "Leaf-guard",
+        "Chlorophyll"
+    ],
+    "0471": [
+        "Snow-cloak",
+        "Ice-body"
+    ],
+    "0472": [
+        "Hyper-cutter",
+        "Sand-veil",
+        "Poison-heal"
+    ],
+    "0473": [
+        "Oblivious",
+        "Snow-cloak",
+        "Thick-fat"
+    ],
+    "0474": [
+        "Adaptability",
+        "Download",
+        "Analytic"
+    ],
+    "0475": [
+        "Steadfast",
+        "Justified"
+    ],
+    "0476": [
+        "Sturdy",
+        "Magnet-pull",
+        "Sand-force"
+    ],
+    "0477": [
+        "Pressure",
+        "Frisk"
+    ],
+    "0478": [
+        "Snow-cloak",
+        "Cursed-body"
+    ],
+    "0479": [
+        "Levitate"
+    ],
+    "0480": [
+        "Levitate"
+    ],
+    "0481": [
+        "Levitate"
+    ],
+    "0482": [
+        "Levitate"
+    ],
+    "0483": [
+        "Pressure",
+        "Telepathy"
+    ],
+    "0484": [
+        "Pressure",
+        "Telepathy"
+    ],
+    "0485": [
+        "Flash-fire",
+        "Flame-body"
+    ],
+    "0486": [
+        "Slow-start"
+    ],
+    "0487": [
+        "Pressure",
+        "Telepathy"
+    ],
+    "0488": [
+        "Levitate"
+    ],
+    "0489": [
+        "Hydration"
+    ],
+    "0490": [
+        "Hydration"
+    ],
+    "0491": [
+        "Bad-dreams"
+    ],
+    "0492": [
+        "Natural-cure"
+    ],
+    "0493": [
+        "Multitype"
+    ],
+    "0494": [
+        "Victory-star"
+    ],
+    "0495": [
+        "Overgrow",
+        "Contrary"
+    ],
+    "0496": [
+        "Overgrow",
+        "Contrary"
+    ],
+    "0497": [
+        "Overgrow",
+        "Contrary"
+    ],
+    "0498": [
+        "Blaze",
+        "Thick-fat"
+    ],
+    "0499": [
+        "Blaze",
+        "Thick-fat"
+    ],
+    "0500": [
+        "Blaze",
+        "Reckless"
+    ],
+    "0501": [
+        "Torrent",
+        "Shell-armor"
+    ],
+    "0502": [
+        "Torrent",
+        "Shell-armor"
+    ],
+    "0503": [
+        "Torrent",
+        "Shell-armor"
+    ],
+    "0504": [
+        "Run-away",
+        "Keen-eye",
+        "Analytic"
+    ],
+    "0505": [
+        "Illuminate",
+        "Keen-eye",
+        "Analytic"
+    ],
+    "0506": [
+        "Vital-spirit",
+        "Pickup",
+        "Run-away"
+    ],
+    "0507": [
+        "Intimidate",
+        "Sand-rush",
+        "Scrappy"
+    ],
+    "0508": [
+        "Intimidate",
+        "Sand-rush",
+        "Scrappy"
+    ],
+    "0509": [
+        "Limber",
+        "Unburden",
+        "Prankster"
+    ],
+    "0510": [
+        "Limber",
+        "Unburden",
+        "Prankster"
+    ],
+    "0511": [
+        "Gluttony",
+        "Overgrow"
+    ],
+    "0512": [
+        "Gluttony",
+        "Overgrow"
+    ],
+    "0513": [
+        "Gluttony",
+        "Blaze"
+    ],
+    "0514": [
+        "Gluttony",
+        "Blaze"
+    ],
+    "0515": [
+        "Gluttony",
+        "Torrent"
+    ],
+    "0516": [
+        "Gluttony",
+        "Torrent"
+    ],
+    "0517": [
+        "Forewarn",
+        "Synchronize",
+        "Telepathy"
+    ],
+    "0518": [
+        "Forewarn",
+        "Synchronize",
+        "Telepathy"
+    ],
+    "0519": [
+        "Big-pecks",
+        "Super-luck",
+        "Rivalry"
+    ],
+    "0520": [
+        "Big-pecks",
+        "Super-luck",
+        "Rivalry"
+    ],
+    "0521": [
+        "Big-pecks",
+        "Super-luck",
+        "Rivalry"
+    ],
+    "0522": [
+        "Lightning-rod",
+        "Motor-drive",
+        "Sap-sipper"
+    ],
+    "0523": [
+        "Lightning-rod",
+        "Motor-drive",
+        "Sap-sipper"
+    ],
+    "0524": [
+        "Sturdy",
+        "Weak-armor",
+        "Sand-force"
+    ],
+    "0525": [
+        "Sturdy",
+        "Weak-armor",
+        "Sand-force"
+    ],
+    "0526": [
+        "Sturdy",
+        "Sand-stream",
+        "Sand-force"
+    ],
+    "0527": [
+        "Unaware",
+        "Klutz",
+        "Simple"
+    ],
+    "0528": [
+        "Unaware",
+        "Klutz",
+        "Simple"
+    ],
+    "0529": [
+        "Sand-rush",
+        "Sand-force",
+        "Mold-breaker"
+    ],
+    "0530": [
+        "Sand-rush",
+        "Sand-force",
+        "Mold-breaker"
+    ],
+    "0531": [
+        "Healer",
+        "Regenerator",
+        "Klutz"
+    ],
+    "0532": [
+        "Guts",
+        "Sheer-force",
+        "Iron-fist"
+    ],
+    "0533": [
+        "Guts",
+        "Sheer-force",
+        "Iron-fist"
+    ],
+    "0534": [
+        "Guts",
+        "Sheer-force",
+        "Iron-fist"
+    ],
+    "0535": [
+        "Swift-swim",
+        "Hydration",
+        "Water-absorb"
+    ],
+    "0536": [
+        "Swift-swim",
+        "Hydration",
+        "Water-absorb"
+    ],
+    "0537": [
+        "Swift-swim",
+        "Poison-touch",
+        "Water-absorb"
+    ],
+    "0538": [
+        "Guts",
+        "Inner-focus",
+        "Mold-breaker"
+    ],
+    "0539": [
+        "Sturdy",
+        "Inner-focus",
+        "Mold-breaker"
+    ],
+    "0540": [
+        "Swarm",
+        "Chlorophyll",
+        "Overcoat"
+    ],
+    "0541": [
+        "Leaf-guard",
+        "Chlorophyll",
+        "Overcoat"
+    ],
+    "0542": [
+        "Swarm",
+        "Chlorophyll",
+        "Overcoat"
+    ],
+    "0543": [
+        "Poison-point",
+        "Swarm",
+        "Speed-boost"
+    ],
+    "0544": [
+        "Poison-point",
+        "Swarm",
+        "Speed-boost"
+    ],
+    "0545": [
+        "Poison-point",
+        "Swarm",
+        "Speed-boost"
+    ],
+    "0546": [
+        "Prankster",
+        "Infiltrator",
+        "Chlorophyll"
+    ],
+    "0547": [
+        "Prankster",
+        "Infiltrator",
+        "Chlorophyll"
+    ],
+    "0548": [
+        "Chlorophyll",
+        "Own-tempo",
+        "Leaf-guard"
+    ],
+    "0549": [
+        "Chlorophyll",
+        "Own-tempo",
+        "Leaf-guard"
+    ],
+    "0550": [
+        "Reckless",
+        "Adaptability",
+        "Mold-breaker"
+    ],
+    "0551": [
+        "Intimidate",
+        "Moxie",
+        "Anger-point"
+    ],
+    "0552": [
+        "Intimidate",
+        "Moxie",
+        "Anger-point"
+    ],
+    "0553": [
+        "Intimidate",
+        "Moxie",
+        "Anger-point"
+    ],
+    "0554": [
+        "Hustle",
+        "Inner-focus"
+    ],
+    "0555": [
+        "Sheer-force",
+        "Zen-mode"
+    ],
+    "0556": [
+        "Water-absorb",
+        "Chlorophyll",
+        "Storm-drain"
+    ],
+    "0557": [
+        "Sturdy",
+        "Shell-armor",
+        "Weak-armor"
+    ],
+    "0558": [
+        "Sturdy",
+        "Shell-armor",
+        "Weak-armor"
+    ],
+    "0559": [
+        "Shed-skin",
+        "Moxie",
+        "Intimidate"
+    ],
+    "0560": [
+        "Shed-skin",
+        "Moxie",
+        "Intimidate"
+    ],
+    "0561": [
+        "Wonder-skin",
+        "Magic-guard",
+        "Tinted-lens"
+    ],
+    "0562": [
+        "Mummy"
+    ],
+    "0563": [
+        "Mummy"
+    ],
+    "0564": [
+        "Solid-rock",
+        "Sturdy",
+        "Swift-swim"
+    ],
+    "0565": [
+        "Solid-rock",
+        "Sturdy",
+        "Swift-swim"
+    ],
+    "0566": [
+        "Defeatist"
+    ],
+    "0567": [
+        "Defeatist"
+    ],
+    "0568": [
+        "Stench",
+        "Sticky-hold",
+        "Aftermath"
+    ],
+    "0569": [
+        "Stench",
+        "Weak-armor",
+        "Aftermath"
+    ],
+    "0570": [
+        "Illusion"
+    ],
+    "0571": [
+        "Illusion"
+    ],
+    "0572": [
+        "Cute-charm",
+        "Technician",
+        "Skill-link"
+    ],
+    "0573": [
+        "Cute-charm",
+        "Technician",
+        "Skill-link"
+    ],
+    "0574": [
+        "Frisk",
+        "Competitive",
+        "Shadow-tag"
+    ],
+    "0575": [
+        "Frisk",
+        "Competitive",
+        "Shadow-tag"
+    ],
+    "0576": [
+        "Frisk",
+        "Competitive",
+        "Shadow-tag"
+    ],
+    "0577": [
+        "Overcoat",
+        "Magic-guard",
+        "Regenerator"
+    ],
+    "0578": [
+        "Overcoat",
+        "Magic-guard",
+        "Regenerator"
+    ],
+    "0579": [
+        "Overcoat",
+        "Magic-guard",
+        "Regenerator"
+    ],
+    "0580": [
+        "Keen-eye",
+        "Big-pecks",
+        "Hydration"
+    ],
+    "0581": [
+        "Keen-eye",
+        "Big-pecks",
+        "Hydration"
+    ],
+    "0582": [
+        "Ice-body",
+        "Snow-cloak",
+        "Weak-armor"
+    ],
+    "0583": [
+        "Ice-body",
+        "Snow-cloak",
+        "Weak-armor"
+    ],
+    "0584": [
+        "Ice-body",
+        "Snow-warning",
+        "Weak-armor"
+    ],
+    "0585": [
+        "Chlorophyll",
+        "Sap-sipper",
+        "Serene-grace"
+    ],
+    "0586": [
+        "Chlorophyll",
+        "Sap-sipper",
+        "Serene-grace"
+    ],
+    "0587": [
+        "Static",
+        "Motor-drive"
+    ],
+    "0588": [
+        "Swarm",
+        "Shed-skin",
+        "No-guard"
+    ],
+    "0589": [
+        "Swarm",
+        "Shell-armor",
+        "Overcoat"
+    ],
+    "0590": [
+        "Effect-spore",
+        "Regenerator"
+    ],
+    "0591": [
+        "Effect-spore",
+        "Regenerator"
+    ],
+    "0592": [
+        "Water-absorb",
+        "Cursed-body",
+        "Damp"
+    ],
+    "0593": [
+        "Water-absorb",
+        "Cursed-body",
+        "Damp"
+    ],
+    "0594": [
+        "Healer",
+        "Hydration",
+        "Regenerator"
+    ],
+    "0595": [
+        "Compound-eyes",
+        "Unnerve",
+        "Swarm"
+    ],
+    "0596": [
+        "Compound-eyes",
+        "Unnerve",
+        "Swarm"
+    ],
+    "0597": [
+        "Iron-barbs"
+    ],
+    "0598": [
+        "Iron-barbs",
+        "Anticipation"
+    ],
+    "0599": [
+        "Plus",
+        "Minus",
+        "Clear-body"
+    ],
+    "0600": [
+        "Plus",
+        "Minus",
+        "Clear-body"
+    ],
+    "0601": [
+        "Plus",
+        "Minus",
+        "Clear-body"
+    ],
+    "0602": [
+        "Levitate"
+    ],
+    "0603": [
+        "Levitate"
+    ],
+    "0604": [
+        "Levitate"
+    ],
+    "0605": [
+        "Telepathy",
+        "Synchronize",
+        "Analytic"
+    ],
+    "0606": [
+        "Telepathy",
+        "Synchronize",
+        "Analytic"
+    ],
+    "0607": [
+        "Flash-fire",
+        "Flame-body",
+        "Infiltrator"
+    ],
+    "0608": [
+        "Flash-fire",
+        "Flame-body",
+        "Infiltrator"
+    ],
+    "0609": [
+        "Flash-fire",
+        "Flame-body",
+        "Infiltrator"
+    ],
+    "0610": [
+        "Rivalry",
+        "Mold-breaker",
+        "Unnerve"
+    ],
+    "0611": [
+        "Rivalry",
+        "Mold-breaker",
+        "Unnerve"
+    ],
+    "0612": [
+        "Rivalry",
+        "Mold-breaker",
+        "Unnerve"
+    ],
+    "0613": [
+        "Snow-cloak",
+        "Slush-rush",
+        "Rattled"
+    ],
+    "0614": [
+        "Snow-cloak",
+        "Slush-rush",
+        "Swift-swim"
+    ],
+    "0615": [
+        "Levitate"
+    ],
+    "0616": [
+        "Hydration",
+        "Shell-armor",
+        "Overcoat"
+    ],
+    "0617": [
+        "Hydration",
+        "Sticky-hold",
+        "Unburden"
+    ],
+    "0618": [
+        "Static",
+        "Limber",
+        "Sand-veil"
+    ],
+    "0619": [
+        "Inner-focus",
+        "Regenerator",
+        "Reckless"
+    ],
+    "0620": [
+        "Inner-focus",
+        "Regenerator",
+        "Reckless"
+    ],
+    "0621": [
+        "Rough-skin",
+        "Sheer-force",
+        "Mold-breaker"
+    ],
+    "0622": [
+        "Iron-fist",
+        "Klutz",
+        "No-guard"
+    ],
+    "0623": [
+        "Iron-fist",
+        "Klutz",
+        "No-guard"
+    ],
+    "0624": [
+        "Defiant",
+        "Inner-focus",
+        "Pressure"
+    ],
+    "0625": [
+        "Defiant",
+        "Inner-focus",
+        "Pressure"
+    ],
+    "0626": [
+        "Reckless",
+        "Sap-sipper",
+        "Soundproof"
+    ],
+    "0627": [
+        "Keen-eye",
+        "Sheer-force",
+        "Hustle"
+    ],
+    "0628": [
+        "Keen-eye",
+        "Sheer-force",
+        "Defiant"
+    ],
+    "0629": [
+        "Big-pecks",
+        "Overcoat",
+        "Weak-armor"
+    ],
+    "0630": [
+        "Big-pecks",
+        "Overcoat",
+        "Weak-armor"
+    ],
+    "0631": [
+        "Gluttony",
+        "Flash-fire",
+        "White-smoke"
+    ],
+    "0632": [
+        "Swarm",
+        "Hustle",
+        "Truant"
+    ],
+    "0633": [
+        "Hustle"
+    ],
+    "0634": [
+        "Hustle"
+    ],
+    "0635": [
+        "Levitate"
+    ],
+    "0636": [
+        "Flame-body",
+        "Swarm"
+    ],
+    "0637": [
+        "Flame-body",
+        "Swarm"
+    ],
+    "0638": [
+        "Justified"
+    ],
+    "0639": [
+        "Justified"
+    ],
+    "0640": [
+        "Justified"
+    ],
+    "0641": [
+        "Prankster",
+        "Defiant"
+    ],
+    "0642": [
+        "Prankster",
+        "Defiant"
+    ],
+    "0643": [
+        "Turboblaze"
+    ],
+    "0644": [
+        "Teravolt"
+    ],
+    "0645": [
+        "Sand-force",
+        "Sheer-force"
+    ],
+    "0646": [
+        "Pressure"
+    ],
+    "0647": [
+        "Justified"
+    ],
+    "0648": [
+        "Serene-grace"
+    ],
+    "0649": [
+        "Download"
+    ],
+    "0650": [
+        "Overgrow",
+        "Bulletproof"
+    ],
+    "0651": [
+        "Overgrow",
+        "Bulletproof"
+    ],
+    "0652": [
+        "Overgrow",
+        "Bulletproof"
+    ],
+    "0653": [
+        "Blaze",
+        "Magician"
+    ],
+    "0654": [
+        "Blaze",
+        "Magician"
+    ],
+    "0655": [
+        "Blaze",
+        "Magician"
+    ],
+    "0656": [
+        "Torrent",
+        "Protean"
+    ],
+    "0657": [
+        "Torrent",
+        "Protean"
+    ],
+    "0658": [
+        "Torrent",
+        "Protean"
+    ],
+    "0659": [
+        "Pickup",
+        "Cheek-pouch",
+        "Huge-power"
+    ],
+    "0660": [
+        "Pickup",
+        "Cheek-pouch",
+        "Huge-power"
+    ],
+    "0661": [
+        "Big-pecks",
+        "Gale-wings"
+    ],
+    "0662": [
+        "Flame-body",
+        "Gale-wings"
+    ],
+    "0663": [
+        "Flame-body",
+        "Gale-wings"
+    ],
+    "0664": [
+        "Shield-dust",
+        "Compound-eyes",
+        "Friend-guard"
+    ],
+    "0665": [
+        "Shed-skin",
+        "Friend-guard"
+    ],
+    "0666": [
+        "Shield-dust",
+        "Compound-eyes",
+        "Friend-guard"
+    ],
+    "0667": [
+        "Rivalry",
+        "Unnerve",
+        "Moxie"
+    ],
+    "0668": [
+        "Rivalry",
+        "Unnerve",
+        "Moxie"
+    ],
+    "0669": [
+        "Flower-veil",
+        "Symbiosis"
+    ],
+    "0670": [
+        "Flower-veil",
+        "Symbiosis"
+    ],
+    "0671": [
+        "Flower-veil",
+        "Symbiosis"
+    ],
+    "0672": [
+        "Sap-sipper",
+        "Grass-pelt"
+    ],
+    "0673": [
+        "Sap-sipper",
+        "Grass-pelt"
+    ],
+    "0674": [
+        "Iron-fist",
+        "Mold-breaker",
+        "Scrappy"
+    ],
+    "0675": [
+        "Iron-fist",
+        "Mold-breaker",
+        "Scrappy"
+    ],
+    "0676": [
+        "Fur-coat"
+    ],
+    "0677": [
+        "Keen-eye",
+        "Infiltrator",
+        "Own-tempo"
+    ],
+    "0678": [
+        "Keen-eye",
+        "Infiltrator",
+        "Prankster"
+    ],
+    "0679": [
+        "No-guard"
+    ],
+    "0680": [
+        "No-guard"
+    ],
+    "0681": [
+        "Stance-change"
+    ],
+    "0682": [
+        "Healer",
+        "Aroma-veil"
+    ],
+    "0683": [
+        "Healer",
+        "Aroma-veil"
+    ],
+    "0684": [
+        "Sweet-veil",
+        "Unburden"
+    ],
+    "0685": [
+        "Sweet-veil",
+        "Unburden"
+    ],
+    "0686": [
+        "Contrary",
+        "Suction-cups",
+        "Infiltrator"
+    ],
+    "0687": [
+        "Contrary",
+        "Suction-cups",
+        "Infiltrator"
+    ],
+    "0688": [
+        "Tough-claws",
+        "Sniper",
+        "Pickpocket"
+    ],
+    "0689": [
+        "Tough-claws",
+        "Sniper",
+        "Pickpocket"
+    ],
+    "0690": [
+        "Poison-point",
+        "Poison-touch",
+        "Adaptability"
+    ],
+    "0691": [
+        "Poison-point",
+        "Poison-touch",
+        "Adaptability"
+    ],
+    "0692": [
+        "Mega-launcher"
+    ],
+    "0693": [
+        "Mega-launcher"
+    ],
+    "0694": [
+        "Dry-skin",
+        "Sand-veil",
+        "Solar-power"
+    ],
+    "0695": [
+        "Dry-skin",
+        "Sand-veil",
+        "Solar-power"
+    ],
+    "0696": [
+        "Strong-jaw",
+        "Sturdy"
+    ],
+    "0697": [
+        "Strong-jaw",
+        "Rock-head"
+    ],
+    "0698": [
+        "Refrigerate",
+        "Snow-warning"
+    ],
+    "0699": [
+        "Refrigerate",
+        "Snow-warning"
+    ],
+    "0700": [
+        "Cute-charm",
+        "Pixilate"
+    ],
+    "0701": [
+        "Limber",
+        "Unburden",
+        "Mold-breaker"
+    ],
+    "0702": [
+        "Cheek-pouch",
+        "Pickup",
+        "Plus"
+    ],
+    "0703": [
+        "Clear-body",
+        "Sturdy"
+    ],
+    "0704": [
+        "Sap-sipper",
+        "Hydration",
+        "Gooey"
+    ],
+    "0705": [
+        "Sap-sipper",
+        "Hydration",
+        "Gooey"
+    ],
+    "0706": [
+        "Sap-sipper",
+        "Hydration",
+        "Gooey"
+    ],
+    "0707": [
+        "Prankster",
+        "Magician"
+    ],
+    "0708": [
+        "Natural-cure",
+        "Frisk",
+        "Harvest"
+    ],
+    "0709": [
+        "Natural-cure",
+        "Frisk",
+        "Harvest"
+    ],
+    "0710": [
+        "Pickup",
+        "Frisk",
+        "Insomnia"
+    ],
+    "0711": [
+        "Pickup",
+        "Frisk",
+        "Insomnia"
+    ],
+    "0712": [
+        "Own-tempo",
+        "Ice-body",
+        "Sturdy"
+    ],
+    "0713": [
+        "Own-tempo",
+        "Ice-body",
+        "Sturdy"
+    ],
+    "0714": [
+        "Frisk",
+        "Infiltrator",
+        "Telepathy"
+    ],
+    "0715": [
+        "Frisk",
+        "Infiltrator",
+        "Telepathy"
+    ],
+    "0716": [
+        "Fairy-aura"
+    ],
+    "0717": [
+        "Dark-aura"
+    ],
+    "0718": [
+        "Aura-break"
+    ],
+    "0719": [
+        "Clear-body"
+    ],
+    "0720": [
+        "Magician"
+    ],
+    "0721": [
+        "Water-absorb"
+    ],
+    "0722": [
+        "Overgrow",
+        "Long-reach"
+    ],
+    "0723": [
+        "Overgrow",
+        "Long-reach"
+    ],
+    "0724": [
+        "Overgrow",
+        "Long-reach"
+    ],
+    "0725": [
+        "Blaze",
+        "Intimidate"
+    ],
+    "0726": [
+        "Blaze",
+        "Intimidate"
+    ],
+    "0727": [
+        "Blaze",
+        "Intimidate"
+    ],
+    "0728": [
+        "Torrent",
+        "Liquid-voice"
+    ],
+    "0729": [
+        "Torrent",
+        "Liquid-voice"
+    ],
+    "0730": [
+        "Torrent",
+        "Liquid-voice"
+    ],
+    "0731": [
+        "Keen-eye",
+        "Skill-link",
+        "Pickup"
+    ],
+    "0732": [
+        "Keen-eye",
+        "Skill-link",
+        "Pickup"
+    ],
+    "0733": [
+        "Keen-eye",
+        "Skill-link",
+        "Sheer-force"
+    ],
+    "0734": [
+        "Stakeout",
+        "Strong-jaw",
+        "Adaptability"
+    ],
+    "0735": [
+        "Stakeout",
+        "Strong-jaw",
+        "Adaptability"
+    ],
+    "0736": [
+        "Swarm"
+    ],
+    "0737": [
+        "Battery"
+    ],
+    "0738": [
+        "Levitate"
+    ],
+    "0739": [
+        "Hyper-cutter",
+        "Iron-fist",
+        "Anger-point"
+    ],
+    "0740": [
+        "Hyper-cutter",
+        "Iron-fist",
+        "Anger-point"
+    ],
+    "0741": [
+        "Dancer"
+    ],
+    "0742": [
+        "Honey-gather",
+        "Shield-dust",
+        "Sweet-veil"
+    ],
+    "0743": [
+        "Honey-gather",
+        "Shield-dust",
+        "Sweet-veil"
+    ],
+    "0744": [
+        "Keen-eye",
+        "Vital-spirit",
+        "Steadfast"
+    ],
+    "0745": [
+        "Keen-eye",
+        "Sand-rush",
+        "Steadfast"
+    ],
+    "0746": [
+        "Schooling"
+    ],
+    "0747": [
+        "Merciless",
+        "Limber",
+        "Regenerator"
+    ],
+    "0748": [
+        "Merciless",
+        "Limber",
+        "Regenerator"
+    ],
+    "0749": [
+        "Own-tempo",
+        "Stamina",
+        "Inner-focus"
+    ],
+    "0750": [
+        "Own-tempo",
+        "Stamina",
+        "Inner-focus"
+    ],
+    "0751": [
+        "Water-bubble",
+        "Water-absorb"
+    ],
+    "0752": [
+        "Water-bubble",
+        "Water-absorb"
+    ],
+    "0753": [
+        "Leaf-guard",
+        "Contrary"
+    ],
+    "0754": [
+        "Leaf-guard",
+        "Contrary"
+    ],
+    "0755": [
+        "Illuminate",
+        "Effect-spore",
+        "Rain-dish"
+    ],
+    "0756": [
+        "Illuminate",
+        "Effect-spore",
+        "Rain-dish"
+    ],
+    "0757": [
+        "Corrosion",
+        "Oblivious"
+    ],
+    "0758": [
+        "Corrosion",
+        "Oblivious"
+    ],
+    "0759": [
+        "Fluffy",
+        "Klutz",
+        "Cute-charm"
+    ],
+    "0760": [
+        "Fluffy",
+        "Klutz",
+        "Unnerve"
+    ],
+    "0761": [
+        "Leaf-guard",
+        "Oblivious",
+        "Sweet-veil"
+    ],
+    "0762": [
+        "Leaf-guard",
+        "Oblivious",
+        "Sweet-veil"
+    ],
+    "0763": [
+        "Leaf-guard",
+        "Queenly-majesty",
+        "Sweet-veil"
+    ],
+    "0764": [
+        "Flower-veil",
+        "Triage",
+        "Natural-cure"
+    ],
+    "0765": [
+        "Inner-focus",
+        "Telepathy",
+        "Symbiosis"
+    ],
+    "0766": [
+        "Receiver",
+        "Defiant"
+    ],
+    "0767": [
+        "Wimp-out"
+    ],
+    "0768": [
+        "Emergency-exit"
+    ],
+    "0769": [
+        "Water-compaction",
+        "Sand-veil"
+    ],
+    "0770": [
+        "Water-compaction",
+        "Sand-veil"
+    ],
+    "0771": [
+        "Innards-out",
+        "Unaware"
+    ],
+    "0772": [
+        "Battle-armor"
+    ],
+    "0773": [
+        "Rks-system"
+    ],
+    "0774": [
+        "Shields-down"
+    ],
+    "0775": [
+        "Comatose"
+    ],
+    "0776": [
+        "Shell-armor"
+    ],
+    "0777": [
+        "Iron-barbs",
+        "Lightning-rod",
+        "Sturdy"
+    ],
+    "0778": [
+        "Disguise"
+    ],
+    "0779": [
+        "Dazzling",
+        "Strong-jaw",
+        "Wonder-skin"
+    ],
+    "0780": [
+        "Berserk",
+        "Sap-sipper",
+        "Cloud-nine"
+    ],
+    "0781": [
+        "Steelworker"
+    ],
+    "0782": [
+        "Bulletproof",
+        "Soundproof",
+        "Overcoat"
+    ],
+    "0783": [
+        "Bulletproof",
+        "Soundproof",
+        "Overcoat"
+    ],
+    "0784": [
+        "Bulletproof",
+        "Soundproof",
+        "Overcoat"
+    ],
+    "0785": [
+        "Electric-surge",
+        "Telepathy"
+    ],
+    "0786": [
+        "Psychic-surge",
+        "Telepathy"
+    ],
+    "0787": [
+        "Grassy-surge",
+        "Telepathy"
+    ],
+    "0788": [
+        "Misty-surge",
+        "Telepathy"
+    ],
+    "0789": [
+        "Unaware"
+    ],
+    "0790": [
+        "Sturdy"
+    ],
+    "0791": [
+        "Full-metal-body"
+    ],
+    "0792": [
+        "Shadow-shield"
+    ],
+    "0793": [
+        "Beast-boost"
+    ],
+    "0794": [
+        "Beast-boost"
+    ],
+    "0795": [
+        "Beast-boost"
+    ],
+    "0796": [
+        "Beast-boost"
+    ],
+    "0797": [
+        "Beast-boost"
+    ],
+    "0798": [
+        "Beast-boost"
+    ],
+    "0799": [
+        "Beast-boost"
+    ],
+    "0800": [
+        "Prism-armor"
+    ],
+    "0801": [
+        "Soul-heart"
+    ],
+    "0802": [
+        "Technician"
+    ],
+    "0803": [
+        "Beast-boost"
+    ],
+    "0804": [
+        "Beast-boost"
+    ],
+    "0805": [
+        "Beast-boost"
+    ],
+    "0806": [
+        "Beast-boost"
+    ],
+    "0807": [
+        "Volt-absorb"
+    ],
+    "0808": [
+        "Magnet-pull"
+    ],
+    "0809": [
+        "Iron-fist"
+    ],
+    "0810": [
+        "Overgrow",
+        "Grassy-surge"
+    ],
+    "0811": [
+        "Overgrow",
+        "Grassy-surge"
+    ],
+    "0812": [
+        "Overgrow",
+        "Grassy-surge"
+    ],
+    "0813": [
+        "Blaze",
+        "Libero"
+    ],
+    "0814": [
+        "Blaze",
+        "Libero"
+    ],
+    "0815": [
+        "Blaze",
+        "Libero"
+    ],
+    "0816": [
+        "Torrent",
+        "Sniper"
+    ],
+    "0817": [
+        "Torrent",
+        "Sniper"
+    ],
+    "0818": [
+        "Torrent",
+        "Sniper"
+    ],
+    "0819": [
+        "Cheek-pouch",
+        "Gluttony"
+    ],
+    "0820": [
+        "Cheek-pouch",
+        "Gluttony"
+    ],
+    "0821": [
+        "Keen-eye",
+        "Unnerve",
+        "Big-pecks"
+    ],
+    "0822": [
+        "Keen-eye",
+        "Unnerve",
+        "Big-pecks"
+    ],
+    "0823": [
+        "Pressure",
+        "Unnerve",
+        "Mirror-armor"
+    ],
+    "0824": [
+        "Swarm",
+        "Compound-eyes",
+        "Telepathy"
+    ],
+    "0825": [
+        "Swarm",
+        "Compound-eyes",
+        "Telepathy"
+    ],
+    "0826": [
+        "Swarm",
+        "Frisk",
+        "Telepathy"
+    ],
+    "0827": [
+        "Run-away",
+        "Unburden",
+        "Stakeout"
+    ],
+    "0828": [
+        "Run-away",
+        "Unburden",
+        "Stakeout"
+    ],
+    "0829": [
+        "Cotton-down",
+        "Regenerator",
+        "Effect-spore"
+    ],
+    "0830": [
+        "Cotton-down",
+        "Regenerator",
+        "Effect-spore"
+    ],
+    "0831": [
+        "Fluffy",
+        "Run-away",
+        "Bulletproof"
+    ],
+    "0832": [
+        "Fluffy",
+        "Run-away",
+        "Bulletproof"
+    ],
+    "0833": [
+        "Strong-jaw",
+        "Shell-armor",
+        "Swift-swim"
+    ],
+    "0834": [
+        "Strong-jaw",
+        "Shell-armor",
+        "Swift-swim"
+    ],
+    "0835": [
+        "Ball-fetch",
+        "Rattled"
+    ],
+    "0836": [
+        "Strong-jaw",
+        "Competitive"
+    ],
+    "0837": [
+        "Steam-engine",
+        "Heatproof",
+        "Flash-fire"
+    ],
+    "0838": [
+        "Steam-engine",
+        "Flame-body",
+        "Flash-fire"
+    ],
+    "0839": [
+        "Steam-engine",
+        "Flame-body",
+        "Flash-fire"
+    ],
+    "0840": [
+        "Ripen",
+        "Gluttony",
+        "Bulletproof"
+    ],
+    "0841": [
+        "Ripen",
+        "Gluttony",
+        "Hustle"
+    ],
+    "0842": [
+        "Ripen",
+        "Gluttony",
+        "Thick-fat"
+    ],
+    "0843": [
+        "Sand-spit",
+        "Shed-skin",
+        "Sand-veil"
+    ],
+    "0844": [
+        "Sand-spit",
+        "Shed-skin",
+        "Sand-veil"
+    ],
+    "0845": [
+        "Gulp-missile"
+    ],
+    "0846": [
+        "Swift-swim",
+        "Propeller-tail"
+    ],
+    "0847": [
+        "Swift-swim",
+        "Propeller-tail"
+    ],
+    "0848": [
+        "Rattled",
+        "Static",
+        "Klutz"
+    ],
+    "0849": [
+        "Punk-rock",
+        "Plus",
+        "Technician"
+    ],
+    "0850": [
+        "Flash-fire",
+        "White-smoke",
+        "Flame-body"
+    ],
+    "0851": [
+        "Flash-fire",
+        "White-smoke",
+        "Flame-body"
+    ],
+    "0852": [
+        "Limber",
+        "Technician"
+    ],
+    "0853": [
+        "Limber",
+        "Technician"
+    ],
+    "0854": [
+        "Weak-armor",
+        "Cursed-body"
+    ],
+    "0855": [
+        "Weak-armor",
+        "Cursed-body"
+    ],
+    "0856": [
+        "Healer",
+        "Anticipation",
+        "Magic-bounce"
+    ],
+    "0857": [
+        "Healer",
+        "Anticipation",
+        "Magic-bounce"
+    ],
+    "0858": [
+        "Healer",
+        "Anticipation",
+        "Magic-bounce"
+    ],
+    "0859": [
+        "Prankster",
+        "Frisk",
+        "Pickpocket"
+    ],
+    "0860": [
+        "Prankster",
+        "Frisk",
+        "Pickpocket"
+    ],
+    "0861": [
+        "Prankster",
+        "Frisk",
+        "Pickpocket"
+    ],
+    "0862": [
+        "Reckless",
+        "Guts",
+        "Defiant"
+    ],
+    "0863": [
+        "Battle-armor",
+        "Tough-claws",
+        "Steely-spirit"
+    ],
+    "0864": [
+        "Weak-armor",
+        "Perish-body"
+    ],
+    "0865": [
+        "Steadfast",
+        "Scrappy"
+    ],
+    "0866": [
+        "Tangled-feet",
+        "Screen-cleaner",
+        "Ice-body"
+    ],
+    "0867": [
+        "Wandering-spirit"
+    ],
+    "0868": [
+        "Sweet-veil",
+        "Aroma-veil"
+    ],
+    "0869": [
+        "Sweet-veil",
+        "Aroma-veil"
+    ],
+    "0870": [
+        "Battle-armor",
+        "Defiant"
+    ],
+    "0871": [
+        "Lightning-rod",
+        "Electric-surge"
+    ],
+    "0872": [
+        "Shield-dust",
+        "Ice-scales"
+    ],
+    "0873": [
+        "Shield-dust",
+        "Ice-scales"
+    ],
+    "0874": [
+        "Power-spot"
+    ],
+    "0875": [
+        "Ice-face"
+    ],
+    "0876": [
+        "Inner-focus",
+        "Synchronize",
+        "Psychic-surge"
+    ],
+    "0877": [
+        "Hunger-switch"
+    ],
+    "0878": [
+        "Sheer-force",
+        "Heavy-metal"
+    ],
+    "0879": [
+        "Sheer-force",
+        "Heavy-metal"
+    ],
+    "0880": [
+        "Volt-absorb",
+        "Hustle",
+        "Sand-rush"
+    ],
+    "0881": [
+        "Volt-absorb",
+        "Static",
+        "Slush-rush"
+    ],
+    "0882": [
+        "Water-absorb",
+        "Strong-jaw",
+        "Sand-rush"
+    ],
+    "0883": [
+        "Water-absorb",
+        "Ice-body",
+        "Slush-rush"
+    ],
+    "0884": [
+        "Light-metal",
+        "Heavy-metal",
+        "Stalwart"
+    ],
+    "0885": [
+        "Clear-body",
+        "Infiltrator",
+        "Cursed-body"
+    ],
+    "0886": [
+        "Clear-body",
+        "Infiltrator",
+        "Cursed-body"
+    ],
+    "0887": [
+        "Clear-body",
+        "Infiltrator",
+        "Cursed-body"
+    ],
+    "0888": [
+        "Intrepid-sword"
+    ],
+    "0889": [
+        "Dauntless-shield"
+    ],
+    "0890": [
+        "Pressure"
+    ],
+    "0891": [
+        "Inner-focus"
+    ],
+    "0892": [
+        "Unseen-fist"
+    ],
+    "0893": [
+        "Leaf-guard"
+    ],
+    "0894": [
+        "Transistor"
+    ],
+    "0895": [
+        "Dragons-maw"
+    ],
+    "0896": [
+        "Chilling-neigh"
+    ],
+    "0897": [
+        "Grim-neigh"
+    ],
+    "0898": [
+        "Unnerve"
+    ]
+}

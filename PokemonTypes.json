@@ -1,0 +1,3138 @@
+{
+    "0001": [
+        "Grass",
+        "Poison"
+    ],
+    "0002": [
+        "Grass",
+        "Poison"
+    ],
+    "0003": [
+        "Grass",
+        "Poison"
+    ],
+    "0004": [
+        "Fire"
+    ],
+    "0005": [
+        "Fire"
+    ],
+    "0006": [
+        "Fire",
+        "Flying"
+    ],
+    "0007": [
+        "Water"
+    ],
+    "0008": [
+        "Water"
+    ],
+    "0009": [
+        "Water"
+    ],
+    "0010": [
+        "Bug"
+    ],
+    "0011": [
+        "Bug"
+    ],
+    "0012": [
+        "Bug",
+        "Flying"
+    ],
+    "0013": [
+        "Bug",
+        "Poison"
+    ],
+    "0014": [
+        "Bug",
+        "Poison"
+    ],
+    "0015": [
+        "Bug",
+        "Poison"
+    ],
+    "0016": [
+        "Normal",
+        "Flying"
+    ],
+    "0017": [
+        "Normal",
+        "Flying"
+    ],
+    "0018": [
+        "Normal",
+        "Flying"
+    ],
+    "0019": [
+        "Normal"
+    ],
+    "0020": [
+        "Normal"
+    ],
+    "0021": [
+        "Normal",
+        "Flying"
+    ],
+    "0022": [
+        "Normal",
+        "Flying"
+    ],
+    "0023": [
+        "Poison"
+    ],
+    "0024": [
+        "Poison"
+    ],
+    "0025": [
+        "Electric"
+    ],
+    "0026": [
+        "Electric"
+    ],
+    "0027": [
+        "Ground"
+    ],
+    "0028": [
+        "Ground"
+    ],
+    "0029": [
+        "Poison"
+    ],
+    "0030": [
+        "Poison"
+    ],
+    "0031": [
+        "Poison",
+        "Ground"
+    ],
+    "0032": [
+        "Poison"
+    ],
+    "0033": [
+        "Poison"
+    ],
+    "0034": [
+        "Poison",
+        "Ground"
+    ],
+    "0035": [
+        "Fairy"
+    ],
+    "0036": [
+        "Fairy"
+    ],
+    "0037": [
+        "Fire"
+    ],
+    "0038": [
+        "Fire"
+    ],
+    "0039": [
+        "Normal",
+        "Fairy"
+    ],
+    "0040": [
+        "Normal",
+        "Fairy"
+    ],
+    "0041": [
+        "Poison",
+        "Flying"
+    ],
+    "0042": [
+        "Poison",
+        "Flying"
+    ],
+    "0043": [
+        "Grass",
+        "Poison"
+    ],
+    "0044": [
+        "Grass",
+        "Poison"
+    ],
+    "0045": [
+        "Grass",
+        "Poison"
+    ],
+    "0046": [
+        "Bug",
+        "Grass"
+    ],
+    "0047": [
+        "Bug",
+        "Grass"
+    ],
+    "0048": [
+        "Bug",
+        "Poison"
+    ],
+    "0049": [
+        "Bug",
+        "Poison"
+    ],
+    "0050": [
+        "Ground"
+    ],
+    "0051": [
+        "Ground"
+    ],
+    "0052": [
+        "Normal"
+    ],
+    "0053": [
+        "Normal"
+    ],
+    "0054": [
+        "Water"
+    ],
+    "0055": [
+        "Water"
+    ],
+    "0056": [
+        "Fighting"
+    ],
+    "0057": [
+        "Fighting"
+    ],
+    "0058": [
+        "Fire"
+    ],
+    "0059": [
+        "Fire"
+    ],
+    "0060": [
+        "Water"
+    ],
+    "0061": [
+        "Water"
+    ],
+    "0062": [
+        "Water",
+        "Fighting"
+    ],
+    "0063": [
+        "Psychic"
+    ],
+    "0064": [
+        "Psychic"
+    ],
+    "0065": [
+        "Psychic"
+    ],
+    "0066": [
+        "Fighting"
+    ],
+    "0067": [
+        "Fighting"
+    ],
+    "0068": [
+        "Fighting"
+    ],
+    "0069": [
+        "Grass",
+        "Poison"
+    ],
+    "0070": [
+        "Grass",
+        "Poison"
+    ],
+    "0071": [
+        "Grass",
+        "Poison"
+    ],
+    "0072": [
+        "Water",
+        "Poison"
+    ],
+    "0073": [
+        "Water",
+        "Poison"
+    ],
+    "0074": [
+        "Rock",
+        "Ground"
+    ],
+    "0075": [
+        "Rock",
+        "Ground"
+    ],
+    "0076": [
+        "Rock",
+        "Ground"
+    ],
+    "0077": [
+        "Fire"
+    ],
+    "0078": [
+        "Fire"
+    ],
+    "0079": [
+        "Water",
+        "Psychic"
+    ],
+    "0080": [
+        "Water",
+        "Psychic"
+    ],
+    "0081": [
+        "Electric",
+        "Steel"
+    ],
+    "0082": [
+        "Electric",
+        "Steel"
+    ],
+    "0083": [
+        "Normal",
+        "Flying"
+    ],
+    "0084": [
+        "Normal",
+        "Flying"
+    ],
+    "0085": [
+        "Normal",
+        "Flying"
+    ],
+    "0086": [
+        "Water"
+    ],
+    "0087": [
+        "Water",
+        "Ice"
+    ],
+    "0088": [
+        "Poison"
+    ],
+    "0089": [
+        "Poison"
+    ],
+    "0090": [
+        "Water"
+    ],
+    "0091": [
+        "Water",
+        "Ice"
+    ],
+    "0092": [
+        "Ghost",
+        "Poison"
+    ],
+    "0093": [
+        "Ghost",
+        "Poison"
+    ],
+    "0094": [
+        "Ghost",
+        "Poison"
+    ],
+    "0095": [
+        "Rock",
+        "Ground"
+    ],
+    "0096": [
+        "Psychic"
+    ],
+    "0097": [
+        "Psychic"
+    ],
+    "0098": [
+        "Water"
+    ],
+    "0099": [
+        "Water"
+    ],
+    "0100": [
+        "Electric"
+    ],
+    "0101": [
+        "Electric"
+    ],
+    "0102": [
+        "Grass",
+        "Psychic"
+    ],
+    "0103": [
+        "Grass",
+        "Psychic"
+    ],
+    "0104": [
+        "Ground"
+    ],
+    "0105": [
+        "Ground"
+    ],
+    "0106": [
+        "Fighting"
+    ],
+    "0107": [
+        "Fighting"
+    ],
+    "0108": [
+        "Normal"
+    ],
+    "0109": [
+        "Poison"
+    ],
+    "0110": [
+        "Poison"
+    ],
+    "0111": [
+        "Ground",
+        "Rock"
+    ],
+    "0112": [
+        "Ground",
+        "Rock"
+    ],
+    "0113": [
+        "Normal"
+    ],
+    "0114": [
+        "Grass"
+    ],
+    "0115": [
+        "Normal"
+    ],
+    "0116": [
+        "Water"
+    ],
+    "0117": [
+        "Water"
+    ],
+    "0118": [
+        "Water"
+    ],
+    "0119": [
+        "Water"
+    ],
+    "0120": [
+        "Water"
+    ],
+    "0121": [
+        "Water",
+        "Psychic"
+    ],
+    "0122": [
+        "Psychic",
+        "Fairy"
+    ],
+    "0123": [
+        "Bug",
+        "Flying"
+    ],
+    "0124": [
+        "Ice",
+        "Psychic"
+    ],
+    "0125": [
+        "Electric"
+    ],
+    "0126": [
+        "Fire"
+    ],
+    "0127": [
+        "Bug"
+    ],
+    "0128": [
+        "Normal"
+    ],
+    "0129": [
+        "Water"
+    ],
+    "0130": [
+        "Water",
+        "Flying"
+    ],
+    "0131": [
+        "Water",
+        "Ice"
+    ],
+    "0132": [
+        "Normal"
+    ],
+    "0133": [
+        "Normal"
+    ],
+    "0134": [
+        "Water"
+    ],
+    "0135": [
+        "Electric"
+    ],
+    "0136": [
+        "Fire"
+    ],
+    "0137": [
+        "Normal"
+    ],
+    "0138": [
+        "Rock",
+        "Water"
+    ],
+    "0139": [
+        "Rock",
+        "Water"
+    ],
+    "0140": [
+        "Rock",
+        "Water"
+    ],
+    "0141": [
+        "Rock",
+        "Water"
+    ],
+    "0142": [
+        "Rock",
+        "Flying"
+    ],
+    "0143": [
+        "Normal"
+    ],
+    "0144": [
+        "Ice",
+        "Flying"
+    ],
+    "0145": [
+        "Electric",
+        "Flying"
+    ],
+    "0146": [
+        "Fire",
+        "Flying"
+    ],
+    "0147": [
+        "Dragon"
+    ],
+    "0148": [
+        "Dragon"
+    ],
+    "0149": [
+        "Dragon",
+        "Flying"
+    ],
+    "0150": [
+        "Psychic"
+    ],
+    "0151": [
+        "Psychic"
+    ],
+    "0152": [
+        "Grass"
+    ],
+    "0153": [
+        "Grass"
+    ],
+    "0154": [
+        "Grass"
+    ],
+    "0155": [
+        "Fire"
+    ],
+    "0156": [
+        "Fire"
+    ],
+    "0157": [
+        "Fire"
+    ],
+    "0158": [
+        "Water"
+    ],
+    "0159": [
+        "Water"
+    ],
+    "0160": [
+        "Water"
+    ],
+    "0161": [
+        "Normal"
+    ],
+    "0162": [
+        "Normal"
+    ],
+    "0163": [
+        "Normal",
+        "Flying"
+    ],
+    "0164": [
+        "Normal",
+        "Flying"
+    ],
+    "0165": [
+        "Bug",
+        "Flying"
+    ],
+    "0166": [
+        "Bug",
+        "Flying"
+    ],
+    "0167": [
+        "Bug",
+        "Poison"
+    ],
+    "0168": [
+        "Bug",
+        "Poison"
+    ],
+    "0169": [
+        "Poison",
+        "Flying"
+    ],
+    "0170": [
+        "Water",
+        "Electric"
+    ],
+    "0171": [
+        "Water",
+        "Electric"
+    ],
+    "0172": [
+        "Electric"
+    ],
+    "0173": [
+        "Fairy"
+    ],
+    "0174": [
+        "Normal",
+        "Fairy"
+    ],
+    "0175": [
+        "Fairy"
+    ],
+    "0176": [
+        "Fairy",
+        "Flying"
+    ],
+    "0177": [
+        "Psychic",
+        "Flying"
+    ],
+    "0178": [
+        "Psychic",
+        "Flying"
+    ],
+    "0179": [
+        "Electric"
+    ],
+    "0180": [
+        "Electric"
+    ],
+    "0181": [
+        "Electric"
+    ],
+    "0182": [
+        "Grass"
+    ],
+    "0183": [
+        "Water",
+        "Fairy"
+    ],
+    "0184": [
+        "Water",
+        "Fairy"
+    ],
+    "0185": [
+        "Rock"
+    ],
+    "0186": [
+        "Water"
+    ],
+    "0187": [
+        "Grass",
+        "Flying"
+    ],
+    "0188": [
+        "Grass",
+        "Flying"
+    ],
+    "0189": [
+        "Grass",
+        "Flying"
+    ],
+    "0190": [
+        "Normal"
+    ],
+    "0191": [
+        "Grass"
+    ],
+    "0192": [
+        "Grass"
+    ],
+    "0193": [
+        "Bug",
+        "Flying"
+    ],
+    "0194": [
+        "Water",
+        "Ground"
+    ],
+    "0195": [
+        "Water",
+        "Ground"
+    ],
+    "0196": [
+        "Psychic"
+    ],
+    "0197": [
+        "Dark"
+    ],
+    "0198": [
+        "Dark",
+        "Flying"
+    ],
+    "0199": [
+        "Water",
+        "Psychic"
+    ],
+    "0200": [
+        "Ghost"
+    ],
+    "0201": [
+        "Psychic"
+    ],
+    "0202": [
+        "Psychic"
+    ],
+    "0203": [
+        "Normal",
+        "Psychic"
+    ],
+    "0204": [
+        "Bug"
+    ],
+    "0205": [
+        "Bug",
+        "Steel"
+    ],
+    "0206": [
+        "Normal"
+    ],
+    "0207": [
+        "Ground",
+        "Flying"
+    ],
+    "0208": [
+        "Steel",
+        "Ground"
+    ],
+    "0209": [
+        "Fairy"
+    ],
+    "0210": [
+        "Fairy"
+    ],
+    "0211": [
+        "Water",
+        "Poison"
+    ],
+    "0212": [
+        "Bug",
+        "Steel"
+    ],
+    "0213": [
+        "Bug",
+        "Rock"
+    ],
+    "0214": [
+        "Bug",
+        "Fighting"
+    ],
+    "0215": [
+        "Dark",
+        "Ice"
+    ],
+    "0216": [
+        "Normal"
+    ],
+    "0217": [
+        "Normal"
+    ],
+    "0218": [
+        "Fire"
+    ],
+    "0219": [
+        "Fire",
+        "Rock"
+    ],
+    "0220": [
+        "Ice",
+        "Ground"
+    ],
+    "0221": [
+        "Ice",
+        "Ground"
+    ],
+    "0222": [
+        "Water",
+        "Rock"
+    ],
+    "0223": [
+        "Water"
+    ],
+    "0224": [
+        "Water"
+    ],
+    "0225": [
+        "Ice",
+        "Flying"
+    ],
+    "0226": [
+        "Water",
+        "Flying"
+    ],
+    "0227": [
+        "Steel",
+        "Flying"
+    ],
+    "0228": [
+        "Dark",
+        "Fire"
+    ],
+    "0229": [
+        "Dark",
+        "Fire"
+    ],
+    "0230": [
+        "Water",
+        "Dragon"
+    ],
+    "0231": [
+        "Ground"
+    ],
+    "0232": [
+        "Ground"
+    ],
+    "0233": [
+        "Normal"
+    ],
+    "0234": [
+        "Normal"
+    ],
+    "0235": [
+        "Normal"
+    ],
+    "0236": [
+        "Fighting"
+    ],
+    "0237": [
+        "Fighting"
+    ],
+    "0238": [
+        "Ice",
+        "Psychic"
+    ],
+    "0239": [
+        "Electric"
+    ],
+    "0240": [
+        "Fire"
+    ],
+    "0241": [
+        "Normal"
+    ],
+    "0242": [
+        "Normal"
+    ],
+    "0243": [
+        "Electric"
+    ],
+    "0244": [
+        "Fire"
+    ],
+    "0245": [
+        "Water"
+    ],
+    "0246": [
+        "Rock",
+        "Ground"
+    ],
+    "0247": [
+        "Rock",
+        "Ground"
+    ],
+    "0248": [
+        "Rock",
+        "Dark"
+    ],
+    "0249": [
+        "Psychic",
+        "Flying"
+    ],
+    "0250": [
+        "Fire",
+        "Flying"
+    ],
+    "0251": [
+        "Psychic",
+        "Grass"
+    ],
+    "0252": [
+        "Grass"
+    ],
+    "0253": [
+        "Grass"
+    ],
+    "0254": [
+        "Grass"
+    ],
+    "0255": [
+        "Fire"
+    ],
+    "0256": [
+        "Fire",
+        "Fighting"
+    ],
+    "0257": [
+        "Fire",
+        "Fighting"
+    ],
+    "0258": [
+        "Water"
+    ],
+    "0259": [
+        "Water",
+        "Ground"
+    ],
+    "0260": [
+        "Water",
+        "Ground"
+    ],
+    "0261": [
+        "Dark"
+    ],
+    "0262": [
+        "Dark"
+    ],
+    "0263": [
+        "Normal"
+    ],
+    "0264": [
+        "Normal"
+    ],
+    "0265": [
+        "Bug"
+    ],
+    "0266": [
+        "Bug"
+    ],
+    "0267": [
+        "Bug",
+        "Flying"
+    ],
+    "0268": [
+        "Bug"
+    ],
+    "0269": [
+        "Bug",
+        "Poison"
+    ],
+    "0270": [
+        "Water",
+        "Grass"
+    ],
+    "0271": [
+        "Water",
+        "Grass"
+    ],
+    "0272": [
+        "Water",
+        "Grass"
+    ],
+    "0273": [
+        "Grass"
+    ],
+    "0274": [
+        "Grass",
+        "Dark"
+    ],
+    "0275": [
+        "Grass",
+        "Dark"
+    ],
+    "0276": [
+        "Normal",
+        "Flying"
+    ],
+    "0277": [
+        "Normal",
+        "Flying"
+    ],
+    "0278": [
+        "Water",
+        "Flying"
+    ],
+    "0279": [
+        "Water",
+        "Flying"
+    ],
+    "0280": [
+        "Psychic",
+        "Fairy"
+    ],
+    "0281": [
+        "Psychic",
+        "Fairy"
+    ],
+    "0282": [
+        "Psychic",
+        "Fairy"
+    ],
+    "0283": [
+        "Bug",
+        "Water"
+    ],
+    "0284": [
+        "Bug",
+        "Flying"
+    ],
+    "0285": [
+        "Grass"
+    ],
+    "0286": [
+        "Grass",
+        "Fighting"
+    ],
+    "0287": [
+        "Normal"
+    ],
+    "0288": [
+        "Normal"
+    ],
+    "0289": [
+        "Normal"
+    ],
+    "0290": [
+        "Bug",
+        "Ground"
+    ],
+    "0291": [
+        "Bug",
+        "Flying"
+    ],
+    "0292": [
+        "Bug",
+        "Ghost"
+    ],
+    "0293": [
+        "Normal"
+    ],
+    "0294": [
+        "Normal"
+    ],
+    "0295": [
+        "Normal"
+    ],
+    "0296": [
+        "Fighting"
+    ],
+    "0297": [
+        "Fighting"
+    ],
+    "0298": [
+        "Normal",
+        "Fairy"
+    ],
+    "0299": [
+        "Rock"
+    ],
+    "0300": [
+        "Normal"
+    ],
+    "0301": [
+        "Normal"
+    ],
+    "0302": [
+        "Dark",
+        "Ghost"
+    ],
+    "0303": [
+        "Steel",
+        "Fairy"
+    ],
+    "0304": [
+        "Steel",
+        "Rock"
+    ],
+    "0305": [
+        "Steel",
+        "Rock"
+    ],
+    "0306": [
+        "Steel",
+        "Rock"
+    ],
+    "0307": [
+        "Fighting",
+        "Psychic"
+    ],
+    "0308": [
+        "Fighting",
+        "Psychic"
+    ],
+    "0309": [
+        "Electric"
+    ],
+    "0310": [
+        "Electric"
+    ],
+    "0311": [
+        "Electric"
+    ],
+    "0312": [
+        "Electric"
+    ],
+    "0313": [
+        "Bug"
+    ],
+    "0314": [
+        "Bug"
+    ],
+    "0315": [
+        "Grass",
+        "Poison"
+    ],
+    "0316": [
+        "Poison"
+    ],
+    "0317": [
+        "Poison"
+    ],
+    "0318": [
+        "Water",
+        "Dark"
+    ],
+    "0319": [
+        "Water",
+        "Dark"
+    ],
+    "0320": [
+        "Water"
+    ],
+    "0321": [
+        "Water"
+    ],
+    "0322": [
+        "Fire",
+        "Ground"
+    ],
+    "0323": [
+        "Fire",
+        "Ground"
+    ],
+    "0324": [
+        "Fire"
+    ],
+    "0325": [
+        "Psychic"
+    ],
+    "0326": [
+        "Psychic"
+    ],
+    "0327": [
+        "Normal"
+    ],
+    "0328": [
+        "Ground"
+    ],
+    "0329": [
+        "Ground",
+        "Dragon"
+    ],
+    "0330": [
+        "Ground",
+        "Dragon"
+    ],
+    "0331": [
+        "Grass"
+    ],
+    "0332": [
+        "Grass",
+        "Dark"
+    ],
+    "0333": [
+        "Normal",
+        "Flying"
+    ],
+    "0334": [
+        "Dragon",
+        "Flying"
+    ],
+    "0335": [
+        "Normal"
+    ],
+    "0336": [
+        "Poison"
+    ],
+    "0337": [
+        "Rock",
+        "Psychic"
+    ],
+    "0338": [
+        "Rock",
+        "Psychic"
+    ],
+    "0339": [
+        "Water",
+        "Ground"
+    ],
+    "0340": [
+        "Water",
+        "Ground"
+    ],
+    "0341": [
+        "Water"
+    ],
+    "0342": [
+        "Water",
+        "Dark"
+    ],
+    "0343": [
+        "Ground",
+        "Psychic"
+    ],
+    "0344": [
+        "Ground",
+        "Psychic"
+    ],
+    "0345": [
+        "Rock",
+        "Grass"
+    ],
+    "0346": [
+        "Rock",
+        "Grass"
+    ],
+    "0347": [
+        "Rock",
+        "Bug"
+    ],
+    "0348": [
+        "Rock",
+        "Bug"
+    ],
+    "0349": [
+        "Water"
+    ],
+    "0350": [
+        "Water"
+    ],
+    "0351": [
+        "Normal"
+    ],
+    "0352": [
+        "Normal"
+    ],
+    "0353": [
+        "Ghost"
+    ],
+    "0354": [
+        "Ghost"
+    ],
+    "0355": [
+        "Ghost"
+    ],
+    "0356": [
+        "Ghost"
+    ],
+    "0357": [
+        "Grass",
+        "Flying"
+    ],
+    "0358": [
+        "Psychic"
+    ],
+    "0359": [
+        "Dark"
+    ],
+    "0360": [
+        "Psychic"
+    ],
+    "0361": [
+        "Ice"
+    ],
+    "0362": [
+        "Ice"
+    ],
+    "0363": [
+        "Ice",
+        "Water"
+    ],
+    "0364": [
+        "Ice",
+        "Water"
+    ],
+    "0365": [
+        "Ice",
+        "Water"
+    ],
+    "0366": [
+        "Water"
+    ],
+    "0367": [
+        "Water"
+    ],
+    "0368": [
+        "Water"
+    ],
+    "0369": [
+        "Water",
+        "Rock"
+    ],
+    "0370": [
+        "Water"
+    ],
+    "0371": [
+        "Dragon"
+    ],
+    "0372": [
+        "Dragon"
+    ],
+    "0373": [
+        "Dragon",
+        "Flying"
+    ],
+    "0374": [
+        "Steel",
+        "Psychic"
+    ],
+    "0375": [
+        "Steel",
+        "Psychic"
+    ],
+    "0376": [
+        "Steel",
+        "Psychic"
+    ],
+    "0377": [
+        "Rock"
+    ],
+    "0378": [
+        "Ice"
+    ],
+    "0379": [
+        "Steel"
+    ],
+    "0380": [
+        "Dragon",
+        "Psychic"
+    ],
+    "0381": [
+        "Dragon",
+        "Psychic"
+    ],
+    "0382": [
+        "Water"
+    ],
+    "0383": [
+        "Ground"
+    ],
+    "0384": [
+        "Dragon",
+        "Flying"
+    ],
+    "0385": [
+        "Steel",
+        "Psychic"
+    ],
+    "0386": [
+        "Psychic"
+    ],
+    "0387": [
+        "Grass"
+    ],
+    "0388": [
+        "Grass"
+    ],
+    "0389": [
+        "Grass",
+        "Ground"
+    ],
+    "0390": [
+        "Fire"
+    ],
+    "0391": [
+        "Fire",
+        "Fighting"
+    ],
+    "0392": [
+        "Fire",
+        "Fighting"
+    ],
+    "0393": [
+        "Water"
+    ],
+    "0394": [
+        "Water"
+    ],
+    "0395": [
+        "Water",
+        "Steel"
+    ],
+    "0396": [
+        "Normal",
+        "Flying"
+    ],
+    "0397": [
+        "Normal",
+        "Flying"
+    ],
+    "0398": [
+        "Normal",
+        "Flying"
+    ],
+    "0399": [
+        "Normal"
+    ],
+    "0400": [
+        "Normal",
+        "Water"
+    ],
+    "0401": [
+        "Bug"
+    ],
+    "0402": [
+        "Bug"
+    ],
+    "0403": [
+        "Electric"
+    ],
+    "0404": [
+        "Electric"
+    ],
+    "0405": [
+        "Electric"
+    ],
+    "0406": [
+        "Grass",
+        "Poison"
+    ],
+    "0407": [
+        "Grass",
+        "Poison"
+    ],
+    "0408": [
+        "Rock"
+    ],
+    "0409": [
+        "Rock"
+    ],
+    "0410": [
+        "Rock",
+        "Steel"
+    ],
+    "0411": [
+        "Rock",
+        "Steel"
+    ],
+    "0412": [
+        "Bug"
+    ],
+    "0413": [
+        "Bug",
+        "Grass"
+    ],
+    "0414": [
+        "Bug",
+        "Flying"
+    ],
+    "0415": [
+        "Bug",
+        "Flying"
+    ],
+    "0416": [
+        "Bug",
+        "Flying"
+    ],
+    "0417": [
+        "Electric"
+    ],
+    "0418": [
+        "Water"
+    ],
+    "0419": [
+        "Water"
+    ],
+    "0420": [
+        "Grass"
+    ],
+    "0421": [
+        "Grass"
+    ],
+    "0422": [
+        "Water"
+    ],
+    "0423": [
+        "Water",
+        "Ground"
+    ],
+    "0424": [
+        "Normal"
+    ],
+    "0425": [
+        "Ghost",
+        "Flying"
+    ],
+    "0426": [
+        "Ghost",
+        "Flying"
+    ],
+    "0427": [
+        "Normal"
+    ],
+    "0428": [
+        "Normal"
+    ],
+    "0429": [
+        "Ghost"
+    ],
+    "0430": [
+        "Dark",
+        "Flying"
+    ],
+    "0431": [
+        "Normal"
+    ],
+    "0432": [
+        "Normal"
+    ],
+    "0433": [
+        "Psychic"
+    ],
+    "0434": [
+        "Poison",
+        "Dark"
+    ],
+    "0435": [
+        "Poison",
+        "Dark"
+    ],
+    "0436": [
+        "Steel",
+        "Psychic"
+    ],
+    "0437": [
+        "Steel",
+        "Psychic"
+    ],
+    "0438": [
+        "Rock"
+    ],
+    "0439": [
+        "Psychic",
+        "Fairy"
+    ],
+    "0440": [
+        "Normal"
+    ],
+    "0441": [
+        "Normal",
+        "Flying"
+    ],
+    "0442": [
+        "Ghost",
+        "Dark"
+    ],
+    "0443": [
+        "Dragon",
+        "Ground"
+    ],
+    "0444": [
+        "Dragon",
+        "Ground"
+    ],
+    "0445": [
+        "Dragon",
+        "Ground"
+    ],
+    "0446": [
+        "Normal"
+    ],
+    "0447": [
+        "Fighting"
+    ],
+    "0448": [
+        "Fighting",
+        "Steel"
+    ],
+    "0449": [
+        "Ground"
+    ],
+    "0450": [
+        "Ground"
+    ],
+    "0451": [
+        "Poison",
+        "Bug"
+    ],
+    "0452": [
+        "Poison",
+        "Dark"
+    ],
+    "0453": [
+        "Poison",
+        "Fighting"
+    ],
+    "0454": [
+        "Poison",
+        "Fighting"
+    ],
+    "0455": [
+        "Grass"
+    ],
+    "0456": [
+        "Water"
+    ],
+    "0457": [
+        "Water"
+    ],
+    "0458": [
+        "Water",
+        "Flying"
+    ],
+    "0459": [
+        "Grass",
+        "Ice"
+    ],
+    "0460": [
+        "Grass",
+        "Ice"
+    ],
+    "0461": [
+        "Dark",
+        "Ice"
+    ],
+    "0462": [
+        "Electric",
+        "Steel"
+    ],
+    "0463": [
+        "Normal"
+    ],
+    "0464": [
+        "Ground",
+        "Rock"
+    ],
+    "0465": [
+        "Grass"
+    ],
+    "0466": [
+        "Electric"
+    ],
+    "0467": [
+        "Fire"
+    ],
+    "0468": [
+        "Fairy",
+        "Flying"
+    ],
+    "0469": [
+        "Bug",
+        "Flying"
+    ],
+    "0470": [
+        "Grass"
+    ],
+    "0471": [
+        "Ice"
+    ],
+    "0472": [
+        "Ground",
+        "Flying"
+    ],
+    "0473": [
+        "Ice",
+        "Ground"
+    ],
+    "0474": [
+        "Normal"
+    ],
+    "0475": [
+        "Psychic",
+        "Fighting"
+    ],
+    "0476": [
+        "Rock",
+        "Steel"
+    ],
+    "0477": [
+        "Ghost"
+    ],
+    "0478": [
+        "Ice",
+        "Ghost"
+    ],
+    "0479": [
+        "Electric",
+        "Ghost"
+    ],
+    "0480": [
+        "Psychic"
+    ],
+    "0481": [
+        "Psychic"
+    ],
+    "0482": [
+        "Psychic"
+    ],
+    "0483": [
+        "Steel",
+        "Dragon"
+    ],
+    "0484": [
+        "Water",
+        "Dragon"
+    ],
+    "0485": [
+        "Fire",
+        "Steel"
+    ],
+    "0486": [
+        "Normal"
+    ],
+    "0487": [
+        "Ghost",
+        "Dragon"
+    ],
+    "0488": [
+        "Psychic"
+    ],
+    "0489": [
+        "Water"
+    ],
+    "0490": [
+        "Water"
+    ],
+    "0491": [
+        "Dark"
+    ],
+    "0492": [
+        "Grass"
+    ],
+    "0493": [
+        "Normal"
+    ],
+    "0494": [
+        "Psychic",
+        "Fire"
+    ],
+    "0495": [
+        "Grass"
+    ],
+    "0496": [
+        "Grass"
+    ],
+    "0497": [
+        "Grass"
+    ],
+    "0498": [
+        "Fire"
+    ],
+    "0499": [
+        "Fire",
+        "Fighting"
+    ],
+    "0500": [
+        "Fire",
+        "Fighting"
+    ],
+    "0501": [
+        "Water"
+    ],
+    "0502": [
+        "Water"
+    ],
+    "0503": [
+        "Water"
+    ],
+    "0504": [
+        "Normal"
+    ],
+    "0505": [
+        "Normal"
+    ],
+    "0506": [
+        "Normal"
+    ],
+    "0507": [
+        "Normal"
+    ],
+    "0508": [
+        "Normal"
+    ],
+    "0509": [
+        "Dark"
+    ],
+    "0510": [
+        "Dark"
+    ],
+    "0511": [
+        "Grass"
+    ],
+    "0512": [
+        "Grass"
+    ],
+    "0513": [
+        "Fire"
+    ],
+    "0514": [
+        "Fire"
+    ],
+    "0515": [
+        "Water"
+    ],
+    "0516": [
+        "Water"
+    ],
+    "0517": [
+        "Psychic"
+    ],
+    "0518": [
+        "Psychic"
+    ],
+    "0519": [
+        "Normal",
+        "Flying"
+    ],
+    "0520": [
+        "Normal",
+        "Flying"
+    ],
+    "0521": [
+        "Normal",
+        "Flying"
+    ],
+    "0522": [
+        "Electric"
+    ],
+    "0523": [
+        "Electric"
+    ],
+    "0524": [
+        "Rock"
+    ],
+    "0525": [
+        "Rock"
+    ],
+    "0526": [
+        "Rock"
+    ],
+    "0527": [
+        "Psychic",
+        "Flying"
+    ],
+    "0528": [
+        "Psychic",
+        "Flying"
+    ],
+    "0529": [
+        "Ground"
+    ],
+    "0530": [
+        "Ground",
+        "Steel"
+    ],
+    "0531": [
+        "Normal"
+    ],
+    "0532": [
+        "Fighting"
+    ],
+    "0533": [
+        "Fighting"
+    ],
+    "0534": [
+        "Fighting"
+    ],
+    "0535": [
+        "Water"
+    ],
+    "0536": [
+        "Water",
+        "Ground"
+    ],
+    "0537": [
+        "Water",
+        "Ground"
+    ],
+    "0538": [
+        "Fighting"
+    ],
+    "0539": [
+        "Fighting"
+    ],
+    "0540": [
+        "Bug",
+        "Grass"
+    ],
+    "0541": [
+        "Bug",
+        "Grass"
+    ],
+    "0542": [
+        "Bug",
+        "Grass"
+    ],
+    "0543": [
+        "Bug",
+        "Poison"
+    ],
+    "0544": [
+        "Bug",
+        "Poison"
+    ],
+    "0545": [
+        "Bug",
+        "Poison"
+    ],
+    "0546": [
+        "Grass",
+        "Fairy"
+    ],
+    "0547": [
+        "Grass",
+        "Fairy"
+    ],
+    "0548": [
+        "Grass"
+    ],
+    "0549": [
+        "Grass"
+    ],
+    "0550": [
+        "Water"
+    ],
+    "0551": [
+        "Ground",
+        "Dark"
+    ],
+    "0552": [
+        "Ground",
+        "Dark"
+    ],
+    "0553": [
+        "Ground",
+        "Dark"
+    ],
+    "0554": [
+        "Fire"
+    ],
+    "0555": [
+        "Fire"
+    ],
+    "0556": [
+        "Grass"
+    ],
+    "0557": [
+        "Bug",
+        "Rock"
+    ],
+    "0558": [
+        "Bug",
+        "Rock"
+    ],
+    "0559": [
+        "Dark",
+        "Fighting"
+    ],
+    "0560": [
+        "Dark",
+        "Fighting"
+    ],
+    "0561": [
+        "Psychic",
+        "Flying"
+    ],
+    "0562": [
+        "Ghost"
+    ],
+    "0563": [
+        "Ghost"
+    ],
+    "0564": [
+        "Water",
+        "Rock"
+    ],
+    "0565": [
+        "Water",
+        "Rock"
+    ],
+    "0566": [
+        "Rock",
+        "Flying"
+    ],
+    "0567": [
+        "Rock",
+        "Flying"
+    ],
+    "0568": [
+        "Poison"
+    ],
+    "0569": [
+        "Poison"
+    ],
+    "0570": [
+        "Dark"
+    ],
+    "0571": [
+        "Dark"
+    ],
+    "0572": [
+        "Normal"
+    ],
+    "0573": [
+        "Normal"
+    ],
+    "0574": [
+        "Psychic"
+    ],
+    "0575": [
+        "Psychic"
+    ],
+    "0576": [
+        "Psychic"
+    ],
+    "0577": [
+        "Psychic"
+    ],
+    "0578": [
+        "Psychic"
+    ],
+    "0579": [
+        "Psychic"
+    ],
+    "0580": [
+        "Water",
+        "Flying"
+    ],
+    "0581": [
+        "Water",
+        "Flying"
+    ],
+    "0582": [
+        "Ice"
+    ],
+    "0583": [
+        "Ice"
+    ],
+    "0584": [
+        "Ice"
+    ],
+    "0585": [
+        "Normal",
+        "Grass"
+    ],
+    "0586": [
+        "Normal",
+        "Grass"
+    ],
+    "0587": [
+        "Electric",
+        "Flying"
+    ],
+    "0588": [
+        "Bug"
+    ],
+    "0589": [
+        "Bug",
+        "Steel"
+    ],
+    "0590": [
+        "Grass",
+        "Poison"
+    ],
+    "0591": [
+        "Grass",
+        "Poison"
+    ],
+    "0592": [
+        "Water",
+        "Ghost"
+    ],
+    "0593": [
+        "Water",
+        "Ghost"
+    ],
+    "0594": [
+        "Water"
+    ],
+    "0595": [
+        "Bug",
+        "Electric"
+    ],
+    "0596": [
+        "Bug",
+        "Electric"
+    ],
+    "0597": [
+        "Grass",
+        "Steel"
+    ],
+    "0598": [
+        "Grass",
+        "Steel"
+    ],
+    "0599": [
+        "Steel"
+    ],
+    "0600": [
+        "Steel"
+    ],
+    "0601": [
+        "Steel"
+    ],
+    "0602": [
+        "Electric"
+    ],
+    "0603": [
+        "Electric"
+    ],
+    "0604": [
+        "Electric"
+    ],
+    "0605": [
+        "Psychic"
+    ],
+    "0606": [
+        "Psychic"
+    ],
+    "0607": [
+        "Ghost",
+        "Fire"
+    ],
+    "0608": [
+        "Ghost",
+        "Fire"
+    ],
+    "0609": [
+        "Ghost",
+        "Fire"
+    ],
+    "0610": [
+        "Dragon"
+    ],
+    "0611": [
+        "Dragon"
+    ],
+    "0612": [
+        "Dragon"
+    ],
+    "0613": [
+        "Ice"
+    ],
+    "0614": [
+        "Ice"
+    ],
+    "0615": [
+        "Ice"
+    ],
+    "0616": [
+        "Bug"
+    ],
+    "0617": [
+        "Bug"
+    ],
+    "0618": [
+        "Ground",
+        "Electric"
+    ],
+    "0619": [
+        "Fighting"
+    ],
+    "0620": [
+        "Fighting"
+    ],
+    "0621": [
+        "Dragon"
+    ],
+    "0622": [
+        "Ground",
+        "Ghost"
+    ],
+    "0623": [
+        "Ground",
+        "Ghost"
+    ],
+    "0624": [
+        "Dark",
+        "Steel"
+    ],
+    "0625": [
+        "Dark",
+        "Steel"
+    ],
+    "0626": [
+        "Normal"
+    ],
+    "0627": [
+        "Normal",
+        "Flying"
+    ],
+    "0628": [
+        "Normal",
+        "Flying"
+    ],
+    "0629": [
+        "Dark",
+        "Flying"
+    ],
+    "0630": [
+        "Dark",
+        "Flying"
+    ],
+    "0631": [
+        "Fire"
+    ],
+    "0632": [
+        "Bug",
+        "Steel"
+    ],
+    "0633": [
+        "Dark",
+        "Dragon"
+    ],
+    "0634": [
+        "Dark",
+        "Dragon"
+    ],
+    "0635": [
+        "Dark",
+        "Dragon"
+    ],
+    "0636": [
+        "Bug",
+        "Fire"
+    ],
+    "0637": [
+        "Bug",
+        "Fire"
+    ],
+    "0638": [
+        "Steel",
+        "Fighting"
+    ],
+    "0639": [
+        "Rock",
+        "Fighting"
+    ],
+    "0640": [
+        "Grass",
+        "Fighting"
+    ],
+    "0641": [
+        "Flying"
+    ],
+    "0642": [
+        "Electric",
+        "Flying"
+    ],
+    "0643": [
+        "Dragon",
+        "Fire"
+    ],
+    "0644": [
+        "Dragon",
+        "Electric"
+    ],
+    "0645": [
+        "Ground",
+        "Flying"
+    ],
+    "0646": [
+        "Dragon",
+        "Ice"
+    ],
+    "0647": [
+        "Water",
+        "Fighting"
+    ],
+    "0648": [
+        "Normal",
+        "Psychic"
+    ],
+    "0649": [
+        "Bug",
+        "Steel"
+    ],
+    "0650": [
+        "Grass"
+    ],
+    "0651": [
+        "Grass"
+    ],
+    "0652": [
+        "Grass",
+        "Fighting"
+    ],
+    "0653": [
+        "Fire"
+    ],
+    "0654": [
+        "Fire"
+    ],
+    "0655": [
+        "Fire",
+        "Psychic"
+    ],
+    "0656": [
+        "Water"
+    ],
+    "0657": [
+        "Water"
+    ],
+    "0658": [
+        "Water",
+        "Dark"
+    ],
+    "0659": [
+        "Normal"
+    ],
+    "0660": [
+        "Normal",
+        "Ground"
+    ],
+    "0661": [
+        "Normal",
+        "Flying"
+    ],
+    "0662": [
+        "Fire",
+        "Flying"
+    ],
+    "0663": [
+        "Fire",
+        "Flying"
+    ],
+    "0664": [
+        "Bug"
+    ],
+    "0665": [
+        "Bug"
+    ],
+    "0666": [
+        "Bug",
+        "Flying"
+    ],
+    "0667": [
+        "Fire",
+        "Normal"
+    ],
+    "0668": [
+        "Fire",
+        "Normal"
+    ],
+    "0669": [
+        "Fairy"
+    ],
+    "0670": [
+        "Fairy"
+    ],
+    "0671": [
+        "Fairy"
+    ],
+    "0672": [
+        "Grass"
+    ],
+    "0673": [
+        "Grass"
+    ],
+    "0674": [
+        "Fighting"
+    ],
+    "0675": [
+        "Fighting",
+        "Dark"
+    ],
+    "0676": [
+        "Normal"
+    ],
+    "0677": [
+        "Psychic"
+    ],
+    "0678": [
+        "Psychic"
+    ],
+    "0679": [
+        "Steel",
+        "Ghost"
+    ],
+    "0680": [
+        "Steel",
+        "Ghost"
+    ],
+    "0681": [
+        "Steel",
+        "Ghost"
+    ],
+    "0682": [
+        "Fairy"
+    ],
+    "0683": [
+        "Fairy"
+    ],
+    "0684": [
+        "Fairy"
+    ],
+    "0685": [
+        "Fairy"
+    ],
+    "0686": [
+        "Dark",
+        "Psychic"
+    ],
+    "0687": [
+        "Dark",
+        "Psychic"
+    ],
+    "0688": [
+        "Rock",
+        "Water"
+    ],
+    "0689": [
+        "Rock",
+        "Water"
+    ],
+    "0690": [
+        "Poison",
+        "Water"
+    ],
+    "0691": [
+        "Poison",
+        "Dragon"
+    ],
+    "0692": [
+        "Water"
+    ],
+    "0693": [
+        "Water"
+    ],
+    "0694": [
+        "Electric",
+        "Normal"
+    ],
+    "0695": [
+        "Electric",
+        "Normal"
+    ],
+    "0696": [
+        "Rock",
+        "Dragon"
+    ],
+    "0697": [
+        "Rock",
+        "Dragon"
+    ],
+    "0698": [
+        "Rock",
+        "Ice"
+    ],
+    "0699": [
+        "Rock",
+        "Ice"
+    ],
+    "0700": [
+        "Fairy"
+    ],
+    "0701": [
+        "Fighting",
+        "Flying"
+    ],
+    "0702": [
+        "Electric",
+        "Fairy"
+    ],
+    "0703": [
+        "Rock",
+        "Fairy"
+    ],
+    "0704": [
+        "Dragon"
+    ],
+    "0705": [
+        "Dragon"
+    ],
+    "0706": [
+        "Dragon"
+    ],
+    "0707": [
+        "Steel",
+        "Fairy"
+    ],
+    "0708": [
+        "Ghost",
+        "Grass"
+    ],
+    "0709": [
+        "Ghost",
+        "Grass"
+    ],
+    "0710": [
+        "Ghost",
+        "Grass"
+    ],
+    "0711": [
+        "Ghost",
+        "Grass"
+    ],
+    "0712": [
+        "Ice"
+    ],
+    "0713": [
+        "Ice"
+    ],
+    "0714": [
+        "Flying",
+        "Dragon"
+    ],
+    "0715": [
+        "Flying",
+        "Dragon"
+    ],
+    "0716": [
+        "Fairy"
+    ],
+    "0717": [
+        "Dark",
+        "Flying"
+    ],
+    "0718": [
+        "Dragon",
+        "Ground"
+    ],
+    "0719": [
+        "Rock",
+        "Fairy"
+    ],
+    "0720": [
+        "Psychic",
+        "Ghost"
+    ],
+    "0721": [
+        "Fire",
+        "Water"
+    ],
+    "0722": [
+        "Grass",
+        "Flying"
+    ],
+    "0723": [
+        "Grass",
+        "Flying"
+    ],
+    "0724": [
+        "Grass",
+        "Ghost"
+    ],
+    "0725": [
+        "Fire"
+    ],
+    "0726": [
+        "Fire"
+    ],
+    "0727": [
+        "Fire",
+        "Dark"
+    ],
+    "0728": [
+        "Water"
+    ],
+    "0729": [
+        "Water"
+    ],
+    "0730": [
+        "Water",
+        "Fairy"
+    ],
+    "0731": [
+        "Normal",
+        "Flying"
+    ],
+    "0732": [
+        "Normal",
+        "Flying"
+    ],
+    "0733": [
+        "Normal",
+        "Flying"
+    ],
+    "0734": [
+        "Normal"
+    ],
+    "0735": [
+        "Normal"
+    ],
+    "0736": [
+        "Bug"
+    ],
+    "0737": [
+        "Bug",
+        "Electric"
+    ],
+    "0738": [
+        "Bug",
+        "Electric"
+    ],
+    "0739": [
+        "Fighting"
+    ],
+    "0740": [
+        "Fighting",
+        "Ice"
+    ],
+    "0741": [
+        "Fire",
+        "Flying"
+    ],
+    "0742": [
+        "Bug",
+        "Fairy"
+    ],
+    "0743": [
+        "Bug",
+        "Fairy"
+    ],
+    "0744": [
+        "Rock"
+    ],
+    "0745": [
+        "Rock"
+    ],
+    "0746": [
+        "Water"
+    ],
+    "0747": [
+        "Poison",
+        "Water"
+    ],
+    "0748": [
+        "Poison",
+        "Water"
+    ],
+    "0749": [
+        "Ground"
+    ],
+    "0750": [
+        "Ground"
+    ],
+    "0751": [
+        "Water",
+        "Bug"
+    ],
+    "0752": [
+        "Water",
+        "Bug"
+    ],
+    "0753": [
+        "Grass"
+    ],
+    "0754": [
+        "Grass"
+    ],
+    "0755": [
+        "Grass",
+        "Fairy"
+    ],
+    "0756": [
+        "Grass",
+        "Fairy"
+    ],
+    "0757": [
+        "Poison",
+        "Fire"
+    ],
+    "0758": [
+        "Poison",
+        "Fire"
+    ],
+    "0759": [
+        "Normal",
+        "Fighting"
+    ],
+    "0760": [
+        "Normal",
+        "Fighting"
+    ],
+    "0761": [
+        "Grass"
+    ],
+    "0762": [
+        "Grass"
+    ],
+    "0763": [
+        "Grass"
+    ],
+    "0764": [
+        "Fairy"
+    ],
+    "0765": [
+        "Normal",
+        "Psychic"
+    ],
+    "0766": [
+        "Fighting"
+    ],
+    "0767": [
+        "Bug",
+        "Water"
+    ],
+    "0768": [
+        "Bug",
+        "Water"
+    ],
+    "0769": [
+        "Ghost",
+        "Ground"
+    ],
+    "0770": [
+        "Ghost",
+        "Ground"
+    ],
+    "0771": [
+        "Water"
+    ],
+    "0772": [
+        "Normal"
+    ],
+    "0773": [
+        "Normal"
+    ],
+    "0774": [
+        "Rock",
+        "Flying"
+    ],
+    "0775": [
+        "Normal"
+    ],
+    "0776": [
+        "Fire",
+        "Dragon"
+    ],
+    "0777": [
+        "Electric",
+        "Steel"
+    ],
+    "0778": [
+        "Ghost",
+        "Fairy"
+    ],
+    "0779": [
+        "Water",
+        "Psychic"
+    ],
+    "0780": [
+        "Normal",
+        "Dragon"
+    ],
+    "0781": [
+        "Ghost",
+        "Grass"
+    ],
+    "0782": [
+        "Dragon"
+    ],
+    "0783": [
+        "Dragon",
+        "Fighting"
+    ],
+    "0784": [
+        "Dragon",
+        "Fighting"
+    ],
+    "0785": [
+        "Electric",
+        "Fairy"
+    ],
+    "0786": [
+        "Psychic",
+        "Fairy"
+    ],
+    "0787": [
+        "Grass",
+        "Fairy"
+    ],
+    "0788": [
+        "Water",
+        "Fairy"
+    ],
+    "0789": [
+        "Psychic"
+    ],
+    "0790": [
+        "Psychic"
+    ],
+    "0791": [
+        "Psychic",
+        "Steel"
+    ],
+    "0792": [
+        "Psychic",
+        "Ghost"
+    ],
+    "0793": [
+        "Rock",
+        "Poison"
+    ],
+    "0794": [
+        "Bug",
+        "Fighting"
+    ],
+    "0795": [
+        "Bug",
+        "Fighting"
+    ],
+    "0796": [
+        "Electric"
+    ],
+    "0797": [
+        "Steel",
+        "Flying"
+    ],
+    "0798": [
+        "Grass",
+        "Steel"
+    ],
+    "0799": [
+        "Dark",
+        "Dragon"
+    ],
+    "0800": [
+        "Psychic"
+    ],
+    "0801": [
+        "Steel",
+        "Fairy"
+    ],
+    "0802": [
+        "Fighting",
+        "Ghost"
+    ],
+    "0803": [
+        "Poison"
+    ],
+    "0804": [
+        "Poison",
+        "Dragon"
+    ],
+    "0805": [
+        "Rock",
+        "Steel"
+    ],
+    "0806": [
+        "Fire",
+        "Ghost"
+    ],
+    "0807": [
+        "Electric"
+    ],
+    "0808": [
+        "Steel"
+    ],
+    "0809": [
+        "Steel"
+    ],
+    "0810": [
+        "Grass"
+    ],
+    "0811": [
+        "Grass"
+    ],
+    "0812": [
+        "Grass"
+    ],
+    "0813": [
+        "Fire"
+    ],
+    "0814": [
+        "Fire"
+    ],
+    "0815": [
+        "Fire"
+    ],
+    "0816": [
+        "Water"
+    ],
+    "0817": [
+        "Water"
+    ],
+    "0818": [
+        "Water"
+    ],
+    "0819": [
+        "Normal"
+    ],
+    "0820": [
+        "Normal"
+    ],
+    "0821": [
+        "Flying"
+    ],
+    "0822": [
+        "Flying"
+    ],
+    "0823": [
+        "Flying",
+        "Steel"
+    ],
+    "0824": [
+        "Bug"
+    ],
+    "0825": [
+        "Bug",
+        "Psychic"
+    ],
+    "0826": [
+        "Bug",
+        "Psychic"
+    ],
+    "0827": [
+        "Dark"
+    ],
+    "0828": [
+        "Dark"
+    ],
+    "0829": [
+        "Grass"
+    ],
+    "0830": [
+        "Grass"
+    ],
+    "0831": [
+        "Normal"
+    ],
+    "0832": [
+        "Normal"
+    ],
+    "0833": [
+        "Water"
+    ],
+    "0834": [
+        "Water",
+        "Rock"
+    ],
+    "0835": [
+        "Electric"
+    ],
+    "0836": [
+        "Electric"
+    ],
+    "0837": [
+        "Rock"
+    ],
+    "0838": [
+        "Rock",
+        "Fire"
+    ],
+    "0839": [
+        "Rock",
+        "Fire"
+    ],
+    "0840": [
+        "Grass",
+        "Dragon"
+    ],
+    "0841": [
+        "Grass",
+        "Dragon"
+    ],
+    "0842": [
+        "Grass",
+        "Dragon"
+    ],
+    "0843": [
+        "Ground"
+    ],
+    "0844": [
+        "Ground"
+    ],
+    "0845": [
+        "Flying",
+        "Water"
+    ],
+    "0846": [
+        "Water"
+    ],
+    "0847": [
+        "Water"
+    ],
+    "0848": [
+        "Electric",
+        "Poison"
+    ],
+    "0849": [
+        "Electric",
+        "Poison"
+    ],
+    "0850": [
+        "Fire",
+        "Bug"
+    ],
+    "0851": [
+        "Fire",
+        "Bug"
+    ],
+    "0852": [
+        "Fighting"
+    ],
+    "0853": [
+        "Fighting"
+    ],
+    "0854": [
+        "Ghost"
+    ],
+    "0855": [
+        "Ghost"
+    ],
+    "0856": [
+        "Psychic"
+    ],
+    "0857": [
+        "Psychic"
+    ],
+    "0858": [
+        "Psychic",
+        "Fairy"
+    ],
+    "0859": [
+        "Dark",
+        "Fairy"
+    ],
+    "0860": [
+        "Dark",
+        "Fairy"
+    ],
+    "0861": [
+        "Dark",
+        "Fairy"
+    ],
+    "0862": [
+        "Dark",
+        "Normal"
+    ],
+    "0863": [
+        "Steel"
+    ],
+    "0864": [
+        "Ghost"
+    ],
+    "0865": [
+        "Fighting"
+    ],
+    "0866": [
+        "Ice",
+        "Psychic"
+    ],
+    "0867": [
+        "Ground",
+        "Ghost"
+    ],
+    "0868": [
+        "Fairy"
+    ],
+    "0869": [
+        "Fairy"
+    ],
+    "0870": [
+        "Fighting"
+    ],
+    "0871": [
+        "Electric"
+    ],
+    "0872": [
+        "Ice",
+        "Bug"
+    ],
+    "0873": [
+        "Ice",
+        "Bug"
+    ],
+    "0874": [
+        "Rock"
+    ],
+    "0875": [
+        "Ice"
+    ],
+    "0876": [
+        "Psychic",
+        "Normal"
+    ],
+    "0877": [
+        "Electric",
+        "Dark"
+    ],
+    "0878": [
+        "Steel"
+    ],
+    "0879": [
+        "Steel"
+    ],
+    "0880": [
+        "Electric",
+        "Dragon"
+    ],
+    "0881": [
+        "Electric",
+        "Ice"
+    ],
+    "0882": [
+        "Water",
+        "Dragon"
+    ],
+    "0883": [
+        "Water",
+        "Ice"
+    ],
+    "0884": [
+        "Steel",
+        "Dragon"
+    ],
+    "0885": [
+        "Dragon",
+        "Ghost"
+    ],
+    "0886": [
+        "Dragon",
+        "Ghost"
+    ],
+    "0887": [
+        "Dragon",
+        "Ghost"
+    ],
+    "0888": [
+        "Fairy"
+    ],
+    "0889": [
+        "Fighting"
+    ],
+    "0890": [
+        "Poison",
+        "Dragon"
+    ],
+    "0891": [
+        "Fighting"
+    ],
+    "0892": [
+        "Fighting",
+        "Dark"
+    ],
+    "0893": [
+        "Dark",
+        "Grass"
+    ],
+    "0894": [
+        "Electric"
+    ],
+    "0895": [
+        "Dragon"
+    ],
+    "0896": [
+        "Ice"
+    ],
+    "0897": [
+        "Ghost"
+    ],
+    "0898": [
+        "Psychic",
+        "Grass"
+    ]
+}
