@@ -6,8 +6,8 @@ This acts as a makeshift api endpoint(Don't judge yet) till I figure out how to 
 
 The files can be accessed through 
 
-https://gastly-dex.github.io/PokedexData/...
+https://absanthosh.github.io/PokedexData/...
 
 Example:
 
-https://gastly-dex.github.io/PokedexData/PokemonCries/0001.mp3
+https://absanthosh.github.io/PokedexData/PokemonCries/0001.mp3
